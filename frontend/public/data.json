@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "feed-18",
+      "category": "LOCAL",
+      "date": "March 27, 2026",
+      "title": "Randall Preserve/Genga Highlighted as Key Coastal \"Ecological Staircase\"",
+      "summary": "The Coastal Corridor Alliance provided an update on the Randall Preserve/Genga, emphasizing its ecological significance as one of the last \"ecological staircases\" with intact lowland/wetland habitats and coastal mesa. The preserve supports diverse native habitats and is home to numerous special status species, such as the California Gnatcatcher and San Diego Fairy Shrimp. The update also references the property's past as an oil field and the continued conservation efforts by the Coastal Corridor Alliance.",
+      "source": "Coastal Corridor Alliance",
+      "sentiment": "POSITIVE"
+    },
+    {
       "id": "feed-17",
       "category": "OFFICIAL",
       "date": "April 03, 2026",
