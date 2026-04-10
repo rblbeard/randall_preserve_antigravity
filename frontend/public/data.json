@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "feed-19",
+      "category": "OFFICIAL",
+      "date": "April 10, 2026",
+      "title": "Randall Preserve to Honor Indigenous Heritage, Including Sacred Cultural Sites",
+      "summary": "The Frank and Joan Randall Preserve is recognized for its rich indigenous heritage, including the historic Genga village and three sacred Native American cultural sites, with evidence of Tongva and Acjachemen habitation spanning over 3,000 years. Future plans for the 387-acre preserve, managed by the Mountains Recreation & Conservation Authority (MRCA), explicitly aim to collaborate with the community and honor these Native American tribes. This commitment underscores the preserve's role in both ecological conservation and cultural preservation, aligning with California's 30x30 goal.",
+      "source": "Official Website - Cottie Petrie-Norris",
+      "sentiment": "POSITIVE"
+    },
+    {
       "id": "feed-18",
       "category": "LOCAL",
       "date": "March 27, 2026",
