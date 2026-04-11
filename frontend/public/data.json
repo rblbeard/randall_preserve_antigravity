@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "feed-20",
+      "category": "OFFICIAL",
+      "date": "April 11, 2026",
+      "title": "Randall Preserve Publishes Recreation Impact Analysis and Visitor Management Guidelines",
+      "summary": "The Frank and Joan Randall Preserve has published a Recreation Impact Analysis (RIA) document to summarize research on ecological carrying capacity and its applicability to manage visitor use while protecting sensitive ecological features. The document outlines the development of visitor management guidelines and an adaptive management plan, emphasizing that the Preserve is currently undergoing oil remediation and will be open to the public upon completion of this work. It also notes that an ethnographer has been hired to create an appropriate land acknowledgment for the Preserve.",
+      "source": "Randall Preserve Planning Team / Coastal Corridor Alliance",
+      "sentiment": "POSITIVE"
+    },
+    {
       "id": "feed-19",
       "category": "OFFICIAL",
       "date": "April 10, 2026",
