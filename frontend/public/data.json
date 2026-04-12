@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "feed-21",
+      "category": "OFFICIAL",
+      "date": "April 08, 2026",
+      "title": "Randall Preserve Job Opening: Stewardship Technician Continues Active Recruitment",
+      "summary": "The Nature Conservancy continues its active recruitment for a Stewardship Technician at the Randall Preserve, with new listings appearing on prominent conservation job boards. This role is essential for maintaining preserve areas, removing exotic species, monitoring wildlife, and managing equipment and infrastructure, underscoring ongoing operational efforts for the preserve's ecological health and public access readiness.",
+      "source": "Conservation Job Board / The Nature Conservancy",
+      "sentiment": "POSITIVE"
+    },
+    {
       "id": "feed-20",
       "category": "OFFICIAL",
       "date": "April 11, 2026",
