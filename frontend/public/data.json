@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "id": "feed-24",
+      "category": "OFFICIAL",
+      "date": "April 10, 2026",
+      "title": "Coastal Corridor Alliance Presents on Banning Ranch Conservation Success at CNPS 2026 Conference",
+      "summary": "Melanie M. Schlotterbeck of the Coastal Corridor Alliance delivered a presentation titled \"Protecting Banning Ranch: A David vs. Goliath Story of Community Activism, Unprecedented Philanthropy, and Conservation Success\" at the CNPS 2026 Conference. The session, made publicly available on YouTube on April 10, 2026, reflects on the significant progress made in the conservation of Banning Ranch within the context of California's 30x30 initiative.",
+      "source": "CNPS 2026 Conference / Coastal Corridor Alliance (via YouTube)",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "id": "feed-23",
+      "category": "LOCAL",
+      "date": "April 14, 2026",
+      "title": "AirTalk Revisits the Future of Banning Ranch",
+      "summary": "The LAist radio program 'AirTalk with Larry Mantle' featured another segment on April 14, 2026, dedicated to exploring 'the future of Banning Ranch.' This follow-up discussion reinforces ongoing public interest and dialogue surrounding the preserve.",
+      "source": "LAist",
+      "sentiment": "NEUTRAL"
+    },
+    {
       "id": "feed-22",
       "category": "LOCAL",
       "date": "April 11, 2026",
