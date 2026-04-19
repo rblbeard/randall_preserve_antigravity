@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "feed-25",
+      "category": "LOCAL",
+      "date": "April 16, 2026",
+      "title": "Los Cerritos Wetlands Land Trust Urges Community to Support Randall Preserve Land Acquisition",
+      "summary": "The Los Cerritos Wetlands Land Trust (LCWLT) has called on community members to contact the Newport-Mesa Unified School District (NMUSD), advocating for the sale of an 11.36-acre parcel adjacent to the Randall Preserve for permanent open-space protection. The LCWLT emphasizes that this preservation is crucial for maintaining the integrity of the preserve, safeguarding sensitive species, and ensuring public access to natural coastal spaces. They encourage support for negotiations with the Mountains Recreation and Conservation Authority (MRCA) and other conservation partners to prevent development on this vulnerable area.",
+      "source": "Los Cerritos Wetlands Land Trust",
+      "sentiment": "POSITIVE"
+    },
+    {
       "id": "feed-24",
       "category": "OFFICIAL",
       "date": "April 10, 2026",
