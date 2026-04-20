@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "feed-26",
+      "category": "LOCAL",
+      "date": "April 12, 2026",
+      "title": "NMUSD Board Identifies Preferred Proposal for Banning Ranch Property",
+      "summary": "The Newport-Mesa Unified School District (NMUSD) Board of Education has identified the 'most desirable' proposal for its district-owned Banning Ranch property. The proposal, discussed on April 12, 2026, includes potential revenue generation estimated between $20-$40 million in the first five years and up to $1.6 billion over 99 years, while also considering public access to Randall Preserve and environmental factors. This update reflects ongoing developments regarding the land adjacent to the preserve.",
+      "source": "Stu News Newport",
+      "sentiment": "MIXED"
+    },
+    {
       "id": "feed-25",
       "category": "LOCAL",
       "date": "April 16, 2026",
