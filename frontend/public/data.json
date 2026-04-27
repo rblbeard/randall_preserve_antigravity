@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "feed-29",
+      "category": "LOCAL",
+      "date": "April 24, 2026",
+      "title": "AirTalk Revisits the Future of Banning Ranch",
+      "summary": "The LAist radio program 'AirTalk with Larry Mantle' featured another segment on April 24, 2026, dedicated to exploring 'the future of Banning Ranch.' This follow-up discussion reinforces ongoing public interest and dialogue surrounding the preserve.",
+      "source": "LAist",
+      "sentiment": "NEUTRAL"
+    },
+    {
       "id": "feed-28",
       "category": "OFFICIAL",
       "date": "April 23, 2026",
