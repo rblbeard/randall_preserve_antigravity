@@ -1,5 +1,15 @@
 {
-  "feed": [],
+  "feed": [
+    {
+      "id": "randall-preserve-advisory-committee-apr-2026",
+      "category": "OFFICIAL",
+      "date": "April 25, 2026",
+      "title": "Randall Preserve Advisory Committee Reviews Draft Recreation and Open Space Plan",
+      "summary": "The Randall Preserve Advisory Committee recently convened to review and discuss a draft recreation and open space plan for the preserve. This plan details proposed public access, including seven miles of trails designed to protect diverse wetland wildlife while opening pristine outdoor spaces to the public. Plans also include connecting Talbert Regional Park to enhance regional accessibility.",
+      "source": "Supervisor Foley's Weekly Update (GovDelivery)",
+      "sentiment": "POSITIVE"
+    }
+  ],
   "timeline": [
     {
       "id": "t1",
