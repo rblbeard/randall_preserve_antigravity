@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "reddit-randall-preserve-story-may-2026",
+      "category": "SOCIAL",
+      "date": "May 10, 2026",
+      "title": "Reddit Community Discusses History and Future of Randall Preserve",
+      "summary": "A recent Reddit thread on r/orangecounty explored the history of Banning Ranch becoming the Randall Preserve, including the significant $50 million donation from Frank and Joann Randall for its acquisition. The discussion touched on the area's past as an oil well site and ongoing efforts for tribal recognition, highlighting community engagement in its preservation.",
+      "source": "Reddit (r/orangecounty)",
+      "sentiment": "MIXED"
+    },
+    {
       "id": "randall-preserve-nmusd-property-may-2026",
       "category": "LOCAL",
       "date": "May 04, 2026",
