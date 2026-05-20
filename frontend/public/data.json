@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "reddit-randall-preserve-discussion-may-2026-v2",
+      "category": "SOCIAL",
+      "date": "May 13, 2026",
+      "title": "Reddit Users Discuss Randall Preserve's Development History and Environmental Concerns",
+      "summary": "A Reddit thread on r/orangecounty recently featured a user inquiring about the history of the Randall Preserve, expressing surprise that the area was preserved rather than developed for retail/residential use. The user also raised questions about whether it was a toxic waste site and the influence of developers, indicating ongoing community interest and some skepticism about the preserve's past.",
+      "source": "Reddit (r/orangecounty)",
+      "sentiment": "MIXED"
+    },
+    {
       "id": "reddit-randall-preserve-story-may-2026",
       "category": "SOCIAL",
       "date": "May 10, 2026",
