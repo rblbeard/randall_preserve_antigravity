@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "coastal-corridor-alliance-new-mission-may-2026",
+      "category": "LOCAL",
+      "date": "May 17, 2026",
+      "title": "Coastal Corridor Alliance Broadens Mission to Protect Randall Preserve and Coastal Ecosystems",
+      "summary": "The Coastal Corridor Alliance, formerly Banning Ranch Conservancy, announced an expansion of its mission on May 17, 2026, to encompass the protection and rejuvenation of vital ecosystems along the Santa Ana River Coastal Corridor, including the Randall Preserve. The organization encourages community engagement through volunteerism, learning, and future planning, and has also launched a new merchandise store to support its conservation efforts.",
+      "source": "Coastal Corridor Alliance",
+      "sentiment": "POSITIVE"
+    },
+    {
       "id": "reddit-randall-preserve-discussion-may-2026-v2",
       "category": "SOCIAL",
       "date": "May 13, 2026",
