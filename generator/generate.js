@@ -4,6 +4,7 @@ import { fileURLToPath } from 'url';
 import simpleGit from 'simple-git';
 import dotenv from 'dotenv';
 import { z } from 'zod';
+import { GoogleGenAI } from '@google/genai';
 
 dotenv.config();
 
@@ -110,35 +111,35 @@ async function generateUpdates(existingData) {
     `;
 
     try {
-        console.log("Sending request to Gemini API (v1beta for search grounding)...");
-        // Grounding currently requires the v1beta endpoint
-        const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                contents: [{ parts: [{ text: prompt }] }],
-                tools: [{ google_search: {} }]
-            })
+        console.log("Sending request to Gemini API via @google/genai SDK (with Google Search Grounding)...");
+        const ai = new GoogleGenAI({ apiKey: API_KEY });
+        const response = await ai.models.generateContent({
+            model: 'gemini-2.5-flash',
+            contents: prompt,
+            config: {
+                tools: [{ googleSearch: {} }]
+            }
         });
 
-        console.log("Response status:", response.status);
-        if (!response.ok) {
-            const errText = await response.text();
-            throw new Error(`Gemini API Error: ${response.status} ${errText}`);
-        }
-
-        const data = await response.json();
-        
         // Log grounding metadata to ensure it's actually searching!
-        const groundingMetadata = data.candidates?.[0]?.groundingMetadata;
-        if (groundingMetadata && groundingMetadata.searchEntryPoint) {
+        const groundingMetadata = response.candidates?.[0]?.groundingMetadata;
+        if (groundingMetadata) {
             console.log("✅ Google Search Grounding was utilized!");
-            console.log("Search chunks found:", groundingMetadata.groundingChunks?.length || 0);
+            const chunks = groundingMetadata.groundingChunks || [];
+            console.log(`Search chunks found: ${chunks.length}`);
+            if (chunks.length > 0) {
+                console.log("Source URLs:");
+                chunks.forEach((chunk, i) => {
+                    if (chunk.web?.uri) {
+                        console.log(`  ${i + 1}. ${chunk.web.uri} (${chunk.web.title || 'No Title'})`);
+                    }
+                });
+            }
         } else {
             console.log("⚠️ No grounding metadata returned (LLM may have answered from memory).");
         }
 
-        let newJsonStr = data.candidates?.[0]?.content?.parts?.[0]?.text;
+        let newJsonStr = response.text || response.candidates?.[0]?.content?.parts?.[0]?.text;
         console.log("Received text response from Gemini.");
         
         if (!newJsonStr) {
@@ -149,7 +150,7 @@ async function generateUpdates(existingData) {
         if (newJsonStr.includes('```json')) {
             newJsonStr = newJsonStr.match(/```json\n([\s\S]*?)\n```/)[1];
         } else if (newJsonStr.includes('```')) {
-             newJsonStr = newJsonStr.match(/```\n([\s\S]*?)\n```/)[1];
+            newJsonStr = newJsonStr.match(/```\n([\s\S]*?)\n```/)[1];
         }
 
         const newData = JSON.parse(newJsonStr);
