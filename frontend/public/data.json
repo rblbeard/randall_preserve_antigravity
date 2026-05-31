@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "nmusd-mrca-negotiations-may-2026",
+      "category": "OFFICIAL",
+      "date": "May 19, 2026",
+      "title": "NMUSD Board Holds Closed Session on Banning Ranch Land Sale Negotiations with MRCA",
+      "summary": "The Newport-Mesa Unified School District (NMUSD) Board of Education held a closed session on May 19, 2026, to confer with real property negotiators regarding the district-owned 11.36-acre Banning Ranch land, adjacent to the Randall Preserve. This follows NMUSD's receipt of a letter from the Mountains Recreation and Conservation Authority (MRCA) in March 2026 expressing interest in the surplus land for open space purposes, leading to good faith negotiations for mutually satisfactory lease or purchase terms.",
+      "source": "Stu News Newport",
+      "sentiment": "NEUTRAL"
+    },
+    {
       "id": "coastal-corridor-alliance-new-mission-may-2026",
       "category": "LOCAL",
       "date": "May 17, 2026",
@@ -111,5 +120,6 @@
       "title": "Fuel Modification",
       "description": "Spring Clearance Scheduled: Late April"
     }
-  ]
+  ],
+  "lastUpdated": "2026-05-31T15:34:09.591Z"
 }
