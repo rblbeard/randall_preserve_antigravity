@@ -207,6 +207,19 @@ const EBIRD_TOKEN = process.env.EBIRD_API_TOKEN;
 const PRESERVE_LAT = 33.635;   // Randall Preserve / Banning Ranch, Newport Beach
 const PRESERVE_LNG = -117.958;
 
+// Fetch a representative species photo from Wikipedia (free, no key)
+async function birdImage(commonName) {
+    try {
+        const title = encodeURIComponent(commonName.replace(/ /g, '_'));
+        const r = await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${title}`, {
+            headers: { 'User-Agent': 'RandallPreserveWatch/1.0 (https://randallpreserve.news; rb@varx1.com)', 'accept': 'application/json' },
+        });
+        if (!r.ok) return null;
+        const j = await r.json();
+        return (j.thumbnail && j.thumbnail.source) || null;
+    } catch { return null; }
+}
+
 async function fetchBirds() {
     if (!EBIRD_TOKEN) {
         console.warn("No EBIRD_API_TOKEN set — skipping bird sightings.");
@@ -238,10 +251,19 @@ async function fetchBirds() {
             if (!seen.has(o.comName)) { seen.add(o.comName); recentSightings.push(fmt(o, false)); }
         }
         const notableSightings = notableRaw.map(o => fmt(o, true)).slice(0, 12);
+        const recentTop = recentSightings.slice(0, 24);
 
-        console.log(`eBird: ${recentSightings.length} recent species, ${notableSightings.length} notable sightings.`);
+        // Attach a Wikipedia photo for each unique species (parallel)
+        const speciesList = [...new Set([...notableSightings, ...recentTop].map(b => b.species))];
+        const imgMap = {};
+        await Promise.all(speciesList.map(async (s) => { imgMap[s] = await birdImage(s); }));
+        for (const b of notableSightings) b.imageUrl = imgMap[b.species] || null;
+        for (const b of recentTop) b.imageUrl = imgMap[b.species] || null;
+        const withImg = Object.values(imgMap).filter(Boolean).length;
+
+        console.log(`eBird: ${recentSightings.length} recent species, ${notableSightings.length} notable; ${withImg}/${speciesList.length} with photos.`);
         return {
-            recentSightings: recentSightings.slice(0, 24),
+            recentSightings: recentTop,
             notableSightings,
             speciesCount: recentSightings.length,
             lastBirdUpdate: new Date().toISOString(),

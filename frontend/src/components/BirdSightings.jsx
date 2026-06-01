@@ -33,6 +33,7 @@ const BirdSightings = ({ birds }) => {
           <div className="grid gap-4 sm:grid-cols-2">
             {notable.map((b, i) => (
               <div key={i} className="p-6 rounded-3xl border border-amber-400/30 bg-amber-500/5 backdrop-blur-md ring-1 ring-inset ring-amber-500/20 hover:-translate-y-1 transition-all duration-300 hover:shadow-lg hover:shadow-amber-500/5">
+                {b.imageUrl && <img src={b.imageUrl} alt={b.species} loading="lazy" className="w-full h-44 object-cover rounded-2xl mb-4 ring-1 ring-slate-900/5" />}
                 <div className="flex items-center justify-between mb-2">
                   <span className="text-xs font-bold uppercase tracking-wider text-amber-600 bg-amber-500/10 px-2.5 py-1 rounded-full ring-1 ring-inset ring-amber-500/20">★ Rare</span>
                   <span className="text-xs text-slate-400 flex items-center gap-1"><Calendar size={12} /> {fmtDate(b.date)}</span>
@@ -56,9 +57,14 @@ const BirdSightings = ({ birds }) => {
             <div className="grid gap-1 sm:grid-cols-2">
               {recent.map((b, i) => (
                 <div key={i} className="flex items-center justify-between py-2.5 px-3 rounded-xl hover:bg-white/60 transition-colors">
-                  <div className="min-w-0">
-                    <span className="font-semibold text-slate-700">{b.species}</span>
-                    <span className="block text-xs text-slate-400 truncate">{b.location}</span>
+                  <div className="flex items-center gap-3 min-w-0">
+                    {b.imageUrl
+                      ? <img src={b.imageUrl} alt="" loading="lazy" className="w-11 h-11 rounded-lg object-cover shrink-0 ring-1 ring-slate-900/5" />
+                      : <div className="w-11 h-11 rounded-lg bg-emerald-500/10 shrink-0" />}
+                    <div className="min-w-0">
+                      <span className="font-semibold text-slate-700">{b.species}</span>
+                      <span className="block text-xs text-slate-400 truncate">{b.location}</span>
+                    </div>
                   </div>
                   <span className="text-xs text-slate-400 shrink-0 ml-2">{fmtDate(b.date)}</span>
                 </div>
