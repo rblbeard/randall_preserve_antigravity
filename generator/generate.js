@@ -287,6 +287,10 @@ async function main() {
         // For demonstration, we just ask the LLM to invent a plausible update based on context
         const updatedData = process.env.GEMINI_API_KEY ? await generateUpdates(data) : data;
 
+        // Preserve the curated Restoration timeline + Neighbor Watch (the AI only updates the feed)
+        if (data.timeline && data.timeline.length) updatedData.timeline = data.timeline;
+        if (data.neighborWatch && data.neighborWatch.length) updatedData.neighborWatch = data.neighborWatch;
+
         // Fetch live bird sightings from eBird (non-fatal; keeps prior data if it fails)
         const birds = await fetchBirds();
         if (birds) updatedData.birds = birds;

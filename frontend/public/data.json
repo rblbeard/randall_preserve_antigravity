@@ -87,29 +87,58 @@
       "id": "t1",
       "year": "2022",
       "month": "Dec",
-      "title": "Acquisition",
-      "description": "387 acres protected.",
-      "status": "completed"
+      "title": "Land Acquired",
+      "description": "387 acres on the Newport Beach coast protected through a $50 million private gift \u2014 among California's largest coastal conservation acquisitions.",
+      "status": "complete"
     },
     {
       "id": "t2",
-      "year": "2023 - 2027",
-      "title": "Cleanup (Oil Remediation)",
-      "description": "Capping 300+ wells.",
-      "status": "in-progress"
+      "year": "2023",
+      "title": "Oil Operations Wind Down",
+      "description": "Active oil production ends; environmental assessment and remediation planning begin across the former oil field.",
+      "status": "complete"
     },
     {
       "id": "t3",
-      "year": "2024 - 2026",
-      "title": "Restoration Planning",
-      "description": "Resource & Resilience plans.",
-      "status": "in-progress"
+      "year": "2023\u20132027",
+      "title": "Oil Well Remediation",
+      "description": "More than 300 former oil wells are being capped and abandoned to environmental standards \u2014 the largest phase of cleanup, running through 2027.",
+      "status": "active"
     },
     {
       "id": "t4",
+      "year": "2024\u20132026",
+      "title": "Habitat & Resource Planning",
+      "description": "Resource management and restoration plans developed to guide the return of native coastal sage scrub, wetlands, and bluff habitats.",
+      "status": "active"
+    },
+    {
+      "id": "t5",
+      "year": "2025",
+      "title": "Recreation & Open Space Plan (Draft)",
+      "description": "Draft plan proposes roughly 7 miles of public trails, gateways, and interpretive areas \u2014 currently under review.",
+      "status": "active"
+    },
+    {
+      "id": "t6",
+      "year": "2026",
+      "month": "May",
+      "title": "Boundary Parcel Negotiations",
+      "description": "MRCA and Newport-Mesa Unified School District enter negotiations over an 11.36-acre parcel inside the preserve boundary.",
+      "status": "active"
+    },
+    {
+      "id": "t7",
+      "year": "2027",
+      "title": "Remediation Target",
+      "description": "Targeted completion of oil-well capping and major site cleanup.",
+      "status": "future"
+    },
+    {
+      "id": "t8",
       "year": "2027+",
-      "title": "Public Access Construction",
-      "description": "Trails and gateways.",
+      "title": "Public Access Opens",
+      "description": "Phased opening of trails, gateways, and restored coastal habitat to the public.",
       "status": "future"
     }
   ],
@@ -118,7 +147,25 @@
       "id": "nw1",
       "type": "FIRE",
       "title": "Fuel Modification",
-      "description": "Spring Clearance Scheduled: Late April"
+      "description": "Seasonal brush clearance scheduled along preserve edges for wildfire safety."
+    },
+    {
+      "id": "nw2",
+      "type": "POLICY",
+      "title": "AB 1203 \u2014 Coastal Land Protection",
+      "description": "State bill touching coastal land protection; a committee hearing was postponed to the summer 2026 session. Public input matters most at the hearing stage."
+    },
+    {
+      "id": "nw3",
+      "type": "POLICY",
+      "title": "NMUSD Parcel Negotiations",
+      "description": "Newport-Mesa school board is in closed-session negotiations with the MRCA over the 11.36-acre parcel inside the preserve boundary (since May 19, 2026)."
+    },
+    {
+      "id": "nw4",
+      "type": "INFO",
+      "title": "Trail Status",
+      "description": "Public trails remain under development; official access is expected in 2027 or later. Please respect posted closures and boundaries."
     }
   ],
   "birds": {
@@ -524,6 +571,6 @@
     ],
     "speciesCount": 40,
     "lastBirdUpdate": "2026-06-01T22:52:06.406Z",
-    "source": "eBird · Cornell Lab of Ornithology"
+    "source": "eBird \u00b7 Cornell Lab of Ornithology"
   }
 }
