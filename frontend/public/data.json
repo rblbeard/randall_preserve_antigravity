@@ -120,5 +120,374 @@
       "title": "Fuel Modification",
       "description": "Spring Clearance Scheduled: Late April"
     }
-  ]
+  ],
+  "birds": {
+    "recentSightings": [
+      {
+        "species": "Canada Goose",
+        "sciName": "Branta canadensis",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 4,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Mallard",
+        "sciName": "Anas platyrhynchos",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 3,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Rock Pigeon",
+        "sciName": "Columba livia",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 1,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Mourning Dove",
+        "sciName": "Zenaida macroura",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 6,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Allen's Hummingbird",
+        "sciName": "Selasphorus sasin",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 1,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Black-bellied Plover",
+        "sciName": "Pluvialis squatarola",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 4,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Hudsonian Whimbrel",
+        "sciName": "Numenius hudsonicus",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 1,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Western Gull",
+        "sciName": "Larus occidentalis",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 5,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "California Gull",
+        "sciName": "Larus californicus",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 1,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Least Tern",
+        "sciName": "Sternula antillarum",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 1,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Caspian Tern",
+        "sciName": "Hydroprogne caspia",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 6,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Elegant Tern",
+        "sciName": "Thalasseus elegans",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 2,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Royal Tern",
+        "sciName": "Thalasseus maximus",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 1,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Western Grebe",
+        "sciName": "Aechmophorus occidentalis",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 2,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Clark's Grebe",
+        "sciName": "Aechmophorus clarkii",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 2,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Double-crested Cormorant",
+        "sciName": "Nannopterum auritum",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 4,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Snowy Egret",
+        "sciName": "Egretta thula",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 2,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Great Egret",
+        "sciName": "Ardea alba",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 4,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Great Blue Heron",
+        "sciName": "Ardea herodias",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 3,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Brown Pelican",
+        "sciName": "Pelecanus occidentalis",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 6,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Osprey",
+        "sciName": "Pandion haliaetus",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 2,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Black Phoebe",
+        "sciName": "Sayornis nigricans",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 2,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "American Crow",
+        "sciName": "Corvus brachyrhynchos",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 2,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      },
+      {
+        "species": "Tree Swallow",
+        "sciName": "Tachycineta bicolor",
+        "location": "Brookhurst Marsh",
+        "date": "2026-06-01 08:32",
+        "count": 2,
+        "lat": 33.636989,
+        "lng": -117.964797,
+        "notable": false
+      }
+    ],
+    "notableSightings": [
+      {
+        "species": "Cedar Waxwing",
+        "sciName": "Bombycilla cedrorum",
+        "location": "Mile Square Regional Park, Fountain Valley",
+        "date": "2026-06-01 12:47",
+        "count": 1,
+        "lat": 33.7246609,
+        "lng": -117.9395199,
+        "notable": true
+      },
+      {
+        "species": "Western Warbling Vireo",
+        "sciName": "Vireo swainsoni",
+        "location": "Huntington Central Park--East",
+        "date": "2026-06-01 10:14",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true
+      },
+      {
+        "species": "Red-eyed Vireo",
+        "sciName": "Vireo olivaceus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-06-01 10:14",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true
+      },
+      {
+        "species": "Black Scoter",
+        "sciName": "Melanitta americana",
+        "location": "Bolsa Chica--walkbridge/inner bay",
+        "date": "2026-05-31 13:59",
+        "count": 1,
+        "lat": 33.6965128,
+        "lng": -118.0451372,
+        "notable": true
+      },
+      {
+        "species": "Elegant Tern",
+        "sciName": "Thalasseus elegans",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary, Irvine",
+        "date": "2026-05-31 12:45",
+        "count": 3,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
+        "notable": true
+      },
+      {
+        "species": "Blue-winged Teal",
+        "sciName": "Spatula discors",
+        "location": "Wintersburg channel",
+        "date": "2026-05-31 11:30",
+        "count": 1,
+        "lat": 33.710123,
+        "lng": -118.032789,
+        "notable": true
+      },
+      {
+        "species": "Red-eyed Vireo",
+        "sciName": "Vireo olivaceus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-05-31 09:47",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true
+      },
+      {
+        "species": "Red-eyed Vireo",
+        "sciName": "Vireo olivaceus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-05-31 08:41",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true
+      },
+      {
+        "species": "Red-eyed Vireo",
+        "sciName": "Vireo olivaceus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-05-31 08:10",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true
+      },
+      {
+        "species": "Cackling Goose",
+        "sciName": "Branta hutchinsii",
+        "location": "Mile Square Regional Park, Fountain Valley",
+        "date": "2026-05-31 07:47",
+        "count": 1,
+        "lat": 33.7246609,
+        "lng": -117.9395199,
+        "notable": true
+      },
+      {
+        "species": "Red-eyed Vireo",
+        "sciName": "Vireo olivaceus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-05-31 07:47",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true
+      },
+      {
+        "species": "Red-eyed Vireo",
+        "sciName": "Vireo olivaceus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-05-31 07:18",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true
+      }
+    ],
+    "speciesCount": 40,
+    "lastBirdUpdate": "2026-06-01T22:33:48.458Z",
+    "source": "eBird · Cornell Lab of Ornithology"
+  }
 }

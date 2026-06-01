@@ -78,16 +78,26 @@ async function generateUpdates(existingData) {
     console.log("Contacting Gemini for intelligence updates with Google Search Grounding...");
     
     // Create a strict boundary between what we want it to search, and what it should output.
+    const today = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
     const prompt = `
-    TASK: You are an intelligence analyst for the 'Randall Preserve Watch' dashboard. 
-    You must perform a Google Search for recent news or social chatter (within the last 7 to 14 days) regarding "Banning Ranch Newport Beach", "Randall Preserve", or "Newport Banning Land Trust". 
-    To find community sentiment and social data, you should specifically include searches like: "site:reddit.com/r/orangecounty Banning Ranch" or "site:reddit.com/r/newportbeach Randall Preserve".
+    TODAY'S DATE: ${today}
 
-    If you find a new, factual, and relevant update or a notable community discussion on Reddit/public forums, generate 1 new intelligence feed item based strictly on that grounded search result. 
-    - If it's a news article, use the categories: "OFFICIAL", "FUNDING", or "LOCAL".
-    - If it's community chatter from Reddit or a forum, use the category: "SOCIAL".
-    Return ONLY a valid JSON object. 
-    If there is absolutely no new relevant news or social chatter, you still must return a valid JSON object, but you can omit adding a new feed item to the array.
+    TASK: You are an intelligence analyst for the 'Randall Preserve Watch' dashboard.
+    TODAY IS ${today}. You do NOT know anything current — you MUST use Google Search to find news published in the last 30 days.
+
+    Search for ALL of the following queries and report what you find:
+    1. "Randall Preserve" Newport Beach 2025 OR 2026
+    2. "Banning Ranch" Newport Beach conservation 2025 OR 2026
+    3. "Coastal Corridor Alliance" Newport Beach
+    4. site:reddit.com "Randall Preserve" OR "Banning Ranch"
+    5. "Newport Banning Land Trust" OR "MRCA" Randall Preserve
+    6. Randall Preserve trails restoration update
+
+    If you find ANY new, factual, and relevant update or notable community discussion, generate 1-3 new intelligence feed items based strictly on those grounded search results.
+    - News articles: use category "OFFICIAL", "FUNDING", or "LOCAL"
+    - Reddit/forum posts: use category "SOCIAL"
+    Return ONLY a valid JSON object.
+    If there is truly no new relevant content after searching, return the existing data unchanged.
 
     CRITICAL INSTRUCTION: You MUST return a JSON object with this exact structure:
     {
@@ -192,6 +202,57 @@ async function updateGit() {
     }
 }
 
+// ── Live bird sightings from eBird (Cornell Lab of Ornithology) ──
+const EBIRD_TOKEN = process.env.EBIRD_API_TOKEN;
+const PRESERVE_LAT = 33.635;   // Randall Preserve / Banning Ranch, Newport Beach
+const PRESERVE_LNG = -117.958;
+
+async function fetchBirds() {
+    if (!EBIRD_TOKEN) {
+        console.warn("No EBIRD_API_TOKEN set — skipping bird sightings.");
+        return null;
+    }
+    const headers = { 'X-eBirdApiToken': EBIRD_TOKEN };
+    const fmt = (o, notable) => ({
+        species: o.comName,
+        sciName: o.sciName,
+        location: o.locName,
+        date: o.obsDt,
+        count: (o.howMany ?? null),
+        lat: o.lat,
+        lng: o.lng,
+        notable: !!notable,
+    });
+    try {
+        // Recent observations within ~5km of the preserve (last 14 days)
+        const recRes = await fetch(`https://api.ebird.org/v2/data/obs/geo/recent?lat=${PRESERVE_LAT}&lng=${PRESERVE_LNG}&dist=5&back=14&maxResults=40`, { headers });
+        const recentRaw = recRes.ok ? await recRes.json() : [];
+        // Notable / rare sightings within ~15km (the "special bird" feed)
+        const notRes = await fetch(`https://api.ebird.org/v2/data/obs/geo/recent/notable?lat=${PRESERVE_LAT}&lng=${PRESERVE_LNG}&dist=15&detail=simple&back=14&maxResults=25`, { headers });
+        const notableRaw = notRes.ok ? await notRes.json() : [];
+
+        // De-dupe recent by species, keep most recent first
+        const seen = new Set();
+        const recentSightings = [];
+        for (const o of recentRaw) {
+            if (!seen.has(o.comName)) { seen.add(o.comName); recentSightings.push(fmt(o, false)); }
+        }
+        const notableSightings = notableRaw.map(o => fmt(o, true)).slice(0, 12);
+
+        console.log(`eBird: ${recentSightings.length} recent species, ${notableSightings.length} notable sightings.`);
+        return {
+            recentSightings: recentSightings.slice(0, 24),
+            notableSightings,
+            speciesCount: recentSightings.length,
+            lastBirdUpdate: new Date().toISOString(),
+            source: "eBird · Cornell Lab of Ornithology",
+        };
+    } catch (e) {
+        console.error("eBird fetch failed (non-fatal):", e.message);
+        return null;
+    }
+}
+
 async function main() {
     try {
         if (!process.env.GEMINI_API_KEY) {
@@ -204,7 +265,13 @@ async function main() {
         // For demonstration, we just ask the LLM to invent a plausible update based on context
         const updatedData = process.env.GEMINI_API_KEY ? await generateUpdates(data) : data;
 
+        // Fetch live bird sightings from eBird (non-fatal; keeps prior data if it fails)
+        const birds = await fetchBirds();
+        if (birds) updatedData.birds = birds;
+        else if (data.birds) updatedData.birds = data.birds;
+
         // Save
+        updatedData.lastUpdated = new Date().toISOString();
         fs.writeFileSync(DATA_FILE_PATH, JSON.stringify(updatedData, null, 2));
         console.log(`Saved updated data to ${DATA_FILE_PATH}`);
 
