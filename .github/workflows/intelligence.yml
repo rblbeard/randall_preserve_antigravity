@@ -1,0 +1,66 @@
+name: Daily Intelligence Update
+
+# Runs the news-robot in the cloud (independent of any local PC) and redeploys the site.
+on:
+  schedule:
+    - cron: '0 13 * * *'   # 06:00 America/Los_Angeles (PDT) — adjust to '0 14 * * *' during PST
+  workflow_dispatch:        # allows manual "Run now"
+
+permissions:
+  contents: write           # generator commits data.json back to the repo
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure git identity
+        run: |
+          git config user.name "randall-preserve-bot"
+          git config user.email "rb@varx1.com"
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install generator dependencies
+        run: npm ci || npm install
+        working-directory: ./generator
+
+      - name: Run intelligence generator (Gemini + web search)
+        run: node generate.js
+        working-directory: ./generator
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Install frontend dependencies
+        run: npm ci || npm install
+        working-directory: ./frontend
+
+      - name: Build frontend
+        run: npm run build
+        working-directory: ./frontend
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './frontend/dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
