@@ -88,7 +88,7 @@
       "year": "2022",
       "month": "Dec",
       "title": "Land Acquired",
-      "description": "387 acres on the Newport Beach coast protected through a $50 million private gift \u2014 among California's largest coastal conservation acquisitions.",
+      "description": "387 acres on the Newport Beach coast \u2014 the Frank and Joan Randall Preserve (formerly Banning Ranch) \u2014 protected through a $50 million private gift; title held by the MRCA.",
       "status": "complete"
     },
     {
@@ -146,23 +146,29 @@
     {
       "id": "nw1",
       "type": "FIRE",
-      "title": "Fuel Modification",
-      "description": "Seasonal brush clearance scheduled along preserve edges for wildfire safety."
+      "title": "Boundary Fire Safety",
+      "description": "The preserve sits in a High Fire Hazard Severity Zone. During remediation the site operator (Aera Energy) clears brush only twice a year; residents along the eastern edge have flagged flashy-fuel buildup and illegal encampments as ignition risks."
     },
     {
       "id": "nw2",
+      "type": "FIRE",
+      "title": "Firebreak Pathway Proposal",
+      "description": "A proposal under discussion would add a permanent multi-use pathway along the 17th\u201319th Street boundary \u2014 serving as both a firebreak and an emergency-access route for fire crews."
+    },
+    {
+      "id": "nw3",
       "type": "POLICY",
       "title": "AB 1203 \u2014 Coastal Land Protection",
       "description": "State bill touching coastal land protection; a committee hearing was postponed to the summer 2026 session. Public input matters most at the hearing stage."
     },
     {
-      "id": "nw3",
+      "id": "nw4",
       "type": "POLICY",
       "title": "NMUSD Parcel Negotiations",
       "description": "Newport-Mesa school board is in closed-session negotiations with the MRCA over the 11.36-acre parcel inside the preserve boundary (since May 19, 2026)."
     },
     {
-      "id": "nw4",
+      "id": "nw5",
       "type": "INFO",
       "title": "Trail Status",
       "description": "Public trails remain under development; official access is expected in 2027 or later. Please respect posted closures and boundaries."
