@@ -88,7 +88,7 @@
       "year": "2022",
       "month": "Dec",
       "title": "Land Acquired",
-      "description": "387 acres on the Newport Beach coast \u2014 the Frank and Joan Randall Preserve (formerly Banning Ranch) \u2014 protected through a $50 million private gift; title held by the MRCA.",
+      "description": "387 acres on the Newport Beach coast — the Frank and Joan Randall Preserve (formerly Banning Ranch) — protected through a $50 million private gift; title held by the MRCA.",
       "status": "complete"
     },
     {
@@ -100,14 +100,14 @@
     },
     {
       "id": "t3",
-      "year": "2023\u20132027",
+      "year": "2023–2027",
       "title": "Oil Well Remediation",
-      "description": "More than 300 former oil wells are being capped and abandoned to environmental standards \u2014 the largest phase of cleanup, running through 2027.",
+      "description": "More than 300 former oil wells are being capped and abandoned to environmental standards — the largest phase of cleanup, running through 2027.",
       "status": "active"
     },
     {
       "id": "t4",
-      "year": "2024\u20132026",
+      "year": "2024–2026",
       "title": "Habitat & Resource Planning",
       "description": "Resource management and restoration plans developed to guide the return of native coastal sage scrub, wetlands, and bluff habitats.",
       "status": "active"
@@ -116,7 +116,7 @@
       "id": "t5",
       "year": "2025",
       "title": "Recreation & Open Space Plan (Draft)",
-      "description": "Draft plan proposes roughly 7 miles of public trails, gateways, and interpretive areas \u2014 currently under review.",
+      "description": "Draft plan proposes roughly 7 miles of public trails, gateways, and interpretive areas — currently under review.",
       "status": "active"
     },
     {
@@ -153,12 +153,12 @@
       "id": "nw2",
       "type": "FIRE",
       "title": "Firebreak Pathway Proposal",
-      "description": "A proposal under discussion would add a permanent multi-use pathway along the 17th\u201319th Street boundary \u2014 serving as both a firebreak and an emergency-access route for fire crews."
+      "description": "A proposal under discussion would add a permanent multi-use pathway along the 17th–19th Street boundary — serving as both a firebreak and an emergency-access route for fire crews."
     },
     {
       "id": "nw3",
       "type": "POLICY",
-      "title": "AB 1203 \u2014 Coastal Land Protection",
+      "title": "AB 1203 — Coastal Land Protection",
       "description": "State bill touching coastal land protection; a committee hearing was postponed to the summer 2026 session. Public input matters most at the hearing stage."
     },
     {
@@ -577,6 +577,43 @@
     ],
     "speciesCount": 40,
     "lastBirdUpdate": "2026-06-01T22:52:06.406Z",
-    "source": "eBird \u00b7 Cornell Lab of Ornithology"
+    "source": "eBird · Cornell Lab of Ornithology",
+    "signatureSpecies": [
+      {
+        "name": "California Gnatcatcher",
+        "note": "Federally threatened songbird of coastal sage scrub.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/California_Gnatcatcher.jpg/330px-California_Gnatcatcher.jpg"
+      },
+      {
+        "name": "Coastal Cactus Wren",
+        "note": "Declining species dependent on cactus-rich scrub.",
+        "imageUrl": null
+      },
+      {
+        "name": "California Least Tern",
+        "note": "Endangered seabird that nests on open coastal ground.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sternula_antillarum_browni%2C_San_Luis_Obispo%2C_California_1.jpg/330px-Sternula_antillarum_browni%2C_San_Luis_Obispo%2C_California_1.jpg"
+      },
+      {
+        "name": "Burrowing Owl",
+        "note": "Ground-dwelling owl of California Species of Special Concern.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Southern_burrowing_owl_%28Athene_cunicularia_cunicularia%29_Colonia.jpg/330px-Southern_burrowing_owl_%28Athene_cunicularia_cunicularia%29_Colonia.jpg"
+      },
+      {
+        "name": "Least Bell's Vireo",
+        "note": "Endangered riparian songbird of streamside willows.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bell%27s_Vireo_-_17504639703.jpg/330px-Bell%27s_Vireo_-_17504639703.jpg"
+      },
+      {
+        "name": "Belding's Savannah Sparrow",
+        "note": "Endangered sparrow of coastal salt marsh.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Passerculus_sandwichensis_crop.jpg/330px-Passerculus_sandwichensis_crop.jpg"
+      },
+      {
+        "name": "San Diego Fairy Shrimp",
+        "note": "Endangered crustacean of seasonal vernal pools.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Branchinecta_sandiegonensis.jpg/330px-Branchinecta_sandiegonensis.jpg"
+      }
+    ]
   }
 }

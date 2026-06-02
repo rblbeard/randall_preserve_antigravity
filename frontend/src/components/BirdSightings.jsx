@@ -1,9 +1,10 @@
 import React from 'react';
-import { Bird, Sparkles, MapPin, Calendar, Feather } from 'lucide-react';
+import { Bird, Sparkles, MapPin, Calendar, Feather, Leaf } from 'lucide-react';
 
 const BirdSightings = ({ birds }) => {
   const notable = (birds && birds.notableSightings) || [];
   const recent = (birds && birds.recentSightings) || [];
+  const sig = (birds && birds.signatureSpecies) || [];
 
   const fmtDate = (d) => {
     try { return new Date(String(d).replace(' ', 'T')).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }); }
@@ -23,6 +24,28 @@ const BirdSightings = ({ birds }) => {
           <p className="text-sm font-semibold text-emerald-600 tracking-wide uppercase">Live sightings near the preserve</p>
         </div>
       </div>
+
+      {/* Signature species of the preserve (protected / special-status) */}
+      {sig.length > 0 && (
+        <div>
+          <h3 className="text-lg font-display font-bold text-slate-800 mb-4 flex items-center gap-2 px-2">
+            <Leaf size={18} className="text-emerald-600" /> Signature Species of the Preserve
+          </h3>
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {sig.map((s, i) => (
+              <div key={i} className="bg-white/60 backdrop-blur-xl border border-white/60 rounded-3xl overflow-hidden ring-1 ring-slate-900/5 hover:-translate-y-1 transition-all duration-300">
+                {s.imageUrl
+                  ? <img src={s.imageUrl} alt={s.name} loading="lazy" className="w-full h-36 object-cover" />
+                  : <div className="w-full h-36 bg-emerald-500/10 flex items-center justify-center text-emerald-600"><Leaf size={28} /></div>}
+                <div className="p-4">
+                  <h4 className="font-bold text-slate-800 text-sm">{s.name}</h4>
+                  <p className="text-xs text-slate-500 mt-1 leading-snug">{s.note}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* Notable / rare sightings */}
       {notable.length > 0 && (

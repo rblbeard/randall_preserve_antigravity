@@ -293,8 +293,15 @@ async function main() {
 
         // Fetch live bird sightings from eBird (non-fatal; keeps prior data if it fails)
         const birds = await fetchBirds();
-        if (birds) updatedData.birds = birds;
-        else if (data.birds) updatedData.birds = data.birds;
+        if (birds) {
+            updatedData.birds = birds;
+            // Preserve the curated signature-species list across daily runs
+            if (data.birds && data.birds.signatureSpecies) {
+                updatedData.birds.signatureSpecies = data.birds.signatureSpecies;
+            }
+        } else if (data.birds) {
+            updatedData.birds = data.birds;
+        }
 
         // Save
         updatedData.lastUpdated = new Date().toISOString();
