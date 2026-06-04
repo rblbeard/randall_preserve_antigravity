@@ -89,35 +89,35 @@
       "month": "Dec",
       "title": "Land Acquired",
       "description": "387 acres on the Newport Beach coast — the Frank and Joan Randall Preserve (formerly Banning Ranch) — protected through a $50 million private gift; title held by the MRCA.",
-      "status": "complete"
+      "status": "completed"
     },
     {
       "id": "t2",
       "year": "2023",
       "title": "Oil Operations Wind Down",
       "description": "Active oil production ends; environmental assessment and remediation planning begin across the former oil field.",
-      "status": "complete"
+      "status": "completed"
     },
     {
       "id": "t3",
       "year": "2023–2027",
       "title": "Oil Well Remediation",
       "description": "More than 300 former oil wells are being capped and abandoned to environmental standards — the largest phase of cleanup, running through 2027.",
-      "status": "active"
+      "status": "in-progress"
     },
     {
       "id": "t4",
       "year": "2024–2026",
       "title": "Habitat & Resource Planning",
       "description": "Resource management and restoration plans developed to guide the return of native coastal sage scrub, wetlands, and bluff habitats.",
-      "status": "active"
+      "status": "in-progress"
     },
     {
       "id": "t5",
       "year": "2025",
       "title": "Recreation & Open Space Plan (Draft)",
       "description": "Draft plan proposes roughly 7 miles of public trails, gateways, and interpretive areas — currently under review.",
-      "status": "active"
+      "status": "in-progress"
     },
     {
       "id": "t6",
@@ -125,7 +125,7 @@
       "month": "May",
       "title": "Boundary Parcel Negotiations",
       "description": "MRCA and Newport-Mesa Unified School District enter negotiations over an 11.36-acre parcel inside the preserve boundary.",
-      "status": "active"
+      "status": "in-progress"
     },
     {
       "id": "t7",
