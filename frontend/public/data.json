@@ -204,271 +204,282 @@
   "birds": {
     "recentSightings": [
       {
-        "species": "Western Bluebird",
-        "sciName": "Sialia mexicana",
-        "location": "yard",
-        "date": "2026-06-05 16:37",
-        "count": 2,
-        "lat": 33.6418358,
-        "lng": -117.9420257,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Western_bluebird_%28male%29.jpg/330px-Western_bluebird_%28male%29.jpg"
-      },
-      {
-        "species": "House Finch",
-        "sciName": "Haemorhous mexicanus",
-        "location": "yard",
-        "date": "2026-06-05 16:37",
-        "count": 5,
-        "lat": 33.6418358,
-        "lng": -117.9420257,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/House_finch_%2833688%292.jpg/330px-House_finch_%2833688%292.jpg"
-      },
-      {
-        "species": "Hooded Oriole",
-        "sciName": "Icterus cucullatus",
-        "location": "yard",
-        "date": "2026-06-05 16:37",
-        "count": 2,
-        "lat": 33.6418358,
-        "lng": -117.9420257,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Icterus_cucullatus_Female.jpg/330px-Icterus_cucullatus_Female.jpg"
-      },
-      {
-        "species": "Mourning Dove",
-        "sciName": "Zenaida macroura",
-        "location": "Flying above wetlands and wildlife",
-        "date": "2026-06-05 13:28",
-        "count": null,
-        "lat": 33.6443656,
-        "lng": -117.9807096,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Av_Mourning_Dove_JG.jpg/330px-Av_Mourning_Dove_JG.jpg"
-      },
-      {
-        "species": "Anna's Hummingbird",
-        "sciName": "Calypte anna",
-        "location": "Flying above wetlands and wildlife",
-        "date": "2026-06-05 13:28",
-        "count": null,
-        "lat": 33.6443656,
-        "lng": -117.9807096,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anna%27s_hummingbird.jpg/330px-Anna%27s_hummingbird.jpg"
-      },
-      {
-        "species": "American Crow",
-        "sciName": "Corvus brachyrhynchos",
-        "location": "Flying above wetlands and wildlife",
-        "date": "2026-06-05 13:28",
-        "count": null,
-        "lat": 33.6443656,
-        "lng": -117.9807096,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Corvus-brachyrhynchos-001.jpg/330px-Corvus-brachyrhynchos-001.jpg"
-      },
-      {
-        "species": "Barn Swallow",
-        "sciName": "Hirundo rustica",
-        "location": "Flying above wetlands and wildlife",
-        "date": "2026-06-05 13:28",
-        "count": null,
-        "lat": 33.6443656,
-        "lng": -117.9807096,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/330px-Rauchschwalbe_Hirundo_rustica.jpg"
-      },
-      {
-        "species": "Bushtit",
-        "sciName": "Psaltriparus minimus",
-        "location": "Flying above wetlands and wildlife",
-        "date": "2026-06-05 13:28",
-        "count": null,
-        "lat": 33.6443656,
-        "lng": -117.9807096,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegithalos_caudatus_side-on.jpg/330px-Aegithalos_caudatus_side-on.jpg"
-      },
-      {
-        "species": "Swinhoe's White-eye",
-        "sciName": "Zosterops simplex",
-        "location": "Flying above wetlands and wildlife",
-        "date": "2026-06-05 13:28",
-        "count": null,
-        "lat": 33.6443656,
-        "lng": -117.9807096,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Resting_Zosterops_japonicus.jpg/330px-Resting_Zosterops_japonicus.jpg"
-      },
-      {
-        "species": "Lesser Goldfinch",
-        "sciName": "Spinus psaltria",
-        "location": "Flying above wetlands and wildlife",
-        "date": "2026-06-05 13:28",
-        "count": null,
-        "lat": 33.6443656,
-        "lng": -117.9807096,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lesser_Goldfinch_%28_Eastern_race%29_Kerr_WMA_Kerrville_TX_2018-05-06_12-11-15-2_%2842881554344%29.jpg/330px-Lesser_Goldfinch_%28_Eastern_race%29_Kerr_WMA_Kerrville_TX_2018-05-06_12-11-15-2_%2842881554344%29.jpg"
-      },
-      {
-        "species": "Song Sparrow",
-        "sciName": "Melospiza melodia",
-        "location": "Flying above wetlands and wildlife",
-        "date": "2026-06-05 13:28",
-        "count": null,
-        "lat": 33.6443656,
-        "lng": -117.9807096,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Song_sparrow_in_Prospect_Park_%2893031%29.jpg/330px-Song_sparrow_in_Prospect_Park_%2893031%29.jpg"
-      },
-      {
-        "species": "Western Gull",
-        "sciName": "Larus occidentalis",
-        "location": "Huntington City Beach, Huntington Beach US-CA 33.65602, -118.00456",
-        "date": "2026-06-05 12:46",
-        "count": 2,
-        "lat": 33.65602,
-        "lng": -118.004561,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg/330px-Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg"
-      },
-      {
-        "species": "California Gull",
-        "sciName": "Larus californicus",
-        "location": "Huntington City Beach, Huntington Beach US-CA 33.65602, -118.00456",
-        "date": "2026-06-05 12:46",
-        "count": 3,
-        "lat": 33.65602,
-        "lng": -118.004561,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/CaliforniaGull.jpg/330px-CaliforniaGull.jpg"
-      },
-      {
-        "species": "Vermilion Flycatcher",
-        "sciName": "Pyrocephalus rubinus",
-        "location": "Canyon Park, Costa Mesa",
-        "date": "2026-06-05 12:15",
+        "species": "Great Blue Heron",
+        "sciName": "Ardea herodias",
+        "location": "theHouse",
+        "date": "2026-06-06 19:37",
         "count": 1,
-        "lat": 33.646448,
-        "lng": -117.9395306,
+        "lat": 33.619042,
+        "lng": -117.923381,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Karmintyrann_%28Pyrocephalus_obscurus%29%2C_M%C3%A4nnchen_1.jpg/330px-Karmintyrann_%28Pyrocephalus_obscurus%29%2C_M%C3%A4nnchen_1.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GreatBlueHeronInARiver.jpg/330px-GreatBlueHeronInARiver.jpg"
       },
       {
-        "species": "Hutton's Vireo",
-        "sciName": "Vireo huttoni",
-        "location": "Canyon Park, Costa Mesa",
-        "date": "2026-06-05 12:15",
-        "count": 6,
-        "lat": 33.646448,
-        "lng": -117.9395306,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hutton%27s_Vireo_%2843379432594%29.jpg/330px-Hutton%27s_Vireo_%2843379432594%29.jpg"
-      },
-      {
-        "species": "Western Warbling Vireo",
-        "sciName": "Vireo swainsoni",
-        "location": "Canyon Park, Costa Mesa",
-        "date": "2026-06-05 12:15",
+        "species": "Northern Rough-winged Swallow",
+        "sciName": "Stelgidopteryx serripennis",
+        "location": "Chrissy Engagement Party",
+        "date": "2026-06-06 16:33",
         "count": 1,
-        "lat": 33.646448,
-        "lng": -117.9395306,
+        "lat": 33.61456,
+        "lng": -117.926553,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Warbling_vireo_%2882141%29.jpg/330px-Warbling_vireo_%2882141%29.jpg"
-      },
-      {
-        "species": "Black Phoebe",
-        "sciName": "Sayornis nigricans",
-        "location": "407 Hamilton St, Costa Mesa US-CA 33.65072, -117.91643",
-        "date": "2026-06-05 11:44",
-        "count": 1,
-        "lat": 33.65072,
-        "lng": -117.916432,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg/330px-Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg"
-      },
-      {
-        "species": "House Sparrow",
-        "sciName": "Passer domesticus",
-        "location": "407 Hamilton St, Costa Mesa US-CA 33.65072, -117.91643",
-        "date": "2026-06-05 11:44",
-        "count": 3,
-        "lat": 33.65072,
-        "lng": -117.916432,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/330px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg"
-      },
-      {
-        "species": "Northern House Wren",
-        "sciName": "Troglodytes aedon",
-        "location": "Estancia Park, Costa Mesa",
-        "date": "2026-06-05 10:13",
-        "count": 1,
-        "lat": 33.6734614,
-        "lng": -117.9383183,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/House_wren_in_Prospect_Park_%2823218%29.jpg/330px-House_wren_in_Prospect_Park_%2823218%29.jpg"
-      },
-      {
-        "species": "Mallard",
-        "sciName": "Anas platyrhynchos",
-        "location": "Canyon Park, Costa Mesa",
-        "date": "2026-06-05 08:58",
-        "count": 2,
-        "lat": 33.646448,
-        "lng": -117.9395306,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/330px-Anas_platyrhynchos_male_female_quadrat.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20250514_northern_rough_winged_swallow_bolton_notch_state_park_PD200438_crop.jpg/330px-20250514_northern_rough_winged_swallow_bolton_notch_state_park_PD200438_crop.jpg"
       },
       {
         "species": "Allen's Hummingbird",
         "sciName": "Selasphorus sasin",
-        "location": "Canyon Park, Costa Mesa",
-        "date": "2026-06-05 08:58",
-        "count": 8,
-        "lat": 33.646448,
-        "lng": -117.9395306,
+        "location": "Arevalos Park",
+        "date": "2026-06-06 13:35",
+        "count": 2,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg/330px-Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg"
       },
       {
-        "species": "Osprey",
-        "sciName": "Pandion haliaetus",
-        "location": "Canyon Park, Costa Mesa",
-        "date": "2026-06-05 08:58",
-        "count": 1,
-        "lat": 33.646448,
-        "lng": -117.9395306,
+        "species": "White-faced Ibis",
+        "sciName": "Plegadis chihi",
+        "location": "Arevalos Park",
+        "date": "2026-06-06 13:35",
+        "count": 2,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Osprey_Perched_Snag_Heislerville.jpg/330px-Osprey_Perched_Snag_Heislerville.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adult_white-faced_ibis_%28Plegadis_chihi%29-4026.jpg/330px-Adult_white-faced_ibis_%28Plegadis_chihi%29-4026.jpg"
       },
       {
-        "species": "Cooper's Hawk",
-        "sciName": "Astur cooperii",
-        "location": "Canyon Park, Costa Mesa",
-        "date": "2026-06-05 08:58",
+        "species": "Turkey Vulture",
+        "sciName": "Cathartes aura",
+        "location": "Arevalos Park",
+        "date": "2026-06-06 13:35",
         "count": 1,
-        "lat": 33.646448,
-        "lng": -117.9395306,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Accipiter_cooperii_m_Sam_Smith_Toronto3.jpg/330px-Accipiter_cooperii_m_Sam_Smith_Toronto3.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Turkey_vulture_%28Cathartes_aura%29_Orange_Walk.jpg/330px-Turkey_vulture_%28Cathartes_aura%29_Orange_Walk.jpg"
       },
       {
-        "species": "Red-tailed Hawk",
-        "sciName": "Buteo jamaicensis",
-        "location": "Canyon Park, Costa Mesa",
-        "date": "2026-06-05 08:58",
+        "species": "Tree Swallow",
+        "sciName": "Tachycineta bicolor",
+        "location": "Arevalos Park",
+        "date": "2026-06-06 13:35",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Tree_swallow_in_JBWR_%2825579%29.jpg/330px-Tree_swallow_in_JBWR_%2825579%29.jpg"
+      },
+      {
+        "species": "Swinhoe's White-eye",
+        "sciName": "Zosterops simplex",
+        "location": "Arevalos Park",
+        "date": "2026-06-06 13:35",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Resting_Zosterops_japonicus.jpg/330px-Resting_Zosterops_japonicus.jpg"
+      },
+      {
+        "species": "European Starling",
+        "sciName": "Sturnus vulgaris",
+        "location": "Arevalos Park",
+        "date": "2026-06-06 13:35",
+        "count": 3,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg/330px-Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg"
+      },
+      {
+        "species": "Western Bluebird",
+        "sciName": "Sialia mexicana",
+        "location": "Arevalos Park",
+        "date": "2026-06-06 13:35",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Western_bluebird_%28male%29.jpg/330px-Western_bluebird_%28male%29.jpg"
+      },
+      {
+        "species": "Northern Red Bishop",
+        "sciName": "Euplectes franciscanus",
+        "location": "Arevalos Park",
+        "date": "2026-06-06 13:35",
+        "count": 2,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Euplectes_orix_5_Luc_Viatour.jpg/330px-Euplectes_orix_5_Luc_Viatour.jpg"
+      },
+      {
+        "species": "House Finch",
+        "sciName": "Haemorhous mexicanus",
+        "location": "Arevalos Park",
+        "date": "2026-06-06 13:35",
+        "count": 9,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/House_finch_%2833688%292.jpg/330px-House_finch_%2833688%292.jpg"
+      },
+      {
+        "species": "Song Sparrow",
+        "sciName": "Melospiza melodia",
+        "location": "Arevalos Park",
+        "date": "2026-06-06 13:35",
+        "count": 2,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Song_sparrow_in_Prospect_Park_%2893031%29.jpg/330px-Song_sparrow_in_Prospect_Park_%2893031%29.jpg"
+      },
+      {
+        "species": "Red-winged Blackbird",
+        "sciName": "Agelaius phoeniceus",
+        "location": "Arevalos Park",
+        "date": "2026-06-06 13:35",
+        "count": 14,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red-Winged_Blackbird.png/330px-Red-Winged_Blackbird.png"
+      },
+      {
+        "species": "Mallard",
+        "sciName": "Anas platyrhynchos",
+        "location": "Le Bard Park",
+        "date": "2026-06-06 12:19",
+        "count": 6,
+        "lat": 33.6647858,
+        "lng": -117.9491702,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/330px-Anas_platyrhynchos_male_female_quadrat.jpg"
+      },
+      {
+        "species": "Mourning Dove",
+        "sciName": "Zenaida macroura",
+        "location": "Le Bard Park",
+        "date": "2026-06-06 12:19",
+        "count": 5,
+        "lat": 33.6647858,
+        "lng": -117.9491702,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Av_Mourning_Dove_JG.jpg/330px-Av_Mourning_Dove_JG.jpg"
+      },
+      {
+        "species": "Killdeer",
+        "sciName": "Charadrius vociferus",
+        "location": "Le Bard Park",
+        "date": "2026-06-06 12:19",
         "count": 4,
-        "lat": 33.646448,
-        "lng": -117.9395306,
+        "lat": 33.6647858,
+        "lng": -117.9491702,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg/330px-Red-tailed_Hawk_%2845812546121%29.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Killdeer_Heislerville.png/330px-Killdeer_Heislerville.png"
+      },
+      {
+        "species": "Western Grebe",
+        "sciName": "Aechmophorus occidentalis",
+        "location": "Le Bard Park",
+        "date": "2026-06-06 12:19",
+        "count": 1,
+        "lat": 33.6647858,
+        "lng": -117.9491702,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Western_Grebe_swimming.jpg/330px-Western_Grebe_swimming.jpg"
+      },
+      {
+        "species": "Double-crested Cormorant",
+        "sciName": "Nannopterum auritum",
+        "location": "Le Bard Park",
+        "date": "2026-06-06 12:19",
+        "count": 1,
+        "lat": 33.6647858,
+        "lng": -117.9491702,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Phalacrocorax-auritus-007.jpg/330px-Phalacrocorax-auritus-007.jpg"
+      },
+      {
+        "species": "Snowy Egret",
+        "sciName": "Egretta thula",
+        "location": "Le Bard Park",
+        "date": "2026-06-06 12:19",
+        "count": 4,
+        "lat": 33.6647858,
+        "lng": -117.9491702,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg/330px-Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg"
+      },
+      {
+        "species": "American Kestrel",
+        "sciName": "Falco sparverius",
+        "location": "Le Bard Park",
+        "date": "2026-06-06 12:19",
+        "count": 5,
+        "lat": 33.6647858,
+        "lng": -117.9491702,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/American_Kestrel_%2853468230687%29.jpg/330px-American_Kestrel_%2853468230687%29.jpg"
+      },
+      {
+        "species": "Black Phoebe",
+        "sciName": "Sayornis nigricans",
+        "location": "Le Bard Park",
+        "date": "2026-06-06 12:19",
+        "count": 1,
+        "lat": 33.6647858,
+        "lng": -117.9491702,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg/330px-Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg"
+      },
+      {
+        "species": "American Crow",
+        "sciName": "Corvus brachyrhynchos",
+        "location": "Le Bard Park",
+        "date": "2026-06-06 12:19",
+        "count": 2,
+        "lat": 33.6647858,
+        "lng": -117.9491702,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Corvus-brachyrhynchos-001.jpg/330px-Corvus-brachyrhynchos-001.jpg"
+      },
+      {
+        "species": "Northern House Wren",
+        "sciName": "Troglodytes aedon",
+        "location": "Le Bard Park",
+        "date": "2026-06-06 12:19",
+        "count": 3,
+        "lat": 33.6647858,
+        "lng": -117.9491702,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/House_wren_in_Prospect_Park_%2823218%29.jpg/330px-House_wren_in_Prospect_Park_%2823218%29.jpg"
+      },
+      {
+        "species": "House Sparrow",
+        "sciName": "Passer domesticus",
+        "location": "Le Bard Park",
+        "date": "2026-06-06 12:19",
+        "count": 3,
+        "lat": 33.6647858,
+        "lng": -117.9491702,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/330px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg"
       }
     ],
     "notableSightings": [
+      {
+        "species": "Rock Pigeon",
+        "sciName": "Columba livia",
+        "location": "Chrissy Engagement Party",
+        "date": "2026-06-06 16:33",
+        "count": 4,
+        "lat": 33.61456,
+        "lng": -117.926553,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/330px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg"
+      },
       {
         "species": "Western Warbling Vireo",
         "sciName": "Vireo swainsoni",
@@ -501,6 +512,17 @@
         "lng": -118.0022383,
         "notable": true,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2014-05-21_Northern_Parula%2C_Shenandoah_NP%2C_Virginia_001200_07.jpg/330px-2014-05-21_Northern_Parula%2C_Shenandoah_NP%2C_Virginia_001200_07.jpg"
+      },
+      {
+        "species": "Mountain Chickadee",
+        "sciName": "Poecile gambeli",
+        "location": "Coastal Canyon Park, Newport Beach US-CA (33.6048,-117.8258)",
+        "date": "2026-06-05 11:24",
+        "count": 1,
+        "lat": 33.604769,
+        "lng": -117.825774,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mountain_Chickadee_Sandia_Mountains.jpg/330px-Mountain_Chickadee_Sandia_Mountains.jpg"
       },
       {
         "species": "Western Warbling Vireo",
@@ -578,32 +600,10 @@
         "lng": -118.0451372,
         "notable": true,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sanderling_%28Calidris_alba%29_in_Breeding_Plumage_in_the_Delaware_Bay_-_Heislerville_WMA_-_Cumberland_County_-_New_Jersey_-_May_2026.jpg/330px-Sanderling_%28Calidris_alba%29_in_Breeding_Plumage_in_the_Delaware_Bay_-_Heislerville_WMA_-_Cumberland_County_-_New_Jersey_-_May_2026.jpg"
-      },
-      {
-        "species": "Red Knot",
-        "sciName": "Calidris canutus",
-        "location": "Bolsa Chica--walkbridge/inner bay",
-        "date": "2026-06-05 07:24",
-        "count": 5,
-        "lat": 33.6965128,
-        "lng": -118.0451372,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg/330px-Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg"
-      },
-      {
-        "species": "Red Knot",
-        "sciName": "Calidris canutus",
-        "location": "Bolsa Chica--walkbridge/inner bay",
-        "date": "2026-06-04 15:40",
-        "count": 3,
-        "lat": 33.6965128,
-        "lng": -118.0451372,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg/330px-Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg"
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-06-06T14:28:58.761Z",
+    "lastBirdUpdate": "2026-06-07T14:50:51.523Z",
     "source": "eBird · Cornell Lab of Ornithology",
     "signatureSpecies": [
       {
@@ -643,5 +643,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-06T14:28:58.761Z"
+  "lastUpdated": "2026-06-07T14:50:51.523Z"
 }
