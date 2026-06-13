@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "scc-wetland-restoration-feasibility-2026",
+      "category": "OFFICIAL",
+      "date": "Feb 2026",
+      "title": "State Coastal Conservancy Launches Randall Preserve Wetland Restoration Feasibility Study",
+      "summary": "The California State Coastal Conservancy, as lead agency, is funding the Coastal Corridor Alliance to conduct a feasibility study toward restoring and enhancing roughly 130 acres of degraded wetland and riparian habitat at the Randall Preserve (former Banning Ranch). The study was filed with the California CEQA clearinghouse (SCH #2026020966) and is an early planning step ahead of any restoration work.",
+      "source": "CA State Clearinghouse (CEQAnet #2026020966)",
+      "sentiment": "POSITIVE"
+    },
+    {
       "id": "cca-fairview-park-restoration-june-2026",
       "category": "LOCAL",
       "date": "June 13, 2026",
@@ -670,5 +679,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-13T14:59:23.994Z"
+  "lastUpdated": "2026-06-13T22:37:57.000Z"
 }
