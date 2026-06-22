@@ -267,10 +267,120 @@
   "birds": {
     "recentSightings": [
       {
+        "species": "Canada Goose",
+        "sciName": "Branta canadensis",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canada_goose.jpg/330px-Canada_goose.jpg"
+      },
+      {
+        "species": "Mallard",
+        "sciName": "Anas platyrhynchos",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/330px-Anas_platyrhynchos_male_female_quadrat.jpg"
+      },
+      {
+        "species": "Black-chinned Hummingbird",
+        "sciName": "Archilochus alexandri",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Archilochus-alexandri-003.jpg/330px-Archilochus-alexandri-003.jpg"
+      },
+      {
+        "species": "Anna's Hummingbird",
+        "sciName": "Calypte anna",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anna%27s_hummingbird.jpg/330px-Anna%27s_hummingbird.jpg"
+      },
+      {
+        "species": "Allen's Hummingbird",
+        "sciName": "Selasphorus sasin",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg/330px-Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg"
+      },
+      {
+        "species": "Caspian Tern",
+        "sciName": "Hydroprogne caspia",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sterna-caspia-010.jpg/330px-Sterna-caspia-010.jpg"
+      },
+      {
+        "species": "White-faced Ibis",
+        "sciName": "Plegadis chihi",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adult_white-faced_ibis_%28Plegadis_chihi%29-4026.jpg/330px-Adult_white-faced_ibis_%28Plegadis_chihi%29-4026.jpg"
+      },
+      {
+        "species": "Nuttall's Woodpecker",
+        "sciName": "Dryobates nuttallii",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NuttallsWoodpecker-28MAR2016.jpg/330px-NuttallsWoodpecker-28MAR2016.jpg"
+      },
+      {
+        "species": "Black Phoebe",
+        "sciName": "Sayornis nigricans",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg/330px-Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg"
+      },
+      {
+        "species": "Tree Swallow",
+        "sciName": "Tachycineta bicolor",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Tree_swallow_in_JBWR_%2825579%29.jpg/330px-Tree_swallow_in_JBWR_%2825579%29.jpg"
+      },
+      {
         "species": "Swinhoe's White-eye",
         "sciName": "Zosterops simplex",
         "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
-        "date": "2026-06-20 18:01",
+        "date": "2026-06-21 10:10",
         "count": 1,
         "lat": 33.647873,
         "lng": -117.945115,
@@ -278,10 +388,32 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Resting_Zosterops_japonicus.jpg/330px-Resting_Zosterops_japonicus.jpg"
       },
       {
+        "species": "Northern Mockingbird",
+        "sciName": "Mimus polyglottos",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mockingbird_in_Bay_Ridge_%2885082%29.jpg/330px-Mockingbird_in_Bay_Ridge_%2885082%29.jpg"
+      },
+      {
+        "species": "House Sparrow",
+        "sciName": "Passer domesticus",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/330px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg"
+      },
+      {
         "species": "House Finch",
         "sciName": "Haemorhous mexicanus",
         "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
-        "date": "2026-06-20 18:01",
+        "date": "2026-06-21 10:10",
         "count": 1,
         "lat": 33.647873,
         "lng": -117.945115,
@@ -292,7 +424,7 @@
         "species": "Lesser Goldfinch",
         "sciName": "Spinus psaltria",
         "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
-        "date": "2026-06-20 18:01",
+        "date": "2026-06-21 10:10",
         "count": 1,
         "lat": 33.647873,
         "lng": -117.945115,
@@ -300,10 +432,21 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lesser_Goldfinch_%28_Eastern_race%29_Kerr_WMA_Kerrville_TX_2018-05-06_12-11-15-2_%2842881554344%29.jpg/330px-Lesser_Goldfinch_%28_Eastern_race%29_Kerr_WMA_Kerrville_TX_2018-05-06_12-11-15-2_%2842881554344%29.jpg"
       },
       {
+        "species": "American Goldfinch",
+        "sciName": "Spinus tristis",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg/330px-Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg"
+      },
+      {
         "species": "Spotted Towhee",
         "sciName": "Pipilo maculatus",
         "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
-        "date": "2026-06-20 17:57",
+        "date": "2026-06-21 10:10",
         "count": 1,
         "lat": 33.647873,
         "lng": -117.945115,
@@ -311,227 +454,150 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Spotted_Towhee_%2832684403303%29.jpg/330px-Spotted_Towhee_%2832684403303%29.jpg"
       },
       {
-        "species": "Eurasian Collared-Dove",
-        "sciName": "Streptopelia decaocto",
-        "location": "Heller Park",
-        "date": "2026-06-20 10:00",
-        "count": 2,
-        "lat": 33.6314954,
-        "lng": -117.9203582,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/330px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg"
-      },
-      {
-        "species": "Allen's Hummingbird",
-        "sciName": "Selasphorus sasin",
-        "location": "Heller Park",
-        "date": "2026-06-20 10:00",
-        "count": 5,
-        "lat": 33.6314954,
-        "lng": -117.9203582,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg/330px-Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg"
-      },
-      {
-        "species": "Black Phoebe",
-        "sciName": "Sayornis nigricans",
-        "location": "Heller Park",
-        "date": "2026-06-20 10:00",
-        "count": 5,
-        "lat": 33.6314954,
-        "lng": -117.9203582,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg/330px-Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg"
-      },
-      {
-        "species": "Northern Mockingbird",
-        "sciName": "Mimus polyglottos",
-        "location": "Heller Park",
-        "date": "2026-06-20 10:00",
-        "count": 2,
-        "lat": 33.6314954,
-        "lng": -117.9203582,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mockingbird_in_Bay_Ridge_%2885082%29.jpg/330px-Mockingbird_in_Bay_Ridge_%2885082%29.jpg"
-      },
-      {
-        "species": "Western Bluebird",
-        "sciName": "Sialia mexicana",
-        "location": "Heller Park",
-        "date": "2026-06-20 10:00",
+        "species": "Red-winged Blackbird",
+        "sciName": "Agelaius phoeniceus",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
         "count": 1,
-        "lat": 33.6314954,
-        "lng": -117.9203582,
+        "lat": 33.647873,
+        "lng": -117.945115,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Western_bluebird_%28male%29.jpg/330px-Western_bluebird_%28male%29.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red-Winged_Blackbird.png/330px-Red-Winged_Blackbird.png"
       },
       {
-        "species": "Dark-eyed Junco",
-        "sciName": "Junco hyemalis",
-        "location": "Heller Park",
-        "date": "2026-06-20 10:00",
+        "species": "Great-tailed Grackle",
+        "sciName": "Quiscalus mexicanus",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
         "count": 1,
-        "lat": 33.6314954,
-        "lng": -117.9203582,
+        "lat": 33.647873,
+        "lng": -117.945115,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Junco_hyemalis_hyemalis_CT1_%28cropped%29.jpg/330px-Junco_hyemalis_hyemalis_CT1_%28cropped%29.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Great-tailed_grackle_%28Quiscalus_mexicanus_mexicanus%29_male_Copan.jpg/330px-Great-tailed_grackle_%28Quiscalus_mexicanus_mexicanus%29_male_Copan.jpg"
+      },
+      {
+        "species": "Common Yellowthroat",
+        "sciName": "Geothlypis trichas",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Common_yellowthroat_in_PP_%2814155%29.jpg/330px-Common_yellowthroat_in_PP_%2814155%29.jpg"
+      },
+      {
+        "species": "Northern Yellow Warbler",
+        "sciName": "Setophaga aestiva",
+        "location": "41 Starfish Ct, Costa Mesa US-CA 33.64787, -117.94512",
+        "date": "2026-06-21 10:10",
+        "count": 1,
+        "lat": 33.647873,
+        "lng": -117.945115,
+        "notable": false,
+        "imageUrl": null
       },
       {
         "species": "Mourning Dove",
         "sciName": "Zenaida macroura",
         "location": "Fairview Park, Costa Mesa",
-        "date": "2026-06-20 07:51",
-        "count": 6,
+        "date": "2026-06-21 09:30",
+        "count": 3,
         "lat": 33.662014,
         "lng": -117.9413974,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Av_Mourning_Dove_JG.jpg/330px-Av_Mourning_Dove_JG.jpg"
       },
       {
-        "species": "Great Blue Heron",
-        "sciName": "Ardea herodias",
+        "species": "White-throated Swift",
+        "sciName": "Aeronautes saxatalis",
         "location": "Fairview Park, Costa Mesa",
-        "date": "2026-06-20 07:51",
-        "count": 2,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GreatBlueHeronInARiver.jpg/330px-GreatBlueHeronInARiver.jpg"
-      },
-      {
-        "species": "Red-tailed Hawk",
-        "sciName": "Buteo jamaicensis",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-06-20 07:51",
-        "count": 2,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg/330px-Red-tailed_Hawk_%2845812546121%29.jpg"
-      },
-      {
-        "species": "Downy Woodpecker",
-        "sciName": "Dryobates pubescens",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-06-20 07:51",
+        "date": "2026-06-21 09:30",
         "count": 1,
         "lat": 33.662014,
         "lng": -117.9413974,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dryobates_pubescens_UL_03.jpg/330px-Dryobates_pubescens_UL_03.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/White-throated_Swift_%28Aeronautes_saxatalis%29_in_flight.jpg/330px-White-throated_Swift_%28Aeronautes_saxatalis%29_in_flight.jpg"
       },
       {
-        "species": "Say's Phoebe",
-        "sciName": "Sayornis saya",
+        "species": "Common Gallinule",
+        "sciName": "Gallinula galeata",
         "location": "Fairview Park, Costa Mesa",
-        "date": "2026-06-20 07:51",
-        "count": 3,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sayornis_saya_GNP_01.jpg/330px-Sayornis_saya_GNP_01.jpg"
-      },
-      {
-        "species": "Cassin's Kingbird",
-        "sciName": "Tyrannus vociferans",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-06-20 07:51",
-        "count": 2,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tyrannus_vociferans_163482312_%28cropped%29.jpg/330px-Tyrannus_vociferans_163482312_%28cropped%29.jpg"
-      },
-      {
-        "species": "Cliff Swallow",
-        "sciName": "Petrochelidon pyrrhonota",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-06-20 07:51",
-        "count": 2,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cliff_Swallow_Builder.jpg/330px-Cliff_Swallow_Builder.jpg"
-      },
-      {
-        "species": "Pin-tailed Whydah",
-        "sciName": "Vidua macroura",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-06-20 07:51",
+        "date": "2026-06-21 09:30",
         "count": 1,
         "lat": 33.662014,
         "lng": -117.9413974,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pin-tailed_whydah_%28Vidua_macroura%29_male_Sao_Tome.jpg/330px-Pin-tailed_whydah_%28Vidua_macroura%29_male_Sao_Tome.jpg"
-      },
-      {
-        "species": "Blue Grosbeak",
-        "sciName": "Passerina caerulea",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-06-20 07:51",
-        "count": 1,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_Grosbeak_by_Dan_Pancamo.jpg/330px-Blue_Grosbeak_by_Dan_Pancamo.jpg"
-      },
-      {
-        "species": "Brant",
-        "sciName": "Branta bernicla",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-06-19 12:47",
-        "count": 1,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": null
-      },
-      {
-        "species": "Mallard",
-        "sciName": "Anas platyrhynchos",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-06-19 12:47",
-        "count": 2,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/330px-Anas_platyrhynchos_male_female_quadrat.jpg"
-      },
-      {
-        "species": "Caspian Tern",
-        "sciName": "Hydroprogne caspia",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-06-19 12:47",
-        "count": 1,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sterna-caspia-010.jpg/330px-Sterna-caspia-010.jpg"
-      },
-      {
-        "species": "Snowy Egret",
-        "sciName": "Egretta thula",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-06-19 12:47",
-        "count": 1,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg/330px-Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg"
-      },
-      {
-        "species": "Turkey Vulture",
-        "sciName": "Cathartes aura",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-06-19 12:47",
-        "count": 1,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Turkey_vulture_%28Cathartes_aura%29_Orange_Walk.jpg/330px-Turkey_vulture_%28Cathartes_aura%29_Orange_Walk.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Common-gallinule-galapagos-casey-klebba.jpg/330px-Common-gallinule-galapagos-casey-klebba.jpg"
       }
     ],
     "notableSightings": [
+      {
+        "species": "Mitred Parakeet",
+        "sciName": "Psittacara mitratus",
+        "location": "Fairview Park Wetlands (CA Atlas - Newport Beach CW)",
+        "date": "2026-06-22 07:09",
+        "count": 5,
+        "lat": 33.6679605,
+        "lng": -117.9417158,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mitred_Parakeet_Florida.jpg/330px-Mitred_Parakeet_Florida.jpg"
+      },
+      {
+        "species": "Rose-breasted Grosbeak",
+        "sciName": "Pheucticus ludovicianus",
+        "location": "Mile Square Regional Park, Fountain Valley",
+        "date": "2026-06-21 09:43",
+        "count": 1,
+        "lat": 33.7246609,
+        "lng": -117.9395199,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/RosebreastedGrosbeak08.jpg/330px-RosebreastedGrosbeak08.jpg"
+      },
+      {
+        "species": "Wilson's Phalarope",
+        "sciName": "Phalaropus tricolor",
+        "location": "Bolsa Chica Ecological Reserve",
+        "date": "2026-06-21 09:40",
+        "count": 3,
+        "lat": 33.7026531,
+        "lng": -118.050735,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Wilson%27s_Phalarope%2C_Oregon_03_%28cropped%29.jpg/330px-Wilson%27s_Phalarope%2C_Oregon_03_%28cropped%29.jpg"
+      },
+      {
+        "species": "American Wigeon",
+        "sciName": "Mareca americana",
+        "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
+        "date": "2026-06-21 09:38",
+        "count": 2,
+        "lat": 33.6609892,
+        "lng": -117.8437141,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/American_Wigeon_Male.jpg/330px-American_Wigeon_Male.jpg"
+      },
+      {
+        "species": "Common Tern",
+        "sciName": "Sterna hirundo",
+        "location": "Bolsa Chica--full tidal area",
+        "date": "2026-06-21 09:36",
+        "count": 1,
+        "lat": 33.6958158,
+        "lng": -118.0368304,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_04.jpg/330px-2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_04.jpg"
+      },
+      {
+        "species": "Cackling Goose",
+        "sciName": "Branta hutchinsii",
+        "location": "Mile Square Regional Park, Fountain Valley",
+        "date": "2026-06-21 09:26",
+        "count": 1,
+        "lat": 33.7246609,
+        "lng": -117.9395199,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20260426_cackling_goose_ford_lake_PD07933.jpg/330px-20260426_cackling_goose_ford_lake_PD07933.jpg"
+      },
       {
         "species": "Cackling Goose",
         "sciName": "Branta hutchinsii",
@@ -577,6 +643,17 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Shrike_Loggerhead_JG.jpg/330px-Shrike_Loggerhead_JG.jpg"
       },
       {
+        "species": "Snow Goose",
+        "sciName": "Anser caerulescens",
+        "location": "Mile Square Regional Park, Fountain Valley US-CA 33.72797, -117.94167",
+        "date": "2026-06-20 08:03",
+        "count": 1,
+        "lat": 33.727973,
+        "lng": -117.941668,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Snow_goose_in_Central_Park_%2833138%29.jpg/330px-Snow_goose_in_Central_Park_%2833138%29.jpg"
+      },
+      {
         "species": "Rose-breasted Grosbeak",
         "sciName": "Pheucticus ludovicianus",
         "location": "Mile Square Regional Park, Fountain Valley US-CA 33.72797, -117.94167",
@@ -586,87 +663,10 @@
         "lng": -117.941668,
         "notable": true,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/RosebreastedGrosbeak08.jpg/330px-RosebreastedGrosbeak08.jpg"
-      },
-      {
-        "species": "Snow Goose",
-        "sciName": "Anser caerulescens",
-        "location": "Mile Square Regional Park, Fountain Valley US-CA 33.72797, -117.94167",
-        "date": "2026-06-20 08:03",
-        "count": 1,
-        "lat": 33.727973,
-        "lng": -117.941668,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Snow_goose_in_Central_Park_%2833138%29.jpg/330px-Snow_goose_in_Central_Park_%2833138%29.jpg"
-      },
-      {
-        "species": "Cackling Goose",
-        "sciName": "Branta hutchinsii",
-        "location": "Mile Square Regional Park, Fountain Valley",
-        "date": "2026-06-20 07:07",
-        "count": 1,
-        "lat": 33.7246609,
-        "lng": -117.9395199,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20260426_cackling_goose_ford_lake_PD07933.jpg/330px-20260426_cackling_goose_ford_lake_PD07933.jpg"
-      },
-      {
-        "species": "Snow Goose",
-        "sciName": "Anser caerulescens",
-        "location": "Mile Square Regional Park, Fountain Valley",
-        "date": "2026-06-20 07:07",
-        "count": 1,
-        "lat": 33.7246609,
-        "lng": -117.9395199,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Snow_goose_in_Central_Park_%2833138%29.jpg/330px-Snow_goose_in_Central_Park_%2833138%29.jpg"
-      },
-      {
-        "species": "American Wigeon",
-        "sciName": "Mareca americana",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-06-19 10:24",
-        "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/American_Wigeon_Male.jpg/330px-American_Wigeon_Male.jpg"
-      },
-      {
-        "species": "Savannah Sparrow (Large-billed)",
-        "sciName": "Passerculus sandwichensis",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-06-19 10:24",
-        "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
-        "notable": true,
-        "imageUrl": null
-      },
-      {
-        "species": "American Wigeon",
-        "sciName": "Mareca americana",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-06-19 08:48",
-        "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/American_Wigeon_Male.jpg/330px-American_Wigeon_Male.jpg"
-      },
-      {
-        "species": "Red Knot",
-        "sciName": "Calidris canutus",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-06-19 07:10",
-        "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg/330px-Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg"
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-06-21T15:11:30.643Z",
+    "lastBirdUpdate": "2026-06-22T17:30:16.770Z",
     "source": "eBird · Cornell Lab of Ornithology",
     "signatureSpecies": [
       {
@@ -706,5 +706,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-21T15:11:30.643Z"
+  "lastUpdated": "2026-06-22T17:30:16.770Z"
 }
