@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "randall-preserve-comprehensive-plan-july-2026",
+      "category": "OFFICIAL",
+      "date": "July 09, 2026",
+      "title": "Randall Preserve Comprehensive Property Management Plan Progresses",
+      "summary": "Planning efforts are advancing for the Frank and Joan Randall Preserve/Genga, with the Coastal Corridor Alliance (CCA) and Mountains Recreation and Conservation Authority (MRCA) developing a comprehensive Property Management Plan. This plan includes a Resource Management Plan, Tribal Access and Engagement Plan, Public Access Plan, and Coastal Resilience Strategy. Restoration work is currently underway in various areas, focusing on invasive species management, and a volunteer training program is being established in partnership with the City of Costa Mesa for future restoration efforts within the Preserve.",
+      "source": "California Native Plant Society (CNPS) Chapters",
+      "sentiment": "POSITIVE"
+    },
+    {
       "id": "randall-preserve-public-access-details-july-2026",
       "category": "OFFICIAL",
       "date": "July 01, 2026",
@@ -348,6 +357,28 @@
   "birds": {
     "recentSightings": [
       {
+        "species": "Osprey",
+        "sciName": "Pandion haliaetus",
+        "location": "Huntington Beach SP",
+        "date": "2026-07-09 10:30",
+        "count": 1,
+        "lat": 33.6380643,
+        "lng": -117.9726387,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Osprey_Perched_Snag_Heislerville.jpg/330px-Osprey_Perched_Snag_Heislerville.jpg"
+      },
+      {
+        "species": "Brown Pelican",
+        "sciName": "Pelecanus occidentalis",
+        "location": "San Pedro Channel US-CA (33.6449,-117.9992)",
+        "date": "2026-07-09 09:39",
+        "count": 20,
+        "lat": 33.644902,
+        "lng": -117.999235,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Brown_pelican_in_flight_%28Bodega_Bay%29.jpg/330px-Brown_pelican_in_flight_%28Bodega_Bay%29.jpg"
+      },
+      {
         "species": "Allen's Hummingbird",
         "sciName": "Selasphorus sasin",
         "location": "Cliff Drive Park",
@@ -588,31 +619,42 @@
         "lng": -117.967902,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anna%27s_hummingbird.jpg/330px-Anna%27s_hummingbird.jpg"
-      },
-      {
-        "species": "Black Phoebe",
-        "sciName": "Sayornis nigricans",
-        "location": "9300–9498 Gulstrand Cir, Huntington Beach US-CA 33.64475, -117.96378",
-        "date": "2026-07-08 10:53",
-        "count": 1,
-        "lat": 33.644746,
-        "lng": -117.963784,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg/330px-Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg"
-      },
-      {
-        "species": "Clark's Grebe",
-        "sciName": "Aechmophorus clarkii",
-        "location": "Magnolia St, Huntington Beach US-CA (33.6410,-117.9735)",
-        "date": "2026-07-08 10:35",
-        "count": 1,
-        "lat": 33.640954,
-        "lng": -117.973513,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Clark%27s_grebe2.jpg/330px-Clark%27s_grebe2.jpg"
       }
     ],
     "notableSightings": [
+      {
+        "species": "Mitred Parakeet",
+        "sciName": "Psittacara mitratus",
+        "location": "Canyon Park, Costa Mesa",
+        "date": "2026-07-10 07:28",
+        "count": 13,
+        "lat": 33.646448,
+        "lng": -117.9395306,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mitred_Parakeet_Florida.jpg/330px-Mitred_Parakeet_Florida.jpg"
+      },
+      {
+        "species": "Red Knot",
+        "sciName": "Calidris canutus",
+        "location": "Bolsa Chica--walkbridge/inner bay",
+        "date": "2026-07-09 10:12",
+        "count": 2,
+        "lat": 33.6965128,
+        "lng": -118.0451372,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg/330px-Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg"
+      },
+      {
+        "species": "American Wigeon",
+        "sciName": "Mareca americana",
+        "location": "Bolsa Chica--walkbridge/inner bay",
+        "date": "2026-07-09 10:12",
+        "count": 1,
+        "lat": 33.6965128,
+        "lng": -118.0451372,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/American_Wigeon_Male.jpg/330px-American_Wigeon_Male.jpg"
+      },
       {
         "species": "American Wigeon",
         "sciName": "Mareca americana",
@@ -711,43 +753,10 @@
         "lng": -117.8293562,
         "notable": true,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Neotropic_cormorant_%28Nannopterum_brasilianum_mexicanum%29_Peten.jpg/330px-Neotropic_cormorant_%28Nannopterum_brasilianum_mexicanum%29_Peten.jpg"
-      },
-      {
-        "species": "Pigeon Guillemot",
-        "sciName": "Cepphus columba",
-        "location": "Newport Pier",
-        "date": "2026-07-03 06:36",
-        "count": 1,
-        "lat": 33.6059343,
-        "lng": -117.9312801,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Pigeon_guillemot.jpg/330px-Pigeon_guillemot.jpg"
-      },
-      {
-        "species": "Elegant Tern",
-        "sciName": "Thalasseus elegans",
-        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-07-03 06:35",
-        "count": 1,
-        "lat": 33.6637274,
-        "lng": -117.8426814,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2022-04-16_Thalasseus_elegans%2C_Upper_Newport_Bay%2C_California_4.jpg/330px-2022-04-16_Thalasseus_elegans%2C_Upper_Newport_Bay%2C_California_4.jpg"
-      },
-      {
-        "species": "Red-lored Amazon",
-        "sciName": "Amazona autumnalis",
-        "location": "Angels Community Park (Parrot Roost), Santa Ana",
-        "date": "2026-07-02 19:39",
-        "count": 3,
-        "lat": 33.746749,
-        "lng": -117.8771034,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Amazona_autumnalis_-Xcaret_theme_park_-Riviera_Maya-8a.jpg/330px-Amazona_autumnalis_-Xcaret_theme_park_-Riviera_Maya-8a.jpg"
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-07-09T15:55:54.125Z",
+    "lastBirdUpdate": "2026-07-10T15:30:44.724Z",
     "source": "eBird · Cornell Lab of Ornithology",
     "signatureSpecies": [
       {
@@ -787,5 +796,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-09T15:55:54.125Z"
+  "lastUpdated": "2026-07-10T15:30:44.724Z"
 }
