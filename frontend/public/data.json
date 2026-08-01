@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "cca-story-map-bluesky-july-2026",
+      "category": "SOCIAL",
+      "date": "July 09, 2026",
+      "title": "Coastal Corridor Alliance Promotes Randall Preserve Story Map on Bluesky",
+      "summary": "The Coastal Corridor Alliance encouraged community engagement on July 9, 2026, by promoting their Story Map about the Randall Preserve on Bluesky and inviting users to vote for it. This highlights their ongoing digital outreach efforts to share information about the preserve and foster public interest.",
+      "source": "Bluesky",
+      "sentiment": "POSITIVE"
+    },
+    {
       "id": "cca-film-festival-july-2026",
       "category": "LOCAL",
       "date": "July 08, 2026",
@@ -456,6 +465,204 @@
   "birds": {
     "recentSightings": [
       {
+        "species": "Swinhoe's White-eye",
+        "sciName": "Zosterops simplex",
+        "location": "My backyard",
+        "date": "2026-07-31 15:33",
+        "count": 1,
+        "lat": 33.667702,
+        "lng": -117.964362,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Resting_Zosterops_japonicus.jpg/330px-Resting_Zosterops_japonicus.jpg"
+      },
+      {
+        "species": "House Finch",
+        "sciName": "Haemorhous mexicanus",
+        "location": "My backyard",
+        "date": "2026-07-31 15:33",
+        "count": 1,
+        "lat": 33.667702,
+        "lng": -117.964362,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/House_finch_%2833688%292.jpg/330px-House_finch_%2833688%292.jpg"
+      },
+      {
+        "species": "Rock Pigeon",
+        "sciName": "Columba livia",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 2,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/330px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg"
+      },
+      {
+        "species": "Eurasian Collared-Dove",
+        "sciName": "Streptopelia decaocto",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 1,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/330px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg"
+      },
+      {
+        "species": "Mourning Dove",
+        "sciName": "Zenaida macroura",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 1,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Av_Mourning_Dove_JG.jpg/330px-Av_Mourning_Dove_JG.jpg"
+      },
+      {
+        "species": "Allen's Hummingbird",
+        "sciName": "Selasphorus sasin",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 1,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg/330px-Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg"
+      },
+      {
+        "species": "Hudsonian Whimbrel",
+        "sciName": "Numenius hudsonicus",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 4,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hudsonian_whimbrel_%28Numenius_hudsonicus%29_Chiloe.jpg/330px-Hudsonian_whimbrel_%28Numenius_hudsonicus%29_Chiloe.jpg"
+      },
+      {
+        "species": "Willet",
+        "sciName": "Tringa semipalmata",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 25,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Catoptrophorus_semipalmatus_edit.jpg/330px-Catoptrophorus_semipalmatus_edit.jpg"
+      },
+      {
+        "species": "Heermann's Gull",
+        "sciName": "Larus heermanni",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 13,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Larus_heermanni13.JPG/330px-Larus_heermanni13.JPG"
+      },
+      {
+        "species": "Ring-billed Gull",
+        "sciName": "Larus delawarensis",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 1,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Larus-delawarensis-021.jpg/330px-Larus-delawarensis-021.jpg"
+      },
+      {
+        "species": "Western Gull",
+        "sciName": "Larus occidentalis",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 23,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg/330px-Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg"
+      },
+      {
+        "species": "Caspian Tern",
+        "sciName": "Hydroprogne caspia",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 1,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sterna-caspia-010.jpg/330px-Sterna-caspia-010.jpg"
+      },
+      {
+        "species": "Black-crowned Night Heron",
+        "sciName": "Nycticorax nycticorax",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 1,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nycticorax_nycticorax_457953189.jpg/330px-Nycticorax_nycticorax_457953189.jpg"
+      },
+      {
+        "species": "Black Phoebe",
+        "sciName": "Sayornis nigricans",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 1,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg/330px-Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg"
+      },
+      {
+        "species": "Cassin's Kingbird",
+        "sciName": "Tyrannus vociferans",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 1,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tyrannus_vociferans_163482312_%28cropped%29.jpg/330px-Tyrannus_vociferans_163482312_%28cropped%29.jpg"
+      },
+      {
+        "species": "American Crow",
+        "sciName": "Corvus brachyrhynchos",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 6,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Corvus-brachyrhynchos-001.jpg/330px-Corvus-brachyrhynchos-001.jpg"
+      },
+      {
+        "species": "Barn Swallow",
+        "sciName": "Hirundo rustica",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 1,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/330px-Rauchschwalbe_Hirundo_rustica.jpg"
+      },
+      {
+        "species": "House Sparrow",
+        "sciName": "Passer domesticus",
+        "location": "Newport Municipal Beach, Newport Beach US-CA (33.6217,-117.9430)",
+        "date": "2026-07-31 06:18",
+        "count": 1,
+        "lat": 33.621738,
+        "lng": -117.94301,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/330px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg"
+      },
+      {
         "species": "Long-billed Curlew",
         "sciName": "Numenius americanus",
         "location": "1299 Victoria Street, Costa Mesa, California, US (33.649, -117.951)",
@@ -467,28 +674,6 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Long-billed_curlew_at_Drakes_Beach%2C_Point_Reyes.jpg/330px-Long-billed_curlew_at_Drakes_Beach%2C_Point_Reyes.jpg"
       },
       {
-        "species": "Heermann's Gull",
-        "sciName": "Larus heermanni",
-        "location": "Huntington State Beach, Huntington Beach US-CA 33.64705, -117.98823",
-        "date": "2026-07-30 19:49",
-        "count": 1,
-        "lat": 33.647051,
-        "lng": -117.988227,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Larus_heermanni13.JPG/330px-Larus_heermanni13.JPG"
-      },
-      {
-        "species": "Western Gull",
-        "sciName": "Larus occidentalis",
-        "location": "Huntington State Beach, Huntington Beach US-CA 33.64705, -117.98823",
-        "date": "2026-07-30 19:49",
-        "count": 5,
-        "lat": 33.647051,
-        "lng": -117.988227,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg/330px-Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg"
-      },
-      {
         "species": "California Gull",
         "sciName": "Larus californicus",
         "location": "Huntington State Beach, Huntington Beach US-CA 33.64705, -117.98823",
@@ -498,28 +683,6 @@
         "lng": -117.988227,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/CaliforniaGull.jpg/330px-CaliforniaGull.jpg"
-      },
-      {
-        "species": "Hudsonian Whimbrel",
-        "sciName": "Numenius hudsonicus",
-        "location": "Huntington City Beach, Huntington Beach US-CA 33.64769, -117.99082",
-        "date": "2026-07-30 16:28",
-        "count": 1,
-        "lat": 33.647688,
-        "lng": -117.990815,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hudsonian_whimbrel_%28Numenius_hudsonicus%29_Chiloe.jpg/330px-Hudsonian_whimbrel_%28Numenius_hudsonicus%29_Chiloe.jpg"
-      },
-      {
-        "species": "Rock Pigeon",
-        "sciName": "Columba livia",
-        "location": "Santa Ana River mouth",
-        "date": "2026-07-30 10:44",
-        "count": 60,
-        "lat": 33.6299142,
-        "lng": -117.9575443,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/330px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg"
       },
       {
         "species": "Snowy Plover",
@@ -544,17 +707,6 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/MarbledGodwit.jpg/330px-MarbledGodwit.jpg"
       },
       {
-        "species": "Willet",
-        "sciName": "Tringa semipalmata",
-        "location": "Santa Ana River mouth",
-        "date": "2026-07-30 10:44",
-        "count": 31,
-        "lat": 33.6299142,
-        "lng": -117.9575443,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Catoptrophorus_semipalmatus_edit.jpg/330px-Catoptrophorus_semipalmatus_edit.jpg"
-      },
-      {
         "species": "Least Tern",
         "sciName": "Sternula antillarum",
         "location": "Santa Ana River mouth",
@@ -566,17 +718,6 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg/330px-20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg"
       },
       {
-        "species": "Caspian Tern",
-        "sciName": "Hydroprogne caspia",
-        "location": "Santa Ana River mouth",
-        "date": "2026-07-30 10:44",
-        "count": 1,
-        "lat": 33.6299142,
-        "lng": -117.9575443,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sterna-caspia-010.jpg/330px-Sterna-caspia-010.jpg"
-      },
-      {
         "species": "Royal Tern",
         "sciName": "Thalasseus maximus",
         "location": "Santa Ana River mouth",
@@ -586,149 +727,94 @@
         "lng": -117.9575443,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Royal_Tern.jpg/330px-Royal_Tern.jpg"
-      },
-      {
-        "species": "Snowy Egret",
-        "sciName": "Egretta thula",
-        "location": "Santa Ana River mouth",
-        "date": "2026-07-30 10:44",
-        "count": 1,
-        "lat": 33.6299142,
-        "lng": -117.9575443,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg/330px-Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg"
-      },
-      {
-        "species": "Brown Pelican",
-        "sciName": "Pelecanus occidentalis",
-        "location": "Santa Ana River mouth",
-        "date": "2026-07-30 10:44",
-        "count": 1,
-        "lat": 33.6299142,
-        "lng": -117.9575443,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Brown_pelican_in_flight_%28Bodega_Bay%29.jpg/330px-Brown_pelican_in_flight_%28Bodega_Bay%29.jpg"
-      },
-      {
-        "species": "American Crow",
-        "sciName": "Corvus brachyrhynchos",
-        "location": "Santa Ana River mouth",
-        "date": "2026-07-30 10:44",
-        "count": 1,
-        "lat": 33.6299142,
-        "lng": -117.9575443,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Corvus-brachyrhynchos-001.jpg/330px-Corvus-brachyrhynchos-001.jpg"
-      },
-      {
-        "species": "House Finch",
-        "sciName": "Haemorhous mexicanus",
-        "location": "Santa Ana River mouth",
-        "date": "2026-07-30 10:44",
-        "count": 14,
-        "lat": 33.6299142,
-        "lng": -117.9575443,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/House_finch_%2833688%292.jpg/330px-House_finch_%2833688%292.jpg"
-      },
-      {
-        "species": "Canada Goose",
-        "sciName": "Branta canadensis",
-        "location": "Fairview Park--East of Placentia Ave.",
-        "date": "2026-07-30 06:57",
-        "count": 13,
-        "lat": 33.6651482,
-        "lng": -117.9370388,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canada_goose.jpg/330px-Canada_goose.jpg"
-      },
-      {
-        "species": "Eurasian Collared-Dove",
-        "sciName": "Streptopelia decaocto",
-        "location": "Fairview Park--East of Placentia Ave.",
-        "date": "2026-07-30 06:57",
-        "count": 1,
-        "lat": 33.6651482,
-        "lng": -117.9370388,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/330px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg"
-      },
-      {
-        "species": "Mourning Dove",
-        "sciName": "Zenaida macroura",
-        "location": "Fairview Park--East of Placentia Ave.",
-        "date": "2026-07-30 06:57",
-        "count": 14,
-        "lat": 33.6651482,
-        "lng": -117.9370388,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Av_Mourning_Dove_JG.jpg/330px-Av_Mourning_Dove_JG.jpg"
-      },
-      {
-        "species": "Anna's Hummingbird",
-        "sciName": "Calypte anna",
-        "location": "Fairview Park--East of Placentia Ave.",
-        "date": "2026-07-30 06:57",
-        "count": 4,
-        "lat": 33.6651482,
-        "lng": -117.9370388,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Anna%27s_hummingbird.jpg/330px-Anna%27s_hummingbird.jpg"
-      },
-      {
-        "species": "Allen's Hummingbird",
-        "sciName": "Selasphorus sasin",
-        "location": "Fairview Park--East of Placentia Ave.",
-        "date": "2026-07-30 06:57",
-        "count": 2,
-        "lat": 33.6651482,
-        "lng": -117.9370388,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg/330px-Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg"
-      },
-      {
-        "species": "Red-shouldered Hawk",
-        "sciName": "Buteo lineatus",
-        "location": "Fairview Park--East of Placentia Ave.",
-        "date": "2026-07-30 06:57",
-        "count": 1,
-        "lat": 33.6651482,
-        "lng": -117.9370388,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Red-shouldered_Hawk_%28Buteo_lineatus%29_-_Blue_Cypress_Lake%2C_Florida.jpg/330px-Red-shouldered_Hawk_%28Buteo_lineatus%29_-_Blue_Cypress_Lake%2C_Florida.jpg"
-      },
-      {
-        "species": "Downy Woodpecker",
-        "sciName": "Dryobates pubescens",
-        "location": "Fairview Park--East of Placentia Ave.",
-        "date": "2026-07-30 06:57",
-        "count": 1,
-        "lat": 33.6651482,
-        "lng": -117.9370388,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dryobates_pubescens_UL_03.jpg/330px-Dryobates_pubescens_UL_03.jpg"
-      },
-      {
-        "species": "Nuttall's Woodpecker",
-        "sciName": "Dryobates nuttallii",
-        "location": "Fairview Park--East of Placentia Ave.",
-        "date": "2026-07-30 06:57",
-        "count": 1,
-        "lat": 33.6651482,
-        "lng": -117.9370388,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NuttallsWoodpecker-28MAR2016.jpg/330px-NuttallsWoodpecker-28MAR2016.jpg"
       }
     ],
     "notableSightings": [
       {
+        "species": "Little Blue Heron",
+        "sciName": "Egretta caerulea",
+        "location": "Bolsa Chica Ecological Reserve",
+        "date": "2026-07-31 16:39",
+        "count": 1,
+        "lat": 33.7026531,
+        "lng": -118.050735,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Little_Blue_Fly-By.png/330px-Little_Blue_Fly-By.png"
+      },
+      {
+        "species": "Little Blue Heron",
+        "sciName": "Egretta caerulea",
+        "location": "Bolsa Chica Ecological Reserve",
+        "date": "2026-07-31 15:00",
+        "count": 1,
+        "lat": 33.7026531,
+        "lng": -118.050735,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Little_Blue_Fly-By.png/330px-Little_Blue_Fly-By.png"
+      },
+      {
+        "species": "Summer Tanager",
+        "sciName": "Piranga rubra",
+        "location": "Nature Center at Mile Square Park",
+        "date": "2026-07-31 12:44",
+        "count": 1,
+        "lat": 33.727306,
+        "lng": -117.941885,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Summer_tanager_%28Piranga_rubra%29_male_Copan_3.jpg/330px-Summer_tanager_%28Piranga_rubra%29_male_Copan_3.jpg"
+      },
+      {
+        "species": "Summer Tanager",
+        "sciName": "Piranga rubra",
+        "location": "Mile Square Regional Park, Fountain Valley",
+        "date": "2026-07-31 09:55",
+        "count": 1,
+        "lat": 33.7246609,
+        "lng": -117.9395199,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Summer_tanager_%28Piranga_rubra%29_male_Copan_3.jpg/330px-Summer_tanager_%28Piranga_rubra%29_male_Copan_3.jpg"
+      },
+      {
         "species": "Sora",
         "sciName": "Porzana carolina",
-        "location": "1299 Victoria Street, Costa Mesa, California, US (33.649, -117.951)",
-        "date": "2026-07-30 20:25",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-07-31 08:28",
         "count": 1,
-        "lat": 33.6488198,
-        "lng": -117.9505676,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
+        "notable": true,
+        "imageUrl": null
+      },
+      {
+        "species": "Sora",
+        "sciName": "Porzana carolina",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-07-31 08:25",
+        "count": 2,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
+        "notable": true,
+        "imageUrl": null
+      },
+      {
+        "species": "Sora",
+        "sciName": "Porzana carolina",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-07-31 08:25",
+        "count": 2,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
+        "notable": true,
+        "imageUrl": null
+      },
+      {
+        "species": "Sora",
+        "sciName": "Porzana carolina",
+        "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
+        "date": "2026-07-31 07:43",
+        "count": 1,
+        "lat": 33.6609892,
+        "lng": -117.8437141,
         "notable": true,
         "imageUrl": null
       },
@@ -736,126 +822,49 @@
         "species": "Neotropic Cormorant",
         "sciName": "Nannopterum brasilianum",
         "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
-        "date": "2026-07-30 09:55",
-        "count": 2,
+        "date": "2026-07-31 07:04",
+        "count": 1,
         "lat": 33.6609892,
         "lng": -117.8437141,
         "notable": true,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Neotropic_cormorant_%28Nannopterum_brasilianum_mexicanum%29_Peten.jpg/330px-Neotropic_cormorant_%28Nannopterum_brasilianum_mexicanum%29_Peten.jpg"
       },
       {
-        "species": "American Wigeon",
-        "sciName": "Mareca americana",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-07-30 06:56",
-        "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/American_Wigeon_Male.jpg/330px-American_Wigeon_Male.jpg"
-      },
-      {
-        "species": "Little Blue Heron",
-        "sciName": "Egretta caerulea",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-07-30 06:56",
-        "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Little_Blue_Fly-By.png/330px-Little_Blue_Fly-By.png"
-      },
-      {
-        "species": "American Wigeon",
-        "sciName": "Mareca americana",
-        "location": "Bolsa Chica--walkbridge/inner bay",
-        "date": "2026-07-30 06:32",
-        "count": 1,
-        "lat": 33.6965128,
-        "lng": -118.0451372,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/American_Wigeon_Male.jpg/330px-American_Wigeon_Male.jpg"
-      },
-      {
-        "species": "Little Blue Heron",
-        "sciName": "Egretta caerulea",
-        "location": "Bolsa Chica--walkbridge/inner bay",
-        "date": "2026-07-30 06:32",
-        "count": 1,
-        "lat": 33.6965128,
-        "lng": -118.0451372,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Little_Blue_Fly-By.png/330px-Little_Blue_Fly-By.png"
-      },
-      {
-        "species": "Mitred Parakeet",
-        "sciName": "Psittacara mitratus",
-        "location": "2642 Newport Blvd, Costa Mesa US-CA 33.66350, -117.89525",
-        "date": "2026-07-29 17:14",
-        "count": 2,
-        "lat": 33.663495,
-        "lng": -117.895246,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mitred_Parakeet_Florida.jpg/330px-Mitred_Parakeet_Florida.jpg"
-      },
-      {
         "species": "Neotropic Cormorant",
         "sciName": "Nannopterum brasilianum",
-        "location": "William R Mason Regional Park, Irvine",
-        "date": "2026-07-29 14:14",
+        "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
+        "date": "2026-07-31 07:04",
         "count": 1,
-        "lat": 33.6561023,
-        "lng": -117.8293562,
+        "lat": 33.6609892,
+        "lng": -117.8437141,
         "notable": true,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Neotropic_cormorant_%28Nannopterum_brasilianum_mexicanum%29_Peten.jpg/330px-Neotropic_cormorant_%28Nannopterum_brasilianum_mexicanum%29_Peten.jpg"
       },
       {
-        "species": "Little Blue Heron",
-        "sciName": "Egretta caerulea",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-07-29 10:22",
+        "species": "Green-winged Teal",
+        "sciName": "Anas crecca",
+        "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
+        "date": "2026-07-31 07:04",
         "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
+        "lat": 33.6609892,
+        "lng": -117.8437141,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Little_Blue_Fly-By.png/330px-Little_Blue_Fly-By.png"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Green-winged_Teal%2C_Port_Aransas%2C_Texas.jpg/330px-Green-winged_Teal%2C_Port_Aransas%2C_Texas.jpg"
       },
       {
-        "species": "American Wigeon",
-        "sciName": "Mareca americana",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-07-29 10:22",
+        "species": "Sora",
+        "sciName": "Porzana carolina",
+        "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
+        "date": "2026-07-31 07:04",
         "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
+        "lat": 33.6609892,
+        "lng": -117.8437141,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/American_Wigeon_Male.jpg/330px-American_Wigeon_Male.jpg"
-      },
-      {
-        "species": "Nazca Booby",
-        "sciName": "Sula granti",
-        "location": "Newport Beach--nearshore (ORA Co.)",
-        "date": "2026-07-29 09:22",
-        "count": 1,
-        "lat": 33.5551278,
-        "lng": -117.9141333,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nazca-Booby.jpg/330px-Nazca-Booby.jpg"
-      },
-      {
-        "species": "Nazca Booby",
-        "sciName": "Sula granti",
-        "location": "Newport Beach--nearshore (ORA Co.)",
-        "date": "2026-07-29 09:22",
-        "count": 1,
-        "lat": 33.5551278,
-        "lng": -117.9141333,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nazca-Booby.jpg/330px-Nazca-Booby.jpg"
+        "imageUrl": null
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-07-31T15:18:08.629Z",
+    "lastBirdUpdate": "2026-08-01T14:25:40.573Z",
     "source": "eBird · Cornell Lab of Ornithology",
     "signatureSpecies": [
       {
@@ -895,5 +904,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-31T15:18:08.629Z"
+  "lastUpdated": "2026-08-01T14:25:40.573Z"
 }
