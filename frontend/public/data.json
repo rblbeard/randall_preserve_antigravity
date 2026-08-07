@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "randall-preserve-home-listing-price-further-reduction-july-2026",
+      "category": "LOCAL",
+      "date": "July 31, 2026",
+      "title": "Further Price Reduction for Home with Randall Preserve Views in Newport Crest",
+      "summary": "The listing price for the residence at 12 Aries Ct, Newport Beach, adjacent to the Randall Preserve, was further reduced to $1,499,000 on July 29, 2026, as of its July 31, 2026, update. This 2-bedroom, 2.5-bath condo continues to be marketed with prominent 'Ocean, Sunset and Randall Preserve Views,' reflecting ongoing real estate activity near the preserve.",
+      "source": "Redfin",
+      "sentiment": "NEUTRAL"
+    },
+    {
       "id": "cca-fairview-park-restoration-aug-multi-2026",
       "category": "LOCAL",
       "date": "August 06, 2026",
@@ -528,271 +537,304 @@
   "birds": {
     "recentSightings": [
       {
-        "species": "Peregrine Falcon",
-        "sciName": "Falco peregrinus",
-        "location": "Hoag Hospital",
-        "date": "2026-08-05 15:15",
-        "count": 1,
-        "lat": 33.6244023,
-        "lng": -117.9296386,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg/330px-Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg"
-      },
-      {
-        "species": "Eurasian Collared-Dove",
-        "sciName": "Streptopelia decaocto",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 6,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/330px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg"
-      },
-      {
-        "species": "Mourning Dove",
-        "sciName": "Zenaida macroura",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 4,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Av_Mourning_Dove_JG.jpg/330px-Av_Mourning_Dove_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Long-billed Curlew",
-        "sciName": "Numenius americanus",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 1,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Long-billed_curlew_at_Drakes_Beach%2C_Point_Reyes.jpg/330px-Long-billed_curlew_at_Drakes_Beach%2C_Point_Reyes.jpg"
-      },
-      {
-        "species": "Marbled Godwit",
-        "sciName": "Limosa fedoa",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
+        "species": "Allen's Hummingbird",
+        "sciName": "Selasphorus sasin",
+        "location": "My backyard",
+        "date": "2026-08-06 15:25",
         "count": 2,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
+        "lat": 33.667702,
+        "lng": -117.964362,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/MarbledGodwit.jpg/330px-MarbledGodwit.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg/330px-Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Greater Yellowlegs",
-        "sciName": "Tringa melanoleuca",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 3,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
+        "species": "Swinhoe's White-eye",
+        "sciName": "Zosterops simplex",
+        "location": "My backyard",
+        "date": "2026-08-06 15:25",
+        "count": 5,
+        "lat": 33.667702,
+        "lng": -117.964362,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png/330px-Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Resting_Zosterops_japonicus.jpg/330px-Resting_Zosterops_japonicus.jpg"
+      },
+      {
+        "species": "House Finch",
+        "sciName": "Haemorhous mexicanus",
+        "location": "My backyard",
+        "date": "2026-08-06 15:25",
+        "count": 5,
+        "lat": 33.667702,
+        "lng": -117.964362,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/House_finch_%2833688%292.jpg/330px-House_finch_%2833688%292.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Western Gull",
         "sciName": "Larus occidentalis",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 2,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
+        "location": "Flying above wetlands and wildlife",
+        "date": "2026-08-06 12:03",
+        "count": null,
+        "lat": 33.6443656,
+        "lng": -117.9807096,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg/330px-Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg"
       },
       {
-        "species": "Royal Tern",
-        "sciName": "Thalasseus maximus",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
+        "species": "Osprey",
+        "sciName": "Pandion haliaetus",
+        "location": "Flying above wetlands and wildlife",
+        "date": "2026-08-06 12:03",
         "count": 1,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
+        "lat": 33.6443656,
+        "lng": -117.9807096,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Royal_Tern.jpg/330px-Royal_Tern.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Osprey_Perched_Snag_Heislerville.jpg/330px-Osprey_Perched_Snag_Heislerville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Double-crested Cormorant",
-        "sciName": "Nannopterum auritum",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 1,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
+        "species": "American Crow",
+        "sciName": "Corvus brachyrhynchos",
+        "location": "Flying above wetlands and wildlife",
+        "date": "2026-08-06 12:03",
+        "count": null,
+        "lat": 33.6443656,
+        "lng": -117.9807096,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Phalacrocorax-auritus-007.jpg/330px-Phalacrocorax-auritus-007.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Corvus-brachyrhynchos-001.jpg/330px-Corvus-brachyrhynchos-001.jpg"
+      },
+      {
+        "species": "California Towhee",
+        "sciName": "Melozone crissalis",
+        "location": "Flying above wetlands and wildlife",
+        "date": "2026-08-06 12:03",
+        "count": null,
+        "lat": 33.6443656,
+        "lng": -117.9807096,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Melozone_crissalis_103257560.jpg/330px-Melozone_crissalis_103257560.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Rock Pigeon",
+        "sciName": "Columba livia",
+        "location": "Beach, Huntington Beach US-CA 33.63127, -117.96170",
+        "date": "2026-08-06 09:54",
+        "count": 1,
+        "lat": 33.631274,
+        "lng": -117.961701,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/330px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg"
+      },
+      {
+        "species": "Willet",
+        "sciName": "Tringa semipalmata",
+        "location": "Beach, Huntington Beach US-CA 33.63127, -117.96170",
+        "date": "2026-08-06 09:54",
+        "count": 2,
+        "lat": 33.631274,
+        "lng": -117.961701,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Catoptrophorus_semipalmatus_edit.jpg/330px-Catoptrophorus_semipalmatus_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Heermann's Gull",
+        "sciName": "Larus heermanni",
+        "location": "Beach, Huntington Beach US-CA 33.63127, -117.96170",
+        "date": "2026-08-06 09:54",
+        "count": 2,
+        "lat": 33.631274,
+        "lng": -117.961701,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Larus_heermanni13.JPG/330px-Larus_heermanni13.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Ring-billed Gull",
+        "sciName": "Larus delawarensis",
+        "location": "Beach, Huntington Beach US-CA 33.63127, -117.96170",
+        "date": "2026-08-06 09:54",
+        "count": 2,
+        "lat": 33.631274,
+        "lng": -117.961701,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Larus-delawarensis-021.jpg/330px-Larus-delawarensis-021.jpg"
+      },
+      {
+        "species": "Elegant Tern",
+        "sciName": "Thalasseus elegans",
+        "location": "Beach, Huntington Beach US-CA 33.63127, -117.96170",
+        "date": "2026-08-06 09:54",
+        "count": 100,
+        "lat": 33.631274,
+        "lng": -117.961701,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2022-04-16_Thalasseus_elegans%2C_Upper_Newport_Bay%2C_California_4.jpg/330px-2022-04-16_Thalasseus_elegans%2C_Upper_Newport_Bay%2C_California_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Eurasian Collared-Dove",
+        "sciName": "Streptopelia decaocto",
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
+        "count": 1,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/330px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg"
+      },
+      {
+        "species": "Killdeer",
+        "sciName": "Charadrius vociferus",
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
+        "count": 6,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Killdeer_Heislerville.png/330px-Killdeer_Heislerville.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Long-billed Curlew",
+        "sciName": "Numenius americanus",
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
+        "count": 1,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Long-billed_curlew_at_Drakes_Beach%2C_Point_Reyes.jpg/330px-Long-billed_curlew_at_Drakes_Beach%2C_Point_Reyes.jpg"
+      },
+      {
+        "species": "Greater Yellowlegs",
+        "sciName": "Tringa melanoleuca",
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
+        "count": 4,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png/330px-Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "White-faced Ibis",
+        "sciName": "Plegadis chihi",
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
+        "count": 5,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adult_white-faced_ibis_%28Plegadis_chihi%29-4026.jpg/330px-Adult_white-faced_ibis_%28Plegadis_chihi%29-4026.jpg"
       },
       {
         "species": "Yellow-crowned Night Heron",
         "sciName": "Nyctanassa violacea",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 2,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
+        "count": 1,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Yellow-crowned_Night_Heron_%28Nyctanassa_violacea%29_perched_on_a_cedar_-_Cape_May_County%2C_New_Jersey%2C_USA.png/330px-Yellow-crowned_Night_Heron_%28Nyctanassa_violacea%29_perched_on_a_cedar_-_Cape_May_County%2C_New_Jersey%2C_USA.png"
       },
       {
+        "species": "Black-crowned Night Heron",
+        "sciName": "Nycticorax nycticorax",
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
+        "count": 5,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nycticorax_nycticorax_457953189.jpg/330px-Nycticorax_nycticorax_457953189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
         "species": "Snowy Egret",
         "sciName": "Egretta thula",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 2,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
+        "count": 41,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg/330px-Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg"
       },
       {
         "species": "Great Egret",
         "sciName": "Ardea alba",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 2,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
+        "count": 9,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Great_Egret_%28Ardea_alba%29_in_Breeding_Plumage%2C_Cape_May_County%2C_New_Jersey%2C_USA_%28cropped%29.png/330px-Great_Egret_%28Ardea_alba%29_in_Breeding_Plumage%2C_Cape_May_County%2C_New_Jersey%2C_USA_%28cropped%29.png"
       },
       {
         "species": "Great Blue Heron",
         "sciName": "Ardea herodias",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 4,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
+        "count": 3,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GreatBlueHeronInARiver.jpg/330px-GreatBlueHeronInARiver.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Osprey",
-        "sciName": "Pandion haliaetus",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
+        "species": "Black Phoebe",
+        "sciName": "Sayornis nigricans",
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
+        "count": 1,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg/330px-Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Barn Swallow",
+        "sciName": "Hirundo rustica",
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-08-06 06:59",
         "count": 2,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Osprey_Perched_Snag_Heislerville.jpg/330px-Osprey_Perched_Snag_Heislerville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Red-tailed Hawk",
-        "sciName": "Buteo jamaicensis",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 1,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg/330px-Red-tailed_Hawk_%2845812546121%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Belted Kingfisher",
-        "sciName": "Megaceryle alcyon",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 1,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BeltedKingfisherJG_Male.jpg/330px-BeltedKingfisherJG_Male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "American Crow",
-        "sciName": "Corvus brachyrhynchos",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 2,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Corvus-brachyrhynchos-001.jpg/330px-Corvus-brachyrhynchos-001.jpg"
-      },
-      {
-        "species": "Swinhoe's White-eye",
-        "sciName": "Zosterops simplex",
-        "location": "USACE Marsh & Wetlands (exclude Santa Ana River)",
-        "date": "2026-08-05 15:04",
-        "count": 1,
-        "lat": 33.6319224,
-        "lng": -117.9525855,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Resting_Zosterops_japonicus.jpg/330px-Resting_Zosterops_japonicus.jpg"
-      },
-      {
-        "species": "Least Tern",
-        "sciName": "Sternula antillarum",
-        "location": "Santa Ana River mouth",
-        "date": "2026-08-05 12:13",
-        "count": 3,
-        "lat": 33.6299142,
-        "lng": -117.9575443,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg/330px-20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg"
-      },
-      {
-        "species": "Mallard",
-        "sciName": "Anas platyrhynchos",
-        "location": "Talbert Nature Preserve, Costa Mesa",
-        "date": "2026-08-05 10:27",
-        "count": 1,
-        "lat": 33.6486374,
-        "lng": -117.9489402,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/330px-Anas_platyrhynchos_male_female_quadrat.jpg"
-      },
-      {
-        "species": "Allen's Hummingbird",
-        "sciName": "Selasphorus sasin",
-        "location": "Talbert Nature Preserve, Costa Mesa",
-        "date": "2026-08-05 10:27",
-        "count": 1,
-        "lat": 33.6486374,
-        "lng": -117.9489402,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg/330px-Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Turkey Vulture",
-        "sciName": "Cathartes aura",
-        "location": "Talbert Nature Preserve, Costa Mesa",
-        "date": "2026-08-05 10:27",
-        "count": 1,
-        "lat": 33.6486374,
-        "lng": -117.9489402,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Turkey_vulture_%28Cathartes_aura%29_Orange_Walk.jpg/330px-Turkey_vulture_%28Cathartes_aura%29_Orange_Walk.jpg"
-      },
-      {
-        "species": "White-tailed Kite",
-        "sciName": "Elanus leucurus",
-        "location": "Talbert Nature Preserve, Costa Mesa",
-        "date": "2026-08-05 10:27",
-        "count": 1,
-        "lat": 33.6486374,
-        "lng": -117.9489402,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Elanus_leucurus_3.jpg/330px-Elanus_leucurus_3.jpg"
-      },
-      {
-        "species": "Nuttall's Woodpecker",
-        "sciName": "Dryobates nuttallii",
-        "location": "Talbert Nature Preserve, Costa Mesa",
-        "date": "2026-08-05 10:27",
-        "count": 1,
-        "lat": 33.6486374,
-        "lng": -117.9489402,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NuttallsWoodpecker-28MAR2016.jpg/330px-NuttallsWoodpecker-28MAR2016.jpg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/330px-Rauchschwalbe_Hirundo_rustica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       }
     ],
     "notableSightings": [
+      {
+        "species": "Little Blue Heron",
+        "sciName": "Egretta caerulea",
+        "location": "Bolsa Chica--walkbridge/inner bay",
+        "date": "2026-08-06 17:34",
+        "count": 1,
+        "lat": 33.6965128,
+        "lng": -118.0451372,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Little_Blue_Fly-By.png/330px-Little_Blue_Fly-By.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Gadwall x Mallard (hybrid)",
+        "sciName": "Mareca strepera x Anas platyrhynchos",
+        "location": "Huntington Central Park--East",
+        "date": "2026-08-06 09:11",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": null
+      },
+      {
+        "species": "Gadwall x Mallard (hybrid)",
+        "sciName": "Mareca strepera x Anas platyrhynchos",
+        "location": "Huntington Central Park--East",
+        "date": "2026-08-06 06:00",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": null
+      },
       {
         "species": "Cocos Booby",
         "sciName": "Sula brewsteri",
@@ -824,40 +866,7 @@
         "lat": 33.66008,
         "lng": -117.993299,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mitred_Parakeet_Florida.jpg/330px-Mitred_Parakeet_Florida.jpg"
-      },
-      {
-        "species": "Cocos Booby",
-        "sciName": "Sula brewsteri",
-        "location": "Newport Beach--nearshore (ORA Co.)",
-        "date": "2026-08-05 09:22",
-        "count": 3,
-        "lat": 33.5551278,
-        "lng": -117.9141333,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sula_leucogaster_brewsteri_379677568.jpg/330px-Sula_leucogaster_brewsteri_379677568.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Common Murre",
-        "sciName": "Uria aalge",
-        "location": "Newport Beach--nearshore (ORA Co.)",
-        "date": "2026-08-05 09:22",
-        "count": 1,
-        "lat": 33.5551278,
-        "lng": -117.9141333,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Common_Murre_Uria_aalge.jpg/330px-Common_Murre_Uria_aalge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Common Murre",
-        "sciName": "Uria aalge",
-        "location": "Newport Beach--nearshore (ORA Co.)",
-        "date": "2026-08-05 09:22",
-        "count": 1,
-        "lat": 33.5551278,
-        "lng": -117.9141333,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Common_Murre_Uria_aalge.jpg/330px-Common_Murre_Uria_aalge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mitred_Parakeet_Florida.jpg/330px-Mitred_Parakeet_Florida.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Common Murre",
@@ -897,7 +906,7 @@
         "sciName": "Uria aalge",
         "location": "Newport Beach--nearshore (ORA Co.)",
         "date": "2026-08-05 09:22",
-        "count": 2,
+        "count": 1,
         "lat": 33.5551278,
         "lng": -117.9141333,
         "notable": true,
@@ -927,7 +936,7 @@
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-08-06T15:16:02.041Z",
+    "lastBirdUpdate": "2026-08-07T14:12:28.140Z",
     "source": "eBird · Cornell Lab of Ornithology",
     "signatureSpecies": [
       {
@@ -967,5 +976,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-06T15:16:02.041Z"
+  "lastUpdated": "2026-08-07T14:12:28.140Z"
 }
