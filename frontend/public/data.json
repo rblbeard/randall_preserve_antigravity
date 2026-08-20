@@ -1,561 +1,30 @@
 {
   "feed": [
     {
-      "id": "cca-restoration-extension-sept-2026",
-      "category": "LOCAL",
-      "date": "August 17, 2026",
-      "title": "Coastal Corridor Alliance Extends Habitat Restoration Days into September at Fairview Park",
-      "summary": "The Coastal Corridor Alliance has scheduled additional 'Habitat Restoration Days' at Fairview Park for late August and into September 2026, including dates on August 28, September 3, 4, 10, and 11. These new dates reflect the ongoing commitment to native habitat restoration within the Santa Ana River coastal lands.",
-      "source": "Eventbrite (Coastal Corridor Alliance)",
+      "id": "cca-mrca-management-plan-adopted-aug-2026",
+      "category": "OFFICIAL",
+      "date": "August 12, 2026",
+      "title": "Randall Preserve Property Management Plan Formally Adopted by MRCA Governing Board",
+      "summary": "The Mountains Recreation and Conservation Authority (MRCA) Governing Board has formally adopted the Randall Preserve Property Management Plan. This comprehensive plan outlines the future stewardship of the preserve, including the development of over five miles of trails that will offer scenic views of Catalina Island, Mt. Baldy, and the Palos Verdes Peninsula.",
+      "source": "Coastal Corridor Alliance (Facebook) / L.A. Mountains (Facebook)",
       "sentiment": "POSITIVE"
     },
     {
-      "id": "randall-preserve-plans-adv-mrca-aug-2026",
+      "id": "nmusd-parcel-debate-aug-2026",
       "category": "OFFICIAL",
-      "date": "August 04, 2026",
-      "title": "Randall Preserve Plans for Management, Access, and Coastal Resilience Advance to MRCA Governing Board",
-      "summary": "The Randall Preserve Advisory Committee has concluded its planning efforts, with approximately 83% of participants supporting the updated Resource Management Plan, Public Access Plan, Recreation Impact Analysis, and Coastal Resilience Strategy. These comprehensive plans will now proceed to the Mountains Recreation and Conservation Authority Governing Board for further consideration and approval.",
-      "source": "CNPS Chapters",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "randall-preserve-plans-approved-aug-2026",
-      "category": "OFFICIAL",
-      "date": "August 14, 2026",
-      "title": "Key Management, Access, and Tribal Plans Approved for Randall Preserve",
-      "summary": "The Randall Preserve has reached a significant milestone with recent approvals for its property management and tribal access plans. These approvals, shaped by community input and tribal consultation, advance efforts in habitat stewardship, trail development, and wetland restoration, signaling a shift towards opening trails and creating a vibrant, ecologically rich public space. Cleanup from past oil use remains ongoing.",
-      "source": "Irvine News (Apple Podcasts) / Costa Mesa Patch.am",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "mrca-remediation-site-visit-aug-2026",
-      "category": "OFFICIAL",
-      "date": "August 14, 2026",
-      "title": "MRCA Conducts Site Visit to Randall Preserve for Remediation Update",
-      "summary": "The Mountains Recreation and Conservation Authority (MRCA)'s Park Development and Watershed Planning team recently conducted site visits, including one to the Randall Preserve, to review the ongoing remediation efforts being carried out by former owners. This visit indicates continued oversight and engagement in the preserve's environmental cleanup.",
-      "source": "L.A. Mountains (Facebook)",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "id": "cca-mrca-fire-prevention-aug-2026",
-      "category": "OFFICIAL",
-      "date": "July 30, 2026",
-      "title": "Coastal Corridor Alliance and MRCA Engaged in Randall Preserve Fire Prevention",
-      "summary": "During a recent city council update, it was reported that the Coastal Corridor Alliance and the Mountains Recreation and Conservation Authority (MRCA) are actively involved in fire prevention efforts for the Randall Preserve. These efforts are ongoing while the land remediation is underway, which is expected to continue for several more years.",
-      "source": "Ed Markey (Facebook)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "randall-preserve-entrance-discussion-aug-2026",
-      "category": "LOCAL",
-      "date": "August 04, 2026",
-      "title": "Discussion on Randall Preserve Entrance and Coastal Commission Approval",
-      "summary": "A public discussion highlighted that the current entrance off 17th Street is considered more suitable for the Randall Preserve, with concerns that alternative plans might require additional grading on sensitive habitat. Such changes would necessitate approval from the Coastal Commission, indicating ongoing public and regulatory scrutiny over access points and potential environmental impacts.",
-      "source": "City of Duarte (Facebook)",
+      "date": "August 19, 2026",
+      "title": "Debate Continues Over 11-Acre NMUSD Parcel Adjacent to Randall Preserve",
+      "summary": "Negotiations are ongoing for an 11-acre parcel owned by the Newport-Mesa Unified School District (NMUSD) adjacent to the Randall Preserve, with competing proposals for its future. A developer is bidding to lease the land for nearly 200 housing units, while community advocates, including the Coastal Corridor Alliance, are pushing for its preservation as public open space, integrated with the nature preserve.",
+      "source": "OC Register (via Coastal Corridor Alliance Facebook) / Hoodline / Los Angeles Times / Facebook",
       "sentiment": "MIXED"
     },
     {
-      "id": "uci-cca-volunteer-transport-aug-2026",
+      "id": "cca-september-beach-cleanup-announcement-aug-2026",
       "category": "LOCAL",
-      "date": "August 07, 2026",
-      "title": "UC Irvine Partners with Coastal Corridor Alliance to Provide Volunteer Transportation",
-      "summary": "UC Irvine's Sustainability Resource Center has partnered with the Coastal Corridor Alliance to offer transportation for students participating in quarterly environmental volunteer opportunities. This initiative aims to remove transportation barriers, enabling more students to engage in hands-on environmental stewardship and build community connections beyond campus.",
-      "source": "UC Irvine / Coastal Corridor Alliance (Facebook)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "nmusd-parcel-conservancy-bid-aug-2026",
-      "category": "OFFICIAL",
-      "date": "August 05, 2026",
-      "title": "Local Conservancy Submits $2 Million Bid for Randall Preserve-Adjacent NMUSD Parcel",
-      "summary": "A local conservancy has submitted a $2 million bid to the Newport-Mesa Unified School District (NMUSD) for an 11-acre parcel next to the Randall Preserve. This proposal seeks to acquire the land for public open space, directly competing with a developer's plan to build nearly 200 housing units, with the conservancy citing potential legal undevelopability due to Coastal Act restrictions.",
-      "source": "Facebook (Community Discussion)",
-      "sentiment": "MIXED"
-    },
-    {
-      "id": "cca-fairview-park-restoration-july-14-2026",
-      "category": "LOCAL",
-      "date": "July 14, 2026",
-      "title": "Coastal Corridor Alliance Holds Habitat Restoration Day at Fairview Park",
-      "summary": "The Coastal Corridor Alliance (CCA) hosted a Habitat Restoration Day at Fairview Park on July 14, 2026. Volunteers participated in efforts to rewild local habitat areas within the Santa Ana River coastal lands.",
-      "source": "Coastal Corridor Alliance (Facebook)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-aug-2026-youtube-updates",
-      "category": "LOCAL",
-      "date": "August 10, 2026",
-      "title": "Coastal Corridor Alliance Publishes August 2026 Newsletter and Events Videos on YouTube",
-      "summary": "The Coastal Corridor Alliance has released its 'August 2026 Newsletter' and 'August '26 CCA Events' videos on its YouTube channel. These videos provide updates on ongoing conservation efforts and upcoming community activities within the Santa Ana River Coastal Corridor.",
-      "source": "Coastal Corridor Alliance (YouTube)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-sept-beach-cleanup-2026",
-      "category": "LOCAL",
-      "date": "September 19, 2026",
+      "date": "August 13, 2026",
       "title": "Coastal Corridor Alliance Announces September Beach & River Mouth Cleanup",
-      "summary": "The Coastal Corridor Alliance has scheduled a 'Special Beach Cleanup' for Saturday, September 19, 2026, at Newport Lifeguard Tower 74, located at the Santa Ana River Mouth. Volunteers are invited to participate in cleaning up the Santa Ana River Coastal Corridor to help protect local waterways and wildlife.",
+      "summary": "The Coastal Corridor Alliance has announced a 'Special Beach Cleanup | Especial Limpieza de Playa' scheduled for Saturday, September 19, 2026. Volunteers are invited to participate at Newport Lifeguard Tower 74, located at the Santa Ana River Mouth, to help clean and restore the coastal corridor's habitats and protect local wildlife.",
       "source": "Eventbrite (Coastal Corridor Alliance)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "12-aries-ct-open-house-aug-2026",
-      "category": "LOCAL",
-      "date": "August 08, 2026",
-      "title": "Open House Scheduled for Residence Adjacent to Randall Preserve in Newport Crest",
-      "summary": "A residence at 12 Aries Court in Newport Beach, noted for its 'Ocean, Sunset and Randall Preserve Views,' held an open house on August 9, 2026. The 2-bedroom, 2.5-bath condo was listed at $1,499,000, indicating continued real estate activity and interest in properties bordering the preserve.",
-      "source": "Pacificwide Real Estate & Mortgage",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "id": "nmusd-parcel-housing-negotiations-aug-2026",
-      "category": "OFFICIAL",
-      "date": "August 06, 2026",
-      "title": "NMUSD Continues Negotiations for Housing Development on Preserve-Adjacent Parcel Amidst Community Opposition",
-      "summary": "The Newport-Mesa Unified School District (NMUSD) is actively negotiating with a developer to lease an 11-acre plot adjacent to the Randall Preserve for the construction of nearly 200 housing units. This move faces significant community opposition from those who advocate for the land's incorporation into the nature preserve for open space and conservation, rather than residential development.",
-      "source": "Los Angeles Times / Hoodline / Facebook",
-      "sentiment": "MIXED"
-    },
-    {
-      "id": "randall-preserve-home-listing-price-further-reduction-july-2026",
-      "category": "LOCAL",
-      "date": "July 31, 2026",
-      "title": "Further Price Reduction for Home with Randall Preserve Views in Newport Crest",
-      "summary": "The listing price for the residence at 12 Aries Ct, Newport Beach, adjacent to the Randall Preserve, was further reduced to $1,499,000 on July 29, 2026, as of its July 31, 2026, update. This 2-bedroom, 2.5-bath condo continues to be marketed with prominent 'Ocean, Sunset and Randall Preserve Views,' reflecting ongoing real estate activity near the preserve.",
-      "source": "Redfin",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "id": "cca-fairview-park-restoration-aug-multi-2026",
-      "category": "LOCAL",
-      "date": "August 06, 2026",
-      "title": "Coastal Corridor Alliance Continues Multiple Habitat Restoration Days at Fairview Park in August",
-      "summary": "The Coastal Corridor Alliance continues to host multiple \"Habitat Restoration Days\" at Fairview Park throughout August 2026, including dates on August 6, 7, 13, 14, 15, 20, 21, and 27. These ongoing volunteer events, held in partnership with the City of Costa Mesa, aim to restore native habitats within the Santa Ana River coastal lands.",
-      "source": "Eventbrite (Coastal Corridor Alliance)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-august-beach-cleanup-2026",
-      "category": "LOCAL",
-      "date": "August 06, 2026",
-      "title": "Coastal Corridor Alliance to Host August 'Fourth Saturday Beach & River Mouth Cleanup'",
-      "summary": "The Coastal Corridor Alliance is organizing its monthly 'Fourth Saturday Beach & River Mouth Cleanup' on Saturday, August 22, 2026, at Newport Lifeguard Tower 74. Volunteers are invited to participate in cleaning up the Santa Ana River Coastal Corridor to protect local waterways.",
-      "source": "Eventbrite (Coastal Corridor Alliance)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "scc-grant-wetland-study-jul-2026",
-      "category": "FUNDING",
-      "date": "July 25, 2026",
-      "title": "State Coastal Conservancy Authorizes $410,000 Grant for Randall Preserve Wetland Restoration Study",
-      "summary": "The California State Coastal Conservancy authorized a grant of up to $410,000 to the Coastal Corridor Alliance on July 25, 2026. These funds will support a wetland restoration feasibility study for approximately 130 acres of degraded wetland and riparian habitat within the Frank and Joan Randall Preserve, aiming to restore and enhance the area. This represents a significant step in the ongoing planning and conservation efforts for the preserve.",
-      "source": "California State Coastal Conservancy",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "randall-preserve-plans-advance-aug-2026",
-      "category": "OFFICIAL",
-      "date": "August 04, 2026",
-      "title": "Randall Preserve Advisory Committee Completes Work, Plans Advance to MRCA Board",
-      "summary": "The Randall Preserve Advisory Committee has concluded its planning efforts, with approximately 83% of participants supporting the updated Resource Management Plan, Public Access Plan, Recreation Impact Analysis, and Coastal Resilience Strategy. These comprehensive plans will now proceed to the Mountains Recreation and Conservation Authority Governing Board for further consideration and approval.",
-      "source": "CNPS Chapters",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "mrca-advocates-urge-nmusd-land-sale-july-2026",
-      "category": "OFFICIAL",
-      "date": "July 17, 2026",
-      "title": "MRCA and Advocates Urge NMUSD to Sell Adjacent Parcel for Randall Preserve Expansion",
-      "summary": "The Mountains Recreation and Conservation Authority (MRCA) and Randall Preserve advocates are formally requesting the Newport-Mesa Unified School District (NMUSD) to allow the purchase of an 11.36-acre parcel adjacent to the preserve. This appeal aims to secure the land for permanent open space protection, integrating it into the preserve to safeguard sensitive habitats and species, and urging NMUSD to abandon residential development plans for the site.",
-      "source": "Los Cerritos Wetlands Land Trust",
-      "sentiment": "MIXED"
-    },
-    {
-      "id": "supervisor-foley-rmp-public-review-july-2026",
-      "category": "OFFICIAL",
-      "date": "July 31, 2026",
-      "title": "Supervisor Foley Announces Randall Preserve Resource Management Plan Now Available for Public Review",
-      "summary": "Supervisor Foley, a member of the Randall Preserve/Ganga advisory committee, announced on July 31, 2026, that the Resource Management Plan is now publicly available for review. The plan details the monitoring and management of the preserve's ecosystems, identifies restoration opportunities, outlines future funding needs, and guides the long-term protection of the open space.",
-      "source": "Supervisor Foley's Weekly Update (GovDelivery)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-fairview-park-restoration-aug-2026",
-      "category": "LOCAL",
-      "date": "August 15, 2026",
-      "title": "Coastal Corridor Alliance to Host Fairview Park Restoration Day",
-      "summary": "The Coastal Corridor Alliance, in partnership with the City of Costa Mesa, will host a 'Third Saturday Fairview Park Restoration Day' on August 15, 2026. Volunteers are invited to participate in native gardening activities, including removing invasive plants, collecting, planting, and maintaining native plants, and removing debris to support local restoration efforts.",
-      "source": "H2OC Stormwater Program",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-story-map-bluesky-july-2026",
-      "category": "SOCIAL",
-      "date": "July 09, 2026",
-      "title": "Coastal Corridor Alliance Promotes Randall Preserve Story Map on Bluesky",
-      "summary": "The Coastal Corridor Alliance encouraged community engagement on July 9, 2026, by promoting their Story Map about the Randall Preserve on Bluesky and inviting users to vote for it. This highlights their ongoing digital outreach efforts to share information about the preserve and foster public interest.",
-      "source": "Bluesky",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-film-festival-july-2026",
-      "category": "LOCAL",
-      "date": "July 08, 2026",
-      "title": "Coastal Corridor Alliance Hosts Self-Guided Short Film Festival",
-      "summary": "The Coastal Corridor Alliance promoted a \"Self-Guided Short Film Festival\" on July 8, 2026, offering a unique community engagement opportunity related to environmental themes. This event, listed on their news page, aligns with their efforts to foster community stewardship and education.",
-      "source": "Coastal Corridor Alliance",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "randall-preserve-home-listing-update-july-2026",
-      "category": "LOCAL",
-      "date": "July 29, 2026",
-      "title": "Updated Listing for Home with Randall Preserve Views in Newport Crest",
-      "summary": "A residence at 12 Aries Ct, Newport Beach, adjacent to the Randall Preserve, received an updated listing on July 29, 2026. The 2-bedroom, 2.5-bath condo, now priced at $1,565,000, continues to prominently feature \"Ocean, Sunset and Randall Preserve Views,\" reflecting ongoing real estate activity and the preserve's scenic value.",
-      "source": "Redfin / Wine Country Real Estate / MLS",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "id": "randall-preserve-final-plans-june-2026",
-      "category": "OFFICIAL",
-      "date": "June 29, 2026",
-      "title": "Randall Preserve Officially Releases Comprehensive Management, Public Access, and Coastal Resilience Plans",
-      "summary": "The Mountains Recreation and Conservation Authority (MRCA) has officially released the finalized Resource Management Plan (RMP), Public Access Plan (PAP), Coastal Resilience Strategy (CRS), and Recreation Impact Analysis (RIA) for the Randall Preserve. These key documents, now available to the public, will guide the long-term stewardship of the preserve's ecosystems, facilitate passive public recreation, and implement strategies for coastal resilience. The RMP, along with other plans, became available in June 2026, with the RMP specifically downloadable on June 29, 2026.",
-      "source": "Randall Preserve website / Mountains Recreation and Conservation Authority",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "prop4-randall-preserve-grant-july-2026",
-      "category": "FUNDING",
-      "date": "July 24, 2026",
-      "title": "Santa Monica Mountains Conservancy Offers Proposition 4 Grant for Randall Preserve",
-      "summary": "The Santa Monica Mountains Conservancy is offering a Proposition 4 grant for the Randall Preserve, with funds available for projects that reduce climate impacts on disadvantaged communities and expand outdoor recreation opportunities. This ongoing grant program is open to local governments, non-profit organizations, and tribal governments.",
-      "source": "Southern California Association of Governments",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "sow-grow-native-plant-nursery-july-2026",
-      "category": "LOCAL",
-      "date": "July 24, 2026",
-      "title": "Sow & Grow Volunteer Day at Native Plant Nursery",
-      "summary": "The Back Bay Science Center is hosting a \"Sow & Grow\" volunteer day on July 24, 2026, inviting community members to assist in seasonal native plant nursery activities such as seed collection, sowing, and composting. This initiative supports local habitat restoration efforts, with advanced registration required.",
-      "source": "H2OC Stormwater Program",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-melanie-schlotterbeck-role-july-2026",
-      "category": "OFFICIAL",
-      "date": "July 04, 2026",
-      "title": "Coastal Corridor Alliance Highlights Key Role of Stewardship Consultant Melanie Schlotterbeck",
-      "summary": "Melanie Schlotterbeck, serving as Stewardship Consultant for the Coastal Corridor Alliance, is playing a pivotal role in advancing the Randall Preserve's Resource Management Plan and Coastal Resilience Strategy. Her extensive conservation experience is seen as a strategic asset for the organization's ongoing efforts to protect and manage the preserve.",
-      "source": "Coastal Corridor Alliance",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "randall-preserve-adjacent-home-sale-july-2026",
-      "category": "LOCAL",
-      "date": "July 17, 2026",
-      "title": "Home with Randall Preserve Views Listed in Newport Crest",
-      "summary": "A residence in the Newport Crest community, located at 12 Aries Ct, Newport Beach, was recently listed, prominently featuring \"Ocean, Sunset and Randall Preserve Views.\" The home, listed for sale, highlights ongoing real estate activity adjacent to the preserve, emphasizing its desirability and scenic value.",
-      "source": "Zillow / MLS",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "id": "randall-preserve-recreation-impact-analysis-june-2026",
-      "category": "OFFICIAL",
-      "date": "June 29, 2026",
-      "title": "Randall Preserve Publishes Recreation Impact Analysis for Future Public Access",
-      "summary": "The Randall Preserve has published its Recreation Impact Analysis (RIA), a crucial document summarizing research on visitor management and adaptive management frameworks. This analysis will guide future public use, ensuring the protection of sensitive species and habitats while supporting equitable, low-impact public recreation. The preserve is currently undergoing oil remediation and will open to the public upon completion of this work, with the RIA informing the development of visitor management guidelines.",
-      "source": "Randall Preserve website / Coastal Corridor Alliance",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-fourth-saturday-cleanup-july-2026",
-      "category": "LOCAL",
-      "date": "July 25, 2026",
-      "title": "Coastal Corridor Alliance to Host July 'Fourth Saturday Beach & River Mouth Cleanup'",
-      "summary": "The Coastal Corridor Alliance (CCA) is organizing its 'Fourth Saturday Beach & River Mouth Cleanup' on Saturday, July 25, 2026. Volunteers are invited to meet at Newport Lifeguard Tower 74 to help clean up the Santa Ana River Coastal Corridor and protect local waterways. Registration via Eventbrite and an online liability waiver are required to participate.",
-      "source": "H2OC Stormwater Program",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "randall-preserve-invasive-species-july-2026",
-      "category": "OFFICIAL",
-      "date": "July 09, 2026",
-      "title": "Randall Preserve Initiates Targeted Invasive Species Control",
-      "summary": "Consultants for the Randall Preserve have identified pampas grass, giant reed (Arundo donax), and ice plant as three priority invasive species for control efforts. Restoration work, including invasive species management, is currently underway in several areas of the preserve, as required by both the California Coastal Commission and the U.S. Fish and Wildlife Service.",
-      "source": "California Native Plant Society (CNPS) Chapters",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-volunteer-training-july-2026",
-      "category": "LOCAL",
-      "date": "July 09, 2026",
-      "title": "Coastal Corridor Alliance Initiates Volunteer Training for Randall Preserve Restoration",
-      "summary": "The Coastal Corridor Alliance (CCA) has partnered with the City of Costa Mesa to establish a volunteer training program at Fairview Park. This initiative aims to develop an experienced volunteer corps that will support future habitat restoration efforts within the Randall Preserve as remediation activities conclude and more areas become available for stewardship. This program focuses on preparing community members for ongoing conservation work.",
-      "source": "California Native Plant Society (CNPS) Chapters",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "randall-preserve-comprehensive-plan-july-2026",
-      "category": "OFFICIAL",
-      "date": "July 09, 2026",
-      "title": "Randall Preserve Comprehensive Property Management Plan Progresses",
-      "summary": "Planning efforts are advancing for the Frank and Joan Randall Preserve/Genga, with the Coastal Corridor Alliance (CCA) and Mountains Recreation and Conservation Authority (MRCA) developing a comprehensive Property Management Plan. This plan includes a Resource Management Plan, Tribal Access and Engagement Plan, Public Access Plan, and Coastal Resilience Strategy. Restoration work is currently underway in various areas, focusing on invasive species management, and a volunteer training program is being established in partnership with the City of Costa Mesa for future restoration efforts within the Preserve.",
-      "source": "California Native Plant Society (CNPS) Chapters",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "randall-preserve-public-access-details-july-2026",
-      "category": "OFFICIAL",
-      "date": "July 01, 2026",
-      "title": "Randall Preserve Draft Public Access Plans Detailed, Public Input Open",
-      "summary": "Officials for the Randall Preserve are seeking public input on draft plans for public access and preservation until July 14, 2026. The draft plans detail a series of trails for walkers and potentially cyclists, with the main entrance and parking lot planned off 17th Street in Costa Mesa. A decision on allowing dogs on trails is pending.",
-      "source": "LAist",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-special-beach-cleanup-july-2026",
-      "category": "LOCAL",
-      "date": "July 05, 2026",
-      "title": "Coastal Corridor Alliance to Host Special Beach Cleanup",
-      "summary": "The Coastal Corridor Alliance (CCA) is organizing a 'Special Beach Cleanup' at Newport Lifeguard Tower 74, located at the Santa Ana River Mouth. Scheduled for Sunday, July 5, 2026, the event aims to clean up the Santa Ana River Coastal Corridor and restore its habitats, focusing on protecting underwater wildlife and preventing pollution. Volunteers are invited to participate.",
-      "source": "Eventbrite (Coastal Corridor Alliance)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "randall-preserve-public-feedback-june-2026",
-      "category": "OFFICIAL",
-      "date": "June 30, 2026",
-      "title": "Public Input Sought for Randall Preserve Access, Resource, and Climate Plans",
-      "summary": "Officials for the Randall Preserve, including the Coastal Corridor Alliance and the Mountains Recreation and Conservation Authority, are actively seeking public feedback on draft plans for public access, resource management, and a coastal resilience strategy. The public comment period is open until July 14, 2026, for the nearly 400-acre nature preserve.",
-      "source": "LAist",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-giving-day-fundraising-update-june-2026",
-      "category": "FUNDING",
-      "date": "June 25, 2026",
-      "title": "Coastal Corridor Alliance Raises $16,893 for Conservation Efforts",
-      "summary": "The Coastal Corridor Alliance successfully raised $16,893 towards its $20,000 goal during the 'Protect & Preserve Giving Day' on June 24-25, 2026. These funds will support the alliance's ongoing conservation and education initiatives within the Santa Ana River Coastal Corridor.",
-      "source": "Coastal Corridor Alliance",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "supervisor-foley-herbicide-policy-june-2026",
-      "category": "OFFICIAL",
-      "date": "June 09, 2026",
-      "title": "Supervisor Foley Requests Countywide Plan to Phase Out Herbicide Use",
-      "summary": "On June 9, 2026, Supervisor Foley requested an agenda item for the Orange County Board Meeting to develop a formal countywide plan aimed at phasing out routine herbicide use and updating the county's Integrated Pest Management practices. This initiative is intended to protect flood control, wildfire prevention, public safety, and habitat restoration, while promoting safer alternatives to herbicides, particularly for invasive species control.",
-      "source": "Supervisor Foley's Weekly Update (GovDelivery)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "nmusd-development-negotiations-june-2026",
-      "category": "OFFICIAL",
-      "date": "June 18, 2026",
-      "title": "NMUSD Board Approves Negotiations for Residential Development on Preserve-Adjacent Parcel Amidst Community Opposition",
-      "summary": "On June 18, 2026, the Newport-Mesa Unified School District (NMUSD) Board approved a resolution to negotiate with Knighthall Capital LLC for the development of up to 169 residential units on the district's 11-acre parcel adjacent to the Randall Preserve. This decision marks a significant step towards potential development on land previously considered for conservation.",
-      "source": "Coastal Corridor Alliance",
-      "sentiment": "NEGATIVE"
-    },
-    {
-      "id": "cca-june-newsletter-2026",
-      "category": "LOCAL",
-      "date": "June 18, 2026",
-      "title": "Coastal Corridor Alliance Releases June 2026 Newsletter",
-      "summary": "The Coastal Corridor Alliance published its June 2026 newsletter, highlighting ongoing efforts related to learning, sharing, giving, and advocating for the defense of the region's natural environment.",
-      "source": "Coastal Corridor Alliance",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "id": "cca-events-calendar-june-2026",
-      "category": "LOCAL",
-      "date": "June 21, 2026",
-      "title": "Coastal Corridor Alliance Promotes Events Calendar Subscription",
-      "summary": "On June 21, 2026, the Coastal Corridor Alliance updated its website, encouraging users to subscribe to its events calendar to stay informed about ongoing conservation and community activities.",
-      "source": "Coastal Corridor Alliance",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "nmusd-banning-ranch-committee-may-2026",
-      "category": "OFFICIAL",
-      "date": "May 26, 2026",
-      "title": "NMUSD Website Lists 'Banning Ranch Surplus Property Committee'",
-      "summary": "The Newport-Mesa Unified School District (NMUSD) website, updated on May 26, 2026, lists a 'Banning Ranch Surplus Property Committee' under its Business Services department, indicating an ongoing administrative body dedicated to the district's land interests in the area.",
-      "source": "Newport-Mesa Unified School District",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "id": "cca-giving-day-june-2026",
-      "category": "FUNDING",
-      "date": "June 24, 2026",
-      "title": "Coastal Corridor Alliance to Host 'Protect & Preserve Giving Day'",
-      "summary": "The Coastal Corridor Alliance will participate in the 'Protect & Preserve Giving Day' on June 24, 2026, alongside seven other Orange County environmental nonprofits. The alliance aims to raise $20,000 in unrestricted funds to support its conservation and education initiatives within the Santa Ana River Coastal Corridor.",
-      "source": "Coastal Corridor Alliance",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "nmusd-banning-ranch-land-negotiations-june-2026",
-      "category": "OFFICIAL",
-      "date": "June 06, 2026",
-      "title": "NMUSD Board Holds Closed Session on Banning Ranch Land Negotiations",
-      "summary": "The Newport-Mesa Unified School District (NMUSD) Board of Education held a closed session on June 6, 2026, to confer with real property negotiators regarding the district-owned Banning Ranch land. This 11.36-acre parcel is adjacent to the Randall Preserve, and the Mountains Recreation and Conservation Authority (MRCA) has expressed interest in acquiring it for open space purposes. This update indicates ongoing negotiations concerning the future of this sensitive habitat parcel.",
-      "source": "Stu News Newport",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "id": "reddit-randall-preserve-history-inquiry-may-2026",
-      "category": "SOCIAL",
-      "date": "May 18, 2026",
-      "title": "Reddit Users Continue to Inquire About Randall Preserve's History",
-      "summary": "Recent discussions on r/orangecounty on Reddit in May 2026 show community members actively inquiring about the history and background of the Randall Preserve. This continued interest highlights ongoing public curiosity regarding how the former Banning Ranch was preserved and its transformation into its current state.",
-      "source": "Reddit (r/orangecounty)",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "id": "scc-wetland-restoration-feasibility-2026",
-      "category": "OFFICIAL",
-      "date": "Feb 2026",
-      "title": "State Coastal Conservancy Launches Randall Preserve Wetland Restoration Feasibility Study",
-      "summary": "The California State Coastal Conservancy, as lead agency, is funding the Coastal Corridor Alliance to conduct a feasibility study toward restoring and enhancing roughly 130 acres of degraded wetland and riparian habitat at the Randall Preserve (former Banning Ranch). The study was filed with the California CEQA clearinghouse (SCH #2026020966) and is an early planning step ahead of any restoration work.",
-      "source": "CA State Clearinghouse (CEQAnet #2026020966)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-fairview-park-restoration-june-2026",
-      "category": "LOCAL",
-      "date": "June 13, 2026",
-      "title": "Coastal Corridor Alliance Hosts Habitat Restoration Day at Fairview Park",
-      "summary": "The Coastal Corridor Alliance is conducting a Habitat Restoration Day at Fairview Park on June 13, 2026. This ongoing volunteer effort aims to restore the natural environment within the Santa Ana River coastal lands and waters, actively engaging local community stewards in conservation efforts.",
-      "source": "Eventbrite (Coastal Corridor Alliance)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "supervisor-foley-mrca-briefing-june-2026",
-      "category": "OFFICIAL",
-      "date": "June 06, 2026",
-      "title": "Supervisor Foley Receives MRCA Briefing on Randall Preserve Public Access and Trail Network",
-      "summary": "Supervisor Foley received a briefing update from the Mountains Recreation and Conservation Authority (MRCA) concerning the Frank and Joan Randall Preserve/Genga project. The update emphasized efforts to balance public access with the protection of sensitive ecosystems, with specific attention to designing a trail network that prevents habitat fragmentation. An operational plan is currently being developed for the preserve. Forty-five different endangered species call the Randall Preserve home.",
-      "source": "Supervisor Foley's Weekly Update (GovDelivery)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-invasive-removal-may-2026",
-      "category": "LOCAL",
-      "date": "May 12, 2026",
-      "title": "Coastal Corridor Alliance Communicates with US Fish and Wildlife Service on Invasive Vegetation Removal",
-      "summary": "On May 12, 2026, the U.S. Fish and Wildlife Service engaged in communication with the Coastal Corridor Alliance concerning environmental activities, specifically mentioning ongoing invasive vegetation removal and subsequent application processes. This indicates continued habitat management and restoration efforts within the region.",
-      "source": "U.S. Fish and Wildlife Service",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-may-activities-2026",
-      "category": "LOCAL",
-      "date": "May 20, 2026",
-      "title": "Coastal Corridor Alliance Reports on May Activities at Randall Preserve",
-      "summary": "The Coastal Corridor Alliance provided an update on activities within the Randall Preserve for May 2026, highlighting ongoing efforts in partnership with the Mountains Recreation and Conservation Authority (MRCA) for restoration and other initiatives along the Santa Ana River. This update details continued progress in the preserve's development and conservation.",
-      "source": "Coastal Corridor Alliance",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "cca-may-newsletter-2026",
-      "category": "LOCAL",
-      "date": "May 06, 2026",
-      "title": "Coastal Corridor Alliance Releases May 2026 Newsletter",
-      "summary": "The Coastal Corridor Alliance published its May 2026 newsletter, featuring updates on its activities related to coastal and Santa Ana River restoration, including work at Fairview Park. This newsletter likely provided insights into ongoing conservation efforts and community engagement initiatives for the month.",
-      "source": "Coastal Corridor Alliance",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "coastal-corridor-alliance-cleanup-june-2026",
-      "category": "LOCAL",
-      "date": "May 31, 2026",
-      "title": "Coastal Corridor Alliance to Host 'Fourth Saturday Beach and River Mouth Cleanup'",
-      "summary": "The Coastal Corridor Alliance is organizing a 'Fourth Saturday Beach & River Mouth Cleanup' scheduled for June 27, 2026, at Newport Lifeguard Tower 74. This community event, promoted through the H2OC Stormwater Program, aims to protect underwater wildlife and prevent trash from polluting local waterways. Volunteers are required to pre-register and sign an online liability waiver to participate.",
-      "source": "H2OC Stormwater Program",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "nmusd-mrca-negotiations-may-2026",
-      "category": "OFFICIAL",
-      "date": "May 19, 2026",
-      "title": "NMUSD Board Holds Closed Session on Banning Ranch Land Sale Negotiations with MRCA",
-      "summary": "The Newport-Mesa Unified School District (NMUSD) Board of Education held a closed session on May 19, 2026, to confer with real property negotiators regarding the district-owned 11.36-acre Banning Ranch land, adjacent to the Randall Preserve. This follows NMUSD's receipt of a letter from the Mountains Recreation and Conservation Authority (MRCA) in March 2026 expressing interest in the surplus land for open space purposes, leading to good faith negotiations for mutually satisfactory lease or purchase terms.",
-      "source": "Stu News Newport",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "id": "coastal-corridor-alliance-new-mission-may-2026",
-      "category": "LOCAL",
-      "date": "May 17, 2026",
-      "title": "Coastal Corridor Alliance Broadens Mission to Protect Randall Preserve and Coastal Ecosystems",
-      "summary": "The Coastal Corridor Alliance, formerly Banning Ranch Conservancy, announced an expansion of its mission on May 17, 2026, to encompass the protection and rejuvenation of vital ecosystems along the Santa Ana River Coastal Corridor, including the Randall Preserve. The organization encourages community engagement through volunteerism, learning, and future planning, and has also launched a new merchandise store to support its conservation efforts.",
-      "source": "Coastal Corridor Alliance",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "reddit-randall-preserve-discussion-may-2026-v2",
-      "category": "SOCIAL",
-      "date": "May 13, 2026",
-      "title": "Reddit Users Discuss Randall Preserve's Development History and Environmental Concerns",
-      "summary": "A Reddit thread on r/orangecounty recently featured a user inquiring about the history of the Randall Preserve, expressing surprise that the area was preserved rather than developed for retail/residential use. The user also raised questions about whether it was a toxic waste site and the influence of developers, indicating ongoing community interest and some skepticism about the preserve's past.",
-      "source": "Reddit (r/orangecounty)",
-      "sentiment": "MIXED"
-    },
-    {
-      "id": "reddit-randall-preserve-story-may-2026",
-      "category": "SOCIAL",
-      "date": "May 10, 2026",
-      "title": "Reddit Community Discusses History and Future of Randall Preserve",
-      "summary": "A recent Reddit thread on r/orangecounty explored the history of Banning Ranch becoming the Randall Preserve, including the significant $50 million donation from Frank and Joann Randall for its acquisition. The discussion touched on the area's past as an oil well site and ongoing efforts for tribal recognition, highlighting community engagement in its preservation.",
-      "source": "Reddit (r/orangecounty)",
-      "sentiment": "MIXED"
-    },
-    {
-      "id": "randall-preserve-nmusd-property-may-2026",
-      "category": "LOCAL",
-      "date": "May 04, 2026",
-      "title": "Randall Preserve Advocates Urge NMUSD to Sell Adjacent Land for Preservation",
-      "summary": "The Mountains Recreation and Conservation Authority (MRCA) and Randall Preserve advocates are urging the Newport Mesa Unified School District (NMUSD) to negotiate the sale of an 11.36-acre parcel adjacent to the preserve. The property, which currently juts into the preserve, contains sensitive habitats and species, and conservationists aim to prevent its development and incorporate it into the preserve's open space. Community members are encouraged to contact NMUSD to support the sale.",
-      "source": "Coastal Open Space Advocates",
-      "sentiment": "MIXED"
-    },
-    {
-      "id": "banning-ranch-home-sale-may-2026",
-      "category": "LOCAL",
-      "date": "May 02, 2026",
-      "title": "Single-Family Home Under Contract in Banning Ranch Area of Newport Beach",
-      "summary": "A single-family home located at 22 Sand Dollar Court, within the Banning Ranch area of Newport Beach, California, was recently listed as 'Under Contract'. The property, featuring 3 bedrooms and 2 bathrooms, was listed for $950,000, indicating ongoing real estate activity in the vicinity.",
-      "source": "Sotheby's International Realty / eXp Realty of California Inc.",
-      "sentiment": "NEUTRAL"
-    },
-    {
-      "id": "randall-preserve-stewardship-technician-apr-2026",
-      "category": "LOCAL",
-      "date": "April 28, 2026",
-      "title": "Randall Preserve Seeks Stewardship Technician for Ongoing Operations",
-      "summary": "The Nature Conservancy is actively recruiting for a Randall Preserve Stewardship Technician. This role involves leading work teams for habitat restoration, managing ecological land and infrastructure, and interacting with community stakeholders, ensuring the implementation of the preserve management plan.",
-      "source": "The Nature Conservancy / Conservation Careers / JobLeads.com",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "randall-preserve-draft-plan-apr-2026",
-      "category": "OFFICIAL",
-      "date": "April 25, 2026",
-      "title": "Randall Preserve Advisory Committee Reviews Draft Recreation and Open Space Plan",
-      "summary": "The Randall Preserve Advisory Committee recently convened to review and discuss a draft recreation and open space plan for the preserve. This plan details proposed public access, including seven miles of trails designed to protect diverse wetland wildlife while opening pristine outdoor spaces to the public. Plans also include connecting Talbert Regional Park to enhance regional accessibility.",
-      "source": "Supervisor Foley's Weekly Update (GovDelivery)",
-      "sentiment": "POSITIVE"
-    },
-    {
-      "id": "randall-preserve-advisory-committee-apr-2026",
-      "category": "OFFICIAL",
-      "date": "April 25, 2026",
-      "title": "Randall Preserve Advisory Committee Reviews Draft Recreation and Open Space Plan",
-      "summary": "The Randall Preserve Advisory Committee recently convened to review and discuss a draft recreation and open space plan for the preserve. This plan details proposed public access, including seven miles of trails designed to protect diverse wetland wildlife while opening pristine outdoor spaces to the public. Plans also include connecting Talbert Regional Park to enhance regional accessibility.",
-      "source": "Supervisor Foley's Weekly Update (GovDelivery)",
       "sentiment": "POSITIVE"
     }
   ],
@@ -654,276 +123,298 @@
   "birds": {
     "recentSightings": [
       {
-        "species": "Rock Pigeon",
-        "sciName": "Columba livia",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 5,
-        "lat": 33.662014,
-        "lng": -117.9413974,
+        "species": "Mallard",
+        "sciName": "Anas platyrhynchos",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 8,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/330px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/330px-Anas_platyrhynchos_male_female_quadrat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Mourning Dove",
         "sciName": "Zenaida macroura",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
         "count": 2,
-        "lat": 33.662014,
-        "lng": -117.9413974,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Av_Mourning_Dove_JG.jpg/330px-Av_Mourning_Dove_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Allen's Hummingbird",
         "sciName": "Selasphorus sasin",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 1,
-        "lat": 33.662014,
-        "lng": -117.9413974,
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 3,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg/330px-Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Red-shouldered Hawk",
-        "sciName": "Buteo lineatus",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 1,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Red-shouldered_Hawk_%28Buteo_lineatus%29_-_Blue_Cypress_Lake%2C_Florida.jpg/330px-Red-shouldered_Hawk_%28Buteo_lineatus%29_-_Blue_Cypress_Lake%2C_Florida.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Western Wood-Pewee",
-        "sciName": "Contopus sordidulus",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 1,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Western_Wood-Peewee_-_Sisters_-_Oregon_S4E1878_%2819236709745%29.jpg/330px-Western_Wood-Peewee_-_Sisters_-_Oregon_S4E1878_%2819236709745%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Western Flycatcher",
-        "sciName": "Empidonax difficilis",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 1,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Empidonax_difficilis_1.jpg/330px-Empidonax_difficilis_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Black Phoebe",
-        "sciName": "Sayornis nigricans",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 2,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg/330px-Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Vermilion Flycatcher",
-        "sciName": "Pyrocephalus rubinus",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 3,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Karmintyrann_%28Pyrocephalus_obscurus%29%2C_M%C3%A4nnchen_1.jpg/330px-Karmintyrann_%28Pyrocephalus_obscurus%29%2C_M%C3%A4nnchen_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Hutton's Vireo",
-        "sciName": "Vireo huttoni",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 1,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hutton%27s_Vireo_%2843379432594%29.jpg/330px-Hutton%27s_Vireo_%2843379432594%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Swinhoe's White-eye",
-        "sciName": "Zosterops simplex",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 2,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Resting_Zosterops_japonicus.jpg/330px-Resting_Zosterops_japonicus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "European Starling",
-        "sciName": "Sturnus vulgaris",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 3,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg/330px-Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Northern Mockingbird",
-        "sciName": "Mimus polyglottos",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 1,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mockingbird_in_Bay_Ridge_%2885082%29.jpg/330px-Mockingbird_in_Bay_Ridge_%2885082%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Lark Sparrow",
-        "sciName": "Chondestes grammacus",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 1,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LarkSparrow.jpg/330px-LarkSparrow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Song Sparrow",
-        "sciName": "Melospiza melodia",
-        "location": "Fairview Park, Costa Mesa",
-        "date": "2026-08-18 16:49",
-        "count": 2,
-        "lat": 33.662014,
-        "lng": -117.9413974,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Song_sparrow_in_Prospect_Park_%2893031%29.jpg/330px-Song_sparrow_in_Prospect_Park_%2893031%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Mallard",
-        "sciName": "Anas platyrhynchos",
-        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
-        "date": "2026-08-18 07:38",
-        "count": 1,
-        "lat": 33.6608532,
-        "lng": -117.9482746,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/330px-Anas_platyrhynchos_male_female_quadrat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Eurasian Collared-Dove",
-        "sciName": "Streptopelia decaocto",
-        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
-        "date": "2026-08-18 07:38",
-        "count": 1,
-        "lat": 33.6608532,
-        "lng": -117.9482746,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/330px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Willet",
-        "sciName": "Tringa semipalmata",
-        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
-        "date": "2026-08-18 07:38",
-        "count": 10,
-        "lat": 33.6608532,
-        "lng": -117.9482746,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Catoptrophorus_semipalmatus_edit.jpg/330px-Catoptrophorus_semipalmatus_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Greater Yellowlegs",
-        "sciName": "Tringa melanoleuca",
-        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
-        "date": "2026-08-18 07:38",
-        "count": 1,
-        "lat": 33.6608532,
-        "lng": -117.9482746,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png/330px-Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Least Sandpiper",
-        "sciName": "Calidris minutilla",
-        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
-        "date": "2026-08-18 07:38",
-        "count": 26,
-        "lat": 33.6608532,
-        "lng": -117.9482746,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Least_Sandpiper_Foraging.png/330px-Least_Sandpiper_Foraging.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
         "species": "Snowy Egret",
         "sciName": "Egretta thula",
-        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
-        "date": "2026-08-18 07:38",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
         "count": 1,
-        "lat": 33.6608532,
-        "lng": -117.9482746,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg/330px-Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Nuttall's Woodpecker",
-        "sciName": "Dryobates nuttallii",
-        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
-        "date": "2026-08-18 07:38",
-        "count": 1,
-        "lat": 33.6608532,
-        "lng": -117.9482746,
+        "species": "Black Phoebe",
+        "sciName": "Sayornis nigricans",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 3,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/NuttallsWoodpecker-28MAR2016.jpg/330px-NuttallsWoodpecker-28MAR2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg/330px-Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Northern House Wren",
-        "sciName": "Troglodytes aedon",
-        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
-        "date": "2026-08-18 07:38",
-        "count": 2,
-        "lat": 33.6608532,
-        "lng": -117.9482746,
+        "species": "American Crow",
+        "sciName": "Corvus brachyrhynchos",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 219,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/House_wren_in_Prospect_Park_%2823218%29.jpg/330px-House_wren_in_Prospect_Park_%2823218%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Corvus-brachyrhynchos-001.jpg/330px-Corvus-brachyrhynchos-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Northern Rough-winged Swallow",
+        "sciName": "Stelgidopteryx serripennis",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 5,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20250514_northern_rough_winged_swallow_bolton_notch_state_park_PD200438_crop.jpg/330px-20250514_northern_rough_winged_swallow_bolton_notch_state_park_PD200438_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Barn Swallow",
+        "sciName": "Hirundo rustica",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 3,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/330px-Rauchschwalbe_Hirundo_rustica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Western Bluebird",
+        "sciName": "Sialia mexicana",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 4,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Western_bluebird_%28male%29.jpg/330px-Western_bluebird_%28male%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Northern Red Bishop",
+        "sciName": "Euplectes franciscanus",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 4,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Euplectes_orix_5_Luc_Viatour.jpg/330px-Euplectes_orix_5_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Pin-tailed Whydah",
         "sciName": "Vidua macroura",
-        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
-        "date": "2026-08-18 07:38",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
         "count": 2,
-        "lat": 33.6608532,
-        "lng": -117.9482746,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pin-tailed_whydah_%28Vidua_macroura%29_male_Sao_Tome.jpg/330px-Pin-tailed_whydah_%28Vidua_macroura%29_male_Sao_Tome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "House Finch",
         "sciName": "Haemorhous mexicanus",
-        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
-        "date": "2026-08-18 07:38",
-        "count": 1,
-        "lat": 33.6608532,
-        "lng": -117.9482746,
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 7,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/House_finch_%2833688%292.jpg/330px-House_finch_%2833688%292.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Song Sparrow",
+        "sciName": "Melospiza melodia",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 5,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Song_sparrow_in_Prospect_Park_%2893031%29.jpg/330px-Song_sparrow_in_Prospect_Park_%2893031%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Red-winged Blackbird",
+        "sciName": "Agelaius phoeniceus",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 40,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red-Winged_Blackbird.png/330px-Red-Winged_Blackbird.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Common Yellowthroat",
+        "sciName": "Geothlypis trichas",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 18:12",
+        "count": 7,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Common_yellowthroat_in_PP_%2814155%29.jpg/330px-Common_yellowthroat_in_PP_%2814155%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Bushtit",
+        "sciName": "Psaltriparus minimus",
+        "location": "Huntington Beach",
+        "date": "2026-08-19 13:07",
+        "count": 1,
+        "lat": 33.647656,
+        "lng": -117.960373,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegithalos_caudatus_side-on.jpg/330px-Aegithalos_caudatus_side-on.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Swinhoe's White-eye",
+        "sciName": "Zosterops simplex",
+        "location": "Huntington Beach",
+        "date": "2026-08-19 13:07",
+        "count": 2,
+        "lat": 33.647656,
+        "lng": -117.960373,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Resting_Zosterops_japonicus.jpg/330px-Resting_Zosterops_japonicus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "House Sparrow",
+        "sciName": "Passer domesticus",
+        "location": "Huntington Beach",
+        "date": "2026-08-19 13:07",
+        "count": 1,
+        "lat": 33.647656,
+        "lng": -117.960373,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/330px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Lesser Goldfinch",
+        "sciName": "Spinus psaltria",
+        "location": "Huntington Beach",
+        "date": "2026-08-19 13:07",
+        "count": 1,
+        "lat": 33.647656,
+        "lng": -117.960373,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lesser_Goldfinch_%28_Eastern_race%29_Kerr_WMA_Kerrville_TX_2018-05-06_12-11-15-2_%2842881554344%29.jpg/330px-Lesser_Goldfinch_%28_Eastern_race%29_Kerr_WMA_Kerrville_TX_2018-05-06_12-11-15-2_%2842881554344%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Anna's Hummingbird",
+        "sciName": "Calypte anna",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 07:54",
+        "count": 3,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Anna%27s_hummingbird_%28Calypte_anna%29_male_in_flight_Campbell_River.jpg/330px-Anna%27s_hummingbird_%28Calypte_anna%29_male_in_flight_Campbell_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "White-faced Ibis",
+        "sciName": "Plegadis chihi",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 07:54",
+        "count": 2,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adult_white-faced_ibis_%28Plegadis_chihi%29-4026.jpg/330px-Adult_white-faced_ibis_%28Plegadis_chihi%29-4026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Cooper's Hawk",
+        "sciName": "Astur cooperii",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 07:54",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Accipiter_cooperii_m_Sam_Smith_Toronto3.jpg/330px-Accipiter_cooperii_m_Sam_Smith_Toronto3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Say's Phoebe",
+        "sciName": "Sayornis saya",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 07:54",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sayornis_saya_GNP_01.jpg/330px-Sayornis_saya_GNP_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Vermilion Flycatcher",
+        "sciName": "Pyrocephalus rubinus",
+        "location": "Arevalos Park",
+        "date": "2026-08-19 07:54",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Karmintyrann_%28Pyrocephalus_obscurus%29%2C_M%C3%A4nnchen_1.jpg/330px-Karmintyrann_%28Pyrocephalus_obscurus%29%2C_M%C3%A4nnchen_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       }
     ],
     "notableSightings": [
       {
+        "species": "Red-lored Amazon",
+        "sciName": "Amazona autumnalis",
+        "location": "Angels Community Park (Parrot Roost), Santa Ana",
+        "date": "2026-08-19 19:38",
+        "count": 3,
+        "lat": 33.746749,
+        "lng": -117.8771034,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Amazona_autumnalis_-Xcaret_theme_park_-Riviera_Maya-8a.jpg/330px-Amazona_autumnalis_-Xcaret_theme_park_-Riviera_Maya-8a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Red-lored Amazon",
+        "sciName": "Amazona autumnalis",
+        "location": "Angels Community Park (Parrot Roost), Santa Ana",
+        "date": "2026-08-19 19:38",
+        "count": 3,
+        "lat": 33.746749,
+        "lng": -117.8771034,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Amazona_autumnalis_-Xcaret_theme_park_-Riviera_Maya-8a.jpg/330px-Amazona_autumnalis_-Xcaret_theme_park_-Riviera_Maya-8a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
         "species": "Purple Gallinule",
         "sciName": "Porphyrio martinica",
         "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
-        "date": "2026-08-18 17:37",
+        "date": "2026-08-19 18:55",
         "count": 1,
         "lat": 33.6609892,
         "lng": -117.8437141,
@@ -933,8 +424,30 @@
       {
         "species": "Purple Gallinule",
         "sciName": "Porphyrio martinica",
+        "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
+        "date": "2026-08-19 18:40",
+        "count": 1,
+        "lat": 33.6609892,
+        "lng": -117.8437141,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Bank Swallow",
+        "sciName": "Riparia riparia",
         "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-18 17:35",
+        "date": "2026-08-19 18:35",
+        "count": 1,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg/330px-Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Purple Gallinule",
+        "sciName": "Porphyrio martinica",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-08-19 18:35",
         "count": 1,
         "lat": 33.6637274,
         "lng": -117.8426814,
@@ -945,7 +458,29 @@
         "species": "Purple Gallinule",
         "sciName": "Porphyrio martinica",
         "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-18 17:35",
+        "date": "2026-08-19 17:40",
+        "count": 1,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Bank Swallow",
+        "sciName": "Riparia riparia",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-08-19 17:11",
+        "count": 1,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg/330px-Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Purple Gallinule",
+        "sciName": "Porphyrio martinica",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-08-19 17:11",
         "count": 1,
         "lat": 33.6637274,
         "lng": -117.8426814,
@@ -956,7 +491,7 @@
         "species": "Purple Gallinule",
         "sciName": "Porphyrio martinica",
         "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-18 17:23",
+        "date": "2026-08-19 16:07",
         "count": 1,
         "lat": 33.6637274,
         "lng": -117.8426814,
@@ -967,7 +502,7 @@
         "species": "Purple Gallinule",
         "sciName": "Porphyrio martinica",
         "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-18 17:04",
+        "date": "2026-08-19 16:05",
         "count": 1,
         "lat": 33.6637274,
         "lng": -117.8426814,
@@ -975,85 +510,19 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Purple Gallinule",
-        "sciName": "Porphyrio martinica",
+        "species": "Bank Swallow",
+        "sciName": "Riparia riparia",
         "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-18 16:30",
+        "date": "2026-08-19 15:40",
         "count": 1,
         "lat": 33.6637274,
         "lng": -117.8426814,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Purple Gallinule",
-        "sciName": "Porphyrio martinica",
-        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-18 16:16",
-        "count": 1,
-        "lat": 33.6637274,
-        "lng": -117.8426814,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Purple Gallinule",
-        "sciName": "Porphyrio martinica",
-        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-18 16:09",
-        "count": 1,
-        "lat": 33.6637274,
-        "lng": -117.8426814,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Purple Gallinule",
-        "sciName": "Porphyrio martinica",
-        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-18 16:00",
-        "count": 1,
-        "lat": 33.6637274,
-        "lng": -117.8426814,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Purple Gallinule",
-        "sciName": "Porphyrio martinica",
-        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-18 16:00",
-        "count": 1,
-        "lat": 33.6637274,
-        "lng": -117.8426814,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Blue-winged Teal",
-        "sciName": "Spatula discors",
-        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-18 15:43",
-        "count": 2,
-        "lat": 33.6637274,
-        "lng": -117.8426814,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Blue-Winged_Teal.jpg/330px-Blue-Winged_Teal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Purple Gallinule",
-        "sciName": "Porphyrio martinica",
-        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-18 12:54",
-        "count": 1,
-        "lat": 33.6637274,
-        "lng": -117.8426814,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg/330px-Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-08-19T13:42:29.419Z",
+    "lastBirdUpdate": "2026-08-20T13:43:13.960Z",
     "source": "eBird · Cornell Lab of Ornithology",
     "signatureSpecies": [
       {
@@ -1093,5 +562,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-19T13:42:29.419Z"
+  "lastUpdated": "2026-08-20T13:43:13.960Z"
 }
