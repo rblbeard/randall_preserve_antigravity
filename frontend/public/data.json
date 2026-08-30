@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "id": "coastal-commission-banning-ranch-sep-2026",
+      "category": "OFFICIAL",
+      "date": "August 30, 2026",
+      "title": "Coastal Commission to Consider Reduced Banning Ranch Development Amidst Land Trust Concerns",
+      "summary": "The Coastal Commission is scheduled to meet on September 7th to review a development proposal for Banning Ranch, with staff recommending a reduction from approximately 50 acres to 20 acres, and a decrease in dwelling units from 900 to around 500. This meeting will also address ongoing concerns regarding the Newport Banning Land Trust's board, which critics allege lacks conservation expertise and has ties to real estate developers.",
+      "source": "Facebook (Newport Beach transformations)",
+      "sentiment": "MIXED"
+    },
+    {
+      "id": "randall-preserve-pbs-doc-aug-2026",
+      "category": "LOCAL",
+      "date": "August 28, 2026",
+      "title": "Randall Preserve Featured in New PBS Documentary on Orange County Ecosystems",
+      "summary": "The Frank and Joan Randall Preserve will be spotlighted in an upcoming episode of 'The Power of Community' titled 'Protect & Preserve: Orange County's Unique Ecosystems,' airing Monday, August 31, 2026, at 5 p.m. on KLCS/PBS. The documentary will highlight the preserve's vital role in wetland restoration, its importance as a habitat for endangered wildlife, and its provision of natural open space for the community.",
+      "source": "KLCS/PBS, Orange County Community Foundation (via Facebook)",
+      "sentiment": "POSITIVE"
+    },
+    {
       "id": "nmusd-ebike-ban-aug-2026",
       "category": "OFFICIAL",
       "date": "August 11, 2026",
@@ -533,87 +551,21 @@
     ],
     "notableSightings": [
       {
-        "species": "Little Blue Heron",
-        "sciName": "Egretta caerulea",
-        "location": "BCER--Pocket Pond",
-        "date": "2026-08-29 07:18",
+        "species": "Purple Gallinule",
+        "sciName": "Porphyrio martinica",
+        "location": "San Joaquin Marsh and Wildlife Sanctuary, Irvine US-CA 33.66317, -117.84215",
+        "date": "2026-08-30 09:33",
         "count": 1,
-        "lat": 33.705365,
-        "lng": -118.046389,
+        "lat": 33.663166,
+        "lng": -117.842146,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Little_Blue_Fly-By.png/330px-Little_Blue_Fly-By.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Least Tern",
-        "sciName": "Sternula antillarum",
-        "location": "BCER--Pocket Pond",
-        "date": "2026-08-29 07:18",
-        "count": 5,
-        "lat": 33.705365,
-        "lng": -118.046389,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg/330px-20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Black Tern",
-        "sciName": "Chlidonias niger",
-        "location": "BCER--Pocket Pond",
-        "date": "2026-08-29 07:18",
-        "count": 1,
-        "lat": 33.705365,
-        "lng": -118.046389,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg/330px-%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Black Tern",
-        "sciName": "Chlidonias niger",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-08-29 07:14",
-        "count": 2,
-        "lat": 33.7026531,
-        "lng": -118.050735,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg/330px-%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Black Tern",
-        "sciName": "Chlidonias niger",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-08-28 18:56",
-        "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg/330px-%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Little Blue Heron",
-        "sciName": "Egretta caerulea",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-08-28 18:56",
-        "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Little_Blue_Fly-By.png/330px-Little_Blue_Fly-By.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Bank Swallow",
-        "sciName": "Riparia riparia",
-        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-28 17:54",
-        "count": 1,
-        "lat": 33.6637274,
-        "lng": -117.8426814,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg/330px-Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Purple Gallinule",
         "sciName": "Porphyrio martinica",
         "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-28 17:54",
+        "date": "2026-08-30 09:25",
         "count": 1,
         "lat": 33.6637274,
         "lng": -117.8426814,
@@ -624,7 +576,73 @@
         "species": "Purple Gallinule",
         "sciName": "Porphyrio martinica",
         "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-28 17:48",
+        "date": "2026-08-30 09:01",
+        "count": 1,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Purple Gallinule",
+        "sciName": "Porphyrio martinica",
+        "location": "San Joaquin Marsh",
+        "date": "2026-08-30 08:41",
+        "count": 1,
+        "lat": 33.661922,
+        "lng": -117.841844,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Purple Gallinule",
+        "sciName": "Porphyrio martinica",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-08-30 08:36",
+        "count": 1,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Purple Gallinule",
+        "sciName": "Porphyrio martinica",
+        "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
+        "date": "2026-08-30 08:36",
+        "count": 1,
+        "lat": 33.6609892,
+        "lng": -117.8437141,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Black Tern",
+        "sciName": "Chlidonias niger",
+        "location": "Bolsa Chica Ecological Reserve",
+        "date": "2026-08-30 08:19",
+        "count": 1,
+        "lat": 33.7026531,
+        "lng": -118.050735,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg/330px-%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Black Tern",
+        "sciName": "Chlidonias niger",
+        "location": "Bolsa Chica Ecological Reserve",
+        "date": "2026-08-30 08:19",
+        "count": 1,
+        "lat": 33.7026531,
+        "lng": -118.050735,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg/330px-%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Purple Gallinule",
+        "sciName": "Porphyrio martinica",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-08-30 07:53",
         "count": 1,
         "lat": 33.6637274,
         "lng": -117.8426814,
@@ -635,7 +653,7 @@
         "species": "Purple Gallinule",
         "sciName": "Porphyrio martinica",
         "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-28 17:25",
+        "date": "2026-08-30 07:35",
         "count": 1,
         "lat": 33.6637274,
         "lng": -117.8426814,
@@ -643,30 +661,30 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Bank Swallow",
-        "sciName": "Riparia riparia",
+        "species": "Purple Gallinule",
+        "sciName": "Porphyrio martinica",
         "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-08-28 17:25",
-        "count": 2,
+        "date": "2026-08-30 07:34",
+        "count": 1,
         "lat": 33.6637274,
         "lng": -117.8426814,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg/330px-Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Least Tern",
-        "sciName": "Sternula antillarum",
-        "location": "Bolsa Chica--walkbridge/inner bay",
-        "date": "2026-08-28 15:35",
-        "count": 2,
-        "lat": 33.6965128,
-        "lng": -118.0451372,
+        "species": "Purple Gallinule",
+        "sciName": "Porphyrio martinica",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-08-30 07:27",
+        "count": 1,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg/330px-20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gallinule_Purple_JG.jpg/330px-Gallinule_Purple_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-08-29T16:58:10.849Z",
+    "lastBirdUpdate": "2026-08-30T17:12:13.944Z",
     "source": "eBird · Cornell Lab of Ornithology",
     "signatureSpecies": [
       {
@@ -706,5 +724,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-29T16:58:10.849Z"
+  "lastUpdated": "2026-08-30T17:12:13.944Z"
 }
