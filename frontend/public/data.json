@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "randall-preserve-wetland-study-kickoff-aug-2026",
+      "category": "OFFICIAL",
+      "date": "August 12, 2026",
+      "title": "Wetland Restoration Feasibility Study Kicked Off for Randall Preserve",
+      "summary": "The Mountains Recreation and Conservation Authority (MRCA) and Coastal Corridor Alliance announced the official kick-off of a Wetland Restoration Feasibility Study for the Randall Preserve. This study aims to explore opportunities for creating new coastal wetlands in areas that have been historically diked, identifying possibilities and constraints for future restoration efforts.",
+      "source": "Randall Preserve Press Release / Coastal Corridor Alliance",
+      "sentiment": "POSITIVE"
+    },
+    {
       "id": "occf-randall-preserve-event-sep-2026",
       "category": "LOCAL",
       "date": "September 25, 2026",
@@ -330,11 +339,22 @@
   "birds": {
     "recentSightings": [
       {
+        "species": "Mallard",
+        "sciName": "Anas platyrhynchos",
+        "location": "Arevalos Park",
+        "date": "2026-09-06 16:35",
+        "count": 25,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/330px-Anas_platyrhynchos_male_female_quadrat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
         "species": "Eurasian Collared-Dove",
         "sciName": "Streptopelia decaocto",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 4,
+        "date": "2026-09-06 16:35",
+        "count": 1,
         "lat": 33.6767097,
         "lng": -117.9452166,
         "notable": false,
@@ -344,8 +364,8 @@
         "species": "Mourning Dove",
         "sciName": "Zenaida macroura",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 5,
+        "date": "2026-09-06 16:35",
+        "count": 1,
         "lat": 33.6767097,
         "lng": -117.9452166,
         "notable": false,
@@ -355,7 +375,7 @@
         "species": "Anna's Hummingbird",
         "sciName": "Calypte anna",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
+        "date": "2026-09-06 16:35",
         "count": 1,
         "lat": 33.6767097,
         "lng": -117.9452166,
@@ -366,7 +386,7 @@
         "species": "Allen's Hummingbird",
         "sciName": "Selasphorus sasin",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
+        "date": "2026-09-06 16:35",
         "count": 1,
         "lat": 33.6767097,
         "lng": -117.9452166,
@@ -374,43 +394,76 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg/330px-Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Turkey Vulture",
-        "sciName": "Cathartes aura",
+        "species": "Killdeer",
+        "sciName": "Charadrius vociferus",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
+        "date": "2026-09-06 16:35",
         "count": 1,
         "lat": 33.6767097,
         "lng": -117.9452166,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Turkey_vulture_%28Cathartes_aura%29_Orange_Walk.jpg/330px-Turkey_vulture_%28Cathartes_aura%29_Orange_Walk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Killdeer_Heislerville.png/330px-Killdeer_Heislerville.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Red-shouldered Hawk",
-        "sciName": "Buteo lineatus",
+        "species": "Western Gull",
+        "sciName": "Larus occidentalis",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 1,
+        "date": "2026-09-06 16:35",
+        "count": 2,
         "lat": 33.6767097,
         "lng": -117.9452166,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Red-shouldered_Hawk_%28Buteo_lineatus%29_-_Blue_Cypress_Lake%2C_Florida.jpg/330px-Red-shouldered_Hawk_%28Buteo_lineatus%29_-_Blue_Cypress_Lake%2C_Florida.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg/330px-Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Western Wood-Pewee",
-        "sciName": "Contopus sordidulus",
+        "species": "Snowy Egret",
+        "sciName": "Egretta thula",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
+        "date": "2026-09-06 16:35",
+        "count": 6,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg/330px-Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Great Egret",
+        "sciName": "Ardea alba",
+        "location": "Arevalos Park",
+        "date": "2026-09-06 16:35",
         "count": 1,
         "lat": 33.6767097,
         "lng": -117.9452166,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Western_Wood-Peewee_-_Sisters_-_Oregon_S4E1878_%2819236709745%29.jpg/330px-Western_Wood-Peewee_-_Sisters_-_Oregon_S4E1878_%2819236709745%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Great_Egret_%28Ardea_alba%29_in_Breeding_Plumage%2C_Cape_May_County%2C_New_Jersey%2C_USA_%28cropped%29.png/330px-Great_Egret_%28Ardea_alba%29_in_Breeding_Plumage%2C_Cape_May_County%2C_New_Jersey%2C_USA_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Great Blue Heron",
+        "sciName": "Ardea herodias",
+        "location": "Arevalos Park",
+        "date": "2026-09-06 16:35",
+        "count": 2,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GreatBlueHeronInARiver.jpg/330px-GreatBlueHeronInARiver.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "White-tailed Kite",
+        "sciName": "Elanus leucurus",
+        "location": "Arevalos Park",
+        "date": "2026-09-06 16:35",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Elanus_leucurus_3.jpg/330px-Elanus_leucurus_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Black Phoebe",
         "sciName": "Sayornis nigricans",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
+        "date": "2026-09-06 16:35",
         "count": 3,
         "lat": 33.6767097,
         "lng": -117.9452166,
@@ -421,7 +474,7 @@
         "species": "Say's Phoebe",
         "sciName": "Sayornis saya",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
+        "date": "2026-09-06 16:35",
         "count": 1,
         "lat": 33.6767097,
         "lng": -117.9452166,
@@ -432,7 +485,7 @@
         "species": "Vermilion Flycatcher",
         "sciName": "Pyrocephalus rubinus",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
+        "date": "2026-09-06 16:35",
         "count": 1,
         "lat": 33.6767097,
         "lng": -117.9452166,
@@ -440,65 +493,32 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Karmintyrann_%28Pyrocephalus_obscurus%29%2C_M%C3%A4nnchen_1.jpg/330px-Karmintyrann_%28Pyrocephalus_obscurus%29%2C_M%C3%A4nnchen_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Cassin's Kingbird",
-        "sciName": "Tyrannus vociferans",
+        "species": "American Crow",
+        "sciName": "Corvus brachyrhynchos",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 6,
+        "date": "2026-09-06 16:35",
+        "count": 21,
         "lat": 33.6767097,
         "lng": -117.9452166,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tyrannus_vociferans_163482312_%28cropped%29.jpg/330px-Tyrannus_vociferans_163482312_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Western Kingbird",
-        "sciName": "Tyrannus verticalis",
-        "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 3,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Western_kingbird_%2871748%29.jpg/330px-Western_kingbird_%2871748%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Western Warbling Vireo",
-        "sciName": "Vireo swainsoni",
-        "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 1,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Warbling_vireo_%2882141%29.jpg/330px-Warbling_vireo_%2882141%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Corvus-brachyrhynchos-001.jpg/330px-Corvus-brachyrhynchos-001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Barn Swallow",
         "sciName": "Hirundo rustica",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 20,
+        "date": "2026-09-06 16:35",
+        "count": 10,
         "lat": 33.6767097,
         "lng": -117.9452166,
         "notable": false,
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/330px-Rauchschwalbe_Hirundo_rustica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Swinhoe's White-eye",
-        "sciName": "Zosterops simplex",
-        "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 5,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Resting_Zosterops_japonicus.jpg/330px-Resting_Zosterops_japonicus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
         "species": "European Starling",
         "sciName": "Sturnus vulgaris",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
+        "date": "2026-09-06 16:35",
         "count": 8,
         "lat": 33.6767097,
         "lng": -117.9452166,
@@ -506,11 +526,55 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg/330px-Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
+        "species": "Western Bluebird",
+        "sciName": "Sialia mexicana",
+        "location": "Arevalos Park",
+        "date": "2026-09-06 16:35",
+        "count": 3,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Western_bluebird_%28male%29.jpg/330px-Western_bluebird_%28male%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Northern Red Bishop",
+        "sciName": "Euplectes franciscanus",
+        "location": "Arevalos Park",
+        "date": "2026-09-06 16:35",
+        "count": 2,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Euplectes_orix_5_Luc_Viatour.jpg/330px-Euplectes_orix_5_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Scaly-breasted Munia",
+        "sciName": "Lonchura punctulata",
+        "location": "Arevalos Park",
+        "date": "2026-09-06 16:35",
+        "count": 10,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Scaly-breasted_munia_%28Lonchura_punctulata_nisoria%29_Ubud.jpg/330px-Scaly-breasted_munia_%28Lonchura_punctulata_nisoria%29_Ubud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pin-tailed Whydah",
+        "sciName": "Vidua macroura",
+        "location": "Arevalos Park",
+        "date": "2026-09-06 16:35",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pin-tailed_whydah_%28Vidua_macroura%29_male_Sao_Tome.jpg/330px-Pin-tailed_whydah_%28Vidua_macroura%29_male_Sao_Tome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
         "species": "House Finch",
         "sciName": "Haemorhous mexicanus",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 8,
+        "date": "2026-09-06 16:35",
+        "count": 1,
         "lat": 33.6767097,
         "lng": -117.9452166,
         "notable": false,
@@ -520,163 +584,86 @@
         "species": "Lesser Goldfinch",
         "sciName": "Spinus psaltria",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 3,
+        "date": "2026-09-06 16:35",
+        "count": 8,
         "lat": 33.6767097,
         "lng": -117.9452166,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lesser_Goldfinch_%28_Eastern_race%29_Kerr_WMA_Kerrville_TX_2018-05-06_12-11-15-2_%2842881554344%29.jpg/330px-Lesser_Goldfinch_%28_Eastern_race%29_Kerr_WMA_Kerrville_TX_2018-05-06_12-11-15-2_%2842881554344%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Lesser_Goldfinch_%28_Eastern_race%29_Kerr_WMA_Kerrville_TX_2018-05-06_12-11-15-2_%2842881554344%29.jpg/330px-Lesser_Goldfinch_%28_Eastern_race%29_Kerr_WMA_Kerrville_TX_2018-05-06_12-11-15-2_%2842881554344%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "American Goldfinch",
         "sciName": "Spinus tristis",
         "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 1,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg/330px-Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Song Sparrow",
-        "sciName": "Melospiza melodia",
-        "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 2,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Song_sparrow_in_Prospect_Park_%2893031%29.jpg/330px-Song_sparrow_in_Prospect_Park_%2893031%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "California Towhee",
-        "sciName": "Melozone crissalis",
-        "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 1,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Melozone_crissalis_103257560.jpg/330px-Melozone_crissalis_103257560.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Red-winged Blackbird",
-        "sciName": "Agelaius phoeniceus",
-        "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 27,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red-Winged_Blackbird.png/330px-Red-Winged_Blackbird.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Great-tailed Grackle",
-        "sciName": "Quiscalus mexicanus",
-        "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
+        "date": "2026-09-06 16:35",
         "count": 4,
         "lat": 33.6767097,
         "lng": -117.9452166,
         "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Great-tailed_grackle_%28Quiscalus_mexicanus_mexicanus%29_male_Copan.jpg/330px-Great-tailed_grackle_%28Quiscalus_mexicanus_mexicanus%29_male_Copan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Orange-crowned Warbler",
-        "sciName": "Leiothlypis celata",
-        "location": "Arevalos Park",
-        "date": "2026-09-05 09:03",
-        "count": 1,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Orange-crowned_warbler1.jpg/330px-Orange-crowned_warbler1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg/330px-Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       }
     ],
     "notableSightings": [
       {
-        "species": "Common Tern",
-        "sciName": "Sterna hirundo",
-        "location": "Newport Beach--nearshore (ORA Co.)",
-        "date": "2026-09-05 16:19",
-        "count": 1,
-        "lat": 33.5551278,
-        "lng": -117.9141333,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_04.jpg/330px-2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Little Blue Heron",
-        "sciName": "Egretta caerulea",
-        "location": "Bolsa Chica",
-        "date": "2026-09-05 15:51",
-        "count": 1,
-        "lat": 33.704773,
-        "lng": -118.046112,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Little_Blue_Fly-By.png/330px-Little_Blue_Fly-By.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Virginia's Warbler",
-        "sciName": "Leiothlypis virginiae",
+        "species": "Cackling Goose",
+        "sciName": "Branta hutchinsii",
         "location": "Mile Square Regional Park, Fountain Valley",
-        "date": "2026-09-05 08:56",
+        "date": "2026-09-07 08:31",
         "count": 1,
         "lat": 33.7246609,
         "lng": -117.9395199,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VirginiasWarbler.jpg/330px-VirginiasWarbler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20260426_cackling_goose_ford_lake_PD07933.jpg/330px-20260426_cackling_goose_ford_lake_PD07933.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Virginia's Warbler",
-        "sciName": "Leiothlypis virginiae",
-        "location": "Mile Square Regional Park, Fountain Valley",
-        "date": "2026-09-05 08:50",
-        "count": 1,
-        "lat": 33.7246609,
-        "lng": -117.9395199,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VirginiasWarbler.jpg/330px-VirginiasWarbler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Common Murre",
-        "sciName": "Uria aalge",
-        "location": "Newport Beach--nearshore (ORA Co.)",
-        "date": "2026-09-05 08:41",
-        "count": 1,
-        "lat": 33.5551278,
-        "lng": -117.9141333,
-        "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Common_Murre_Uria_aalge.jpg/330px-Common_Murre_Uria_aalge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Least Tern",
-        "sciName": "Sternula antillarum",
+        "species": "Blue-winged Teal",
+        "sciName": "Spatula discors",
         "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
-        "date": "2026-09-05 08:27",
+        "date": "2026-09-07 07:30",
         "count": 1,
         "lat": 33.6637274,
         "lng": -117.8426814,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg/330px-20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Blue-Winged_Teal.jpg/330px-Blue-Winged_Teal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Virginia's Warbler",
-        "sciName": "Leiothlypis virginiae",
-        "location": "Mile Square Regional Park, Fountain Valley",
-        "date": "2026-09-05 08:15",
-        "count": 1,
-        "lat": 33.7246609,
-        "lng": -117.9395199,
+        "species": "Short-billed Dowitcher",
+        "sciName": "Limnodromus griseus",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-09-07 06:57",
+        "count": 8,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VirginiasWarbler.jpg/330px-VirginiasWarbler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Short-Billed_Dowitcher_-_%28Limnodromus_griseus%29_East_Point_Lighthouse%2C_Delaware_Bay%2C_New_Jersey%2C_USA.jpg/330px-Short-Billed_Dowitcher_-_%28Limnodromus_griseus%29_East_Point_Lighthouse%2C_Delaware_Bay%2C_New_Jersey%2C_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Red-lored Amazon",
+        "sciName": "Amazona autumnalis",
+        "location": "Angels Community Park (Parrot Roost), Santa Ana",
+        "date": "2026-09-06 18:06",
+        "count": 1,
+        "lat": 33.746749,
+        "lng": -117.8771034,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Amazona_autumnalis_-Xcaret_theme_park_-Riviera_Maya-8a.jpg/330px-Amazona_autumnalis_-Xcaret_theme_park_-Riviera_Maya-8a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Yellow-headed Amazon",
+        "sciName": "Amazona oratrix",
+        "location": "Angels Community Park (Parrot Roost), Santa Ana",
+        "date": "2026-09-06 18:06",
+        "count": 1,
+        "lat": 33.746749,
+        "lng": -117.8771034,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Amazona_oratrix_-Vancouver_Aquarium-8a-4c.jpg/330px-Amazona_oratrix_-Vancouver_Aquarium-8a-4c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Neotropic Cormorant",
         "sciName": "Nannopterum brasilianum",
         "location": "William R Mason Regional Park, Irvine",
-        "date": "2026-09-05 08:06",
+        "date": "2026-09-06 16:11",
         "count": 1,
         "lat": 33.6561023,
         "lng": -117.8293562,
@@ -684,52 +671,74 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Neotropic_cormorant_%28Nannopterum_brasilianum_mexicanum%29_Peten.jpg/330px-Neotropic_cormorant_%28Nannopterum_brasilianum_mexicanum%29_Peten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Savannah Sparrow (Large-billed)",
-        "sciName": "Passerculus sandwichensis",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-09-05 08:04",
+        "species": "Least Tern",
+        "sciName": "Sternula antillarum",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-09-06 15:27",
         "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
         "notable": true,
-        "imageUrl": null
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg/330px-20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Savannah Sparrow (Large-billed)",
-        "sciName": "Passerculus sandwichensis",
-        "location": "Bolsa Chica Inner Bay",
-        "date": "2026-09-05 07:40",
+        "species": "Least Tern",
+        "sciName": "Sternula antillarum",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-09-06 15:27",
         "count": 1,
-        "lat": 33.695833,
-        "lng": -118.04635,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
         "notable": true,
-        "imageUrl": null
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg/330px-20260531_least_tern_sandy_point_bird_sanctuary_PD04639.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Virginia's Warbler",
-        "sciName": "Leiothlypis virginiae",
-        "location": "Mile Square Regional Park, Fountain Valley",
-        "date": "2026-09-05 07:31",
-        "count": 1,
-        "lat": 33.7246609,
-        "lng": -117.9395199,
+        "species": "Short-billed Dowitcher",
+        "sciName": "Limnodromus griseus",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-09-06 15:03",
+        "count": 2,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VirginiasWarbler.jpg/330px-VirginiasWarbler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Short-Billed_Dowitcher_-_%28Limnodromus_griseus%29_East_Point_Lighthouse%2C_Delaware_Bay%2C_New_Jersey%2C_USA.jpg/330px-Short-Billed_Dowitcher_-_%28Limnodromus_griseus%29_East_Point_Lighthouse%2C_Delaware_Bay%2C_New_Jersey%2C_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Virginia's Warbler",
-        "sciName": "Leiothlypis virginiae",
-        "location": "Mile Square Regional Park, Fountain Valley",
-        "date": "2026-09-05 07:08",
-        "count": 1,
-        "lat": 33.7246609,
-        "lng": -117.9395199,
+        "species": "Short-billed Dowitcher",
+        "sciName": "Limnodromus griseus",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-09-06 14:23",
+        "count": 2,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
         "notable": true,
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VirginiasWarbler.jpg/330px-VirginiasWarbler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Short-Billed_Dowitcher_-_%28Limnodromus_griseus%29_East_Point_Lighthouse%2C_Delaware_Bay%2C_New_Jersey%2C_USA.jpg/330px-Short-Billed_Dowitcher_-_%28Limnodromus_griseus%29_East_Point_Lighthouse%2C_Delaware_Bay%2C_New_Jersey%2C_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Common Tern",
+        "sciName": "Sterna hirundo",
+        "location": "Lower Newport Bay",
+        "date": "2026-09-06 12:34",
+        "count": 1,
+        "lat": 33.6118316,
+        "lng": -117.9054451,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_04.jpg/330px-2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Common Tern",
+        "sciName": "Sterna hirundo",
+        "location": "Lower Newport Bay",
+        "date": "2026-09-06 12:34",
+        "count": 1,
+        "lat": 33.6118316,
+        "lng": -117.9054451,
+        "notable": true,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_04.jpg/330px-2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-09-06T15:58:53.316Z",
+    "lastBirdUpdate": "2026-09-07T18:05:38.719Z",
     "source": "eBird · Cornell Lab of Ornithology",
     "signatureSpecies": [
       {
@@ -769,5 +778,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-06T15:58:53.316Z"
+  "lastUpdated": "2026-09-07T18:05:38.719Z"
 }
