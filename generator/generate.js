@@ -20,6 +20,17 @@ if (!fs.existsSync(path.dirname(DATA_FILE_PATH))) {
 }
 
 // Zod schema for validation
+const feedItemSchema = z.object({
+    id: z.string(),
+    category: z.enum(['OFFICIAL', 'FUNDING', 'LOCAL', 'SOCIAL']),
+    date: z.string(),
+    title: z.string(),
+    summary: z.string(),
+    source: z.string(),
+    sentiment: z.enum(['POSITIVE', 'NEGATIVE', 'NEUTRAL', 'MIXED'])
+});
+const feedItemsSchema = z.array(feedItemSchema);
+
 const preserveDataSchema = z.object({
   feed: z.array(z.object({
     id: z.string(),
@@ -79,6 +90,9 @@ async function generateUpdates(existingData) {
     
     // Create a strict boundary between what we want it to search, and what it should output.
     const today = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    // Only the headlines go to the model. Sending the whole data.json and asking for it back
+    // grew past what Gemini would return (empty reply, finishReason OTHER) from 9/15/2026.
+    const existingTitles = (existingData.feed || []).map(f => `    - ${f.date}: ${f.title}`).join('\n');
     const prompt = `
     TODAY'S DATE: ${today}
 
@@ -96,28 +110,21 @@ async function generateUpdates(existingData) {
     If you find ANY new, factual, and relevant update or notable community discussion, generate 1-3 new intelligence feed items based strictly on those grounded search results.
     - News articles: use category "OFFICIAL", "FUNDING", or "LOCAL"
     - Reddit/forum posts: use category "SOCIAL"
-    Return ONLY a valid JSON object.
-    If there is truly no new relevant content after searching, return the existing data unchanged.
 
-    CRITICAL INSTRUCTION: You MUST return a JSON object with this exact structure:
+    These headlines are ALREADY on the dashboard. Do NOT repeat them or report the same story again:
+${existingTitles}
+
+    OUTPUT: Return ONLY a JSON array of the NEW feed items (0 to 3 items). Return [] if there is nothing new.
+    Do NOT return the existing data. Each item must have exactly this shape:
     {
-      "feed": [
-        {
-          "id": "unique-string-id",
-          "category": "OFFICIAL" | "FUNDING" | "LOCAL" | "SOCIAL",
-          "date": "Month DD, YYYY",
-          "title": "A short descriptive title",
-          "summary": "A 2-3 sentence factual summary of the grounded news update.",
-          "source": "Name of the News Source or Agency you found via search",
-          "sentiment": "POSITIVE" | "NEGATIVE" | "NEUTRAL" | "MIXED"
-        }
-      ],
-      "timeline": [... existing timeline ...],
-      "neighborWatch": [... existing neighborWatch ...]
+      "id": "unique-string-id",
+      "category": "OFFICIAL" | "FUNDING" | "LOCAL" | "SOCIAL",
+      "date": "Month DD, YYYY",
+      "title": "A short descriptive title",
+      "summary": "A 2-3 sentence factual summary of the grounded news update.",
+      "source": "Name of the News Source or Agency you found via search",
+      "sentiment": "POSITIVE" | "NEGATIVE" | "NEUTRAL" | "MIXED"
     }
-
-    Existing Data (Append your new feed item to the beginning of the 'feed' array if you found one):
-    ${JSON.stringify(existingData)}
     `;
 
     try {
@@ -149,25 +156,32 @@ async function generateUpdates(existingData) {
             console.log("⚠️ No grounding metadata returned (LLM may have answered from memory).");
         }
 
+        const finishReason = response.candidates?.[0]?.finishReason;
         let newJsonStr = response.text || response.candidates?.[0]?.content?.parts?.[0]?.text;
-        console.log("Received text response from Gemini.");
-        
+        console.log(`Received response from Gemini (finishReason: ${finishReason}).`);
+
         if (!newJsonStr) {
-            throw new Error("No text returned from Gemini.");
+            throw new Error(`No text returned from Gemini (finishReason: ${finishReason}).`);
         }
 
         // Handle possible markdown wrapping
-        if (newJsonStr.includes('```json')) {
-            newJsonStr = newJsonStr.match(/```json\n([\s\S]*?)\n```/)[1];
-        } else if (newJsonStr.includes('```')) {
-            newJsonStr = newJsonStr.match(/```\n([\s\S]*?)\n```/)[1];
+        const fenced = newJsonStr.match(/```(?:json)?\s*([\s\S]*?)```/);
+        if (fenced) newJsonStr = fenced[1];
+
+        let newItems = feedItemsSchema.parse(JSON.parse(newJsonStr.trim()));
+
+        // Public site: only publish items backed by actual search results, never the model's memory
+        const sourceCount = response.candidates?.[0]?.groundingMetadata?.groundingChunks?.length || 0;
+        if (sourceCount === 0 && newItems.length) {
+            console.log(`Discarding ${newItems.length} item(s): Gemini returned no web sources this run.`);
+            newItems = [];
         }
 
-        const newData = JSON.parse(newJsonStr);
-        
-        // Validate with Zod
-        const validatedData = preserveDataSchema.parse(newData);
-        return validatedData;
+        // Merge in code: new items first, skipping anything already on the feed
+        const seen = new Set((existingData.feed || []).flatMap(f => [f.id, f.title.trim().toLowerCase()]));
+        const fresh = newItems.filter(f => !seen.has(f.id) && !seen.has(f.title.trim().toLowerCase()));
+        console.log(`New feed items: ${fresh.length} (of ${newItems.length} returned).`);
+        return preserveDataSchema.parse({ ...existingData, feed: [...fresh, ...(existingData.feed || [])] });
 
     } catch (error) {
         console.error("AI Generation or Validation failed:", error);
@@ -285,7 +299,17 @@ async function main() {
         
         // In a real environment, you'd fetch latest news or scrape here before passing to LLM
         // For demonstration, we just ask the LLM to invent a plausible update based on context
-        const updatedData = process.env.GEMINI_API_KEY ? await generateUpdates(data) : data;
+        let updatedData = data;
+        let feedError = null;
+        if (process.env.GEMINI_API_KEY) {
+            try {
+                updatedData = await generateUpdates(data);
+            } catch (e) {
+                feedError = e;
+                console.error("News feed update failed; keeping the existing feed so birds still update:", e.message);
+                updatedData = { ...data };
+            }
+        }
 
         // Preserve the curated Restoration timeline + Neighbor Watch (the AI only updates the feed)
         if (data.timeline && data.timeline.length) updatedData.timeline = data.timeline;
@@ -311,6 +335,10 @@ async function main() {
         // Push
         await updateGit();
         
+        if (feedError) {
+            console.error("Finished, but the news feed was NOT updated (see error above).");
+            process.exit(1);
+        }
         console.log("Cron job finished successfully.");
     } catch (error) {
         console.error("Generator job failed:", error);
