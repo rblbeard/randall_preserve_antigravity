@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "id": "fidelity-coastal-cleanup-oct7-2026",
+      "category": "LOCAL",
+      "date": "October 07, 2026",
+      "title": "Fidelity Associates Volunteer for Annual Coastal Cleanup Day",
+      "summary": "Fidelity associates from Irvine and Newport Beach participated in the annual Coastal Cleanup Day at Back Bay. Their efforts focused on removing litter, protecting local wildlife, and preserving Southern California's natural environments. The event also provided an opportunity for employees to connect while engaging in community service.",
+      "source": "Facebook (Fidelity)",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "id": "jebsmithnews-randall-preserve-feedback-oct6-2026",
+      "category": "SOCIAL",
+      "date": "October 06, 2026",
+      "title": "Local News Outlet Solicits Public Input on Randall Preserve Features",
+      "summary": "JebSmithNews, a local news outlet, issued a call on social media for community members to provide feedback regarding the Randall Preserve. The request specifically invited input on desired features for the preserve, such as trails, wildlife restoration, and public access. This initiative aims to incorporate community perspectives into the future development of the preserve.",
+      "source": "Facebook (JebSmithNews)",
+      "sentiment": "NEUTRAL"
+    },
+    {
       "id": "randall-preserve-website-launch-sept-11-2026",
       "category": "OFFICIAL",
       "date": "September 11, 2026",
@@ -474,6 +492,193 @@
   "birds": {
     "recentSightings": [
       {
+        "species": "Great Horned Owl",
+        "sciName": "Bubo virginianus",
+        "location": "701–799 Geneva Ave, Huntington Beach US-CA (33.6639,-117.9910)",
+        "date": "2026-10-09 23:01",
+        "count": 2,
+        "lat": 33.663906,
+        "lng": -117.990962,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Bubo_virginianus_06.jpg/330px-Bubo_virginianus_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Rock Pigeon",
+        "sciName": "Columba livia",
+        "location": "Flying above wetlands and wildlife",
+        "date": "2026-10-09 13:09",
+        "count": null,
+        "lat": 33.6443656,
+        "lng": -117.9807096,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/330px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Eurasian Collared-Dove",
+        "sciName": "Streptopelia decaocto",
+        "location": "Flying above wetlands and wildlife",
+        "date": "2026-10-09 13:09",
+        "count": null,
+        "lat": 33.6443656,
+        "lng": -117.9807096,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/330px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Western Gull",
+        "sciName": "Larus occidentalis",
+        "location": "Flying above wetlands and wildlife",
+        "date": "2026-10-09 13:09",
+        "count": null,
+        "lat": 33.6443656,
+        "lng": -117.9807096,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg/330px-Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Black Phoebe",
+        "sciName": "Sayornis nigricans",
+        "location": "Flying above wetlands and wildlife",
+        "date": "2026-10-09 13:09",
+        "count": null,
+        "lat": 33.6443656,
+        "lng": -117.9807096,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg/330px-Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Swinhoe's White-eye",
+        "sciName": "Zosterops simplex",
+        "location": "Flying above wetlands and wildlife",
+        "date": "2026-10-09 13:09",
+        "count": null,
+        "lat": 33.6443656,
+        "lng": -117.9807096,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Resting_Zosterops_japonicus.jpg/330px-Resting_Zosterops_japonicus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "House Finch",
+        "sciName": "Haemorhous mexicanus",
+        "location": "Flying above wetlands and wildlife",
+        "date": "2026-10-09 13:09",
+        "count": null,
+        "lat": 33.6443656,
+        "lng": -117.9807096,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/House_finch_%2833688%292.jpg/330px-House_finch_%2833688%292.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "California Towhee",
+        "sciName": "Melozone crissalis",
+        "location": "Flying above wetlands and wildlife",
+        "date": "2026-10-09 13:09",
+        "count": null,
+        "lat": 33.6443656,
+        "lng": -117.9807096,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Melozone_crissalis_103257560.jpg/330px-Melozone_crissalis_103257560.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "House Sparrow",
+        "sciName": "Passer domesticus",
+        "location": "My backyard",
+        "date": "2026-10-09 12:22",
+        "count": 3,
+        "lat": 33.667702,
+        "lng": -117.964362,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/330px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Allen's Hummingbird",
+        "sciName": "Selasphorus sasin",
+        "location": "Arevalos Park",
+        "date": "2026-10-09 11:25",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg/330px-Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Say's Phoebe",
+        "sciName": "Sayornis saya",
+        "location": "Arevalos Park",
+        "date": "2026-10-09 11:25",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sayornis_saya_GNP_01.jpg/330px-Sayornis_saya_GNP_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Blue-gray Gnatcatcher",
+        "sciName": "Polioptila caerulea",
+        "location": "Arevalos Park",
+        "date": "2026-10-09 11:25",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Blue-gray_gnatcatcher_in_PP_%2872317%29.jpg/330px-Blue-gray_gnatcatcher_in_PP_%2872317%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Western Bluebird",
+        "sciName": "Sialia mexicana",
+        "location": "Arevalos Park",
+        "date": "2026-10-09 11:25",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Western_bluebird_%28male%29.jpg/330px-Western_bluebird_%28male%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Northern Red Bishop",
+        "sciName": "Euplectes franciscanus",
+        "location": "Arevalos Park",
+        "date": "2026-10-09 11:25",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Euplectes_orix_5_Luc_Viatour.jpg/330px-Euplectes_orix_5_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pin-tailed Whydah",
+        "sciName": "Vidua macroura",
+        "location": "Arevalos Park",
+        "date": "2026-10-09 11:25",
+        "count": 1,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Pin-tailed_whydah_%28Vidua_macroura%29_male_Sao_Tome.jpg/330px-Pin-tailed_whydah_%28Vidua_macroura%29_male_Sao_Tome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Orange-crowned Warbler",
+        "sciName": "Leiothlypis celata",
+        "location": "Arevalos Park",
+        "date": "2026-10-09 11:25",
+        "count": 3,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Orange-crowned_warbler1.jpg/330px-Orange-crowned_warbler1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Yellow-rumped Warbler",
+        "sciName": "Setophaga coronata",
+        "location": "Arevalos Park",
+        "date": "2026-10-09 11:25",
+        "count": 7,
+        "lat": 33.6767097,
+        "lng": -117.9452166,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Yellow-rumped_warbler_singing_%2841612%29_%28cropped%29.jpg/330px-Yellow-rumped_warbler_singing_%2841612%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
         "species": "Anna's Hummingbird",
         "sciName": "Calypte anna",
         "location": "Flying above wetlands and wildlife",
@@ -485,17 +690,6 @@
         "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Anna%27s_hummingbird_%28Calypte_anna%29_male_in_flight_Campbell_River.jpg/330px-Anna%27s_hummingbird_%28Calypte_anna%29_male_in_flight_Campbell_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Western Gull",
-        "sciName": "Larus occidentalis",
-        "location": "Flying above wetlands and wildlife",
-        "date": "2026-10-08 12:43",
-        "count": null,
-        "lat": 33.6443656,
-        "lng": -117.9807096,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg/330px-Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
         "species": "Brown Pelican",
         "sciName": "Pelecanus occidentalis",
         "location": "Flying above wetlands and wildlife",
@@ -505,28 +699,6 @@
         "lng": -117.9807096,
         "notable": false,
         "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Brown_pelican_in_flight_%28Bodega_Bay%29.jpg/330px-Brown_pelican_in_flight_%28Bodega_Bay%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Black Phoebe",
-        "sciName": "Sayornis nigricans",
-        "location": "Flying above wetlands and wildlife",
-        "date": "2026-10-08 12:43",
-        "count": null,
-        "lat": 33.6443656,
-        "lng": -117.9807096,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg/330px-Black_phoebe_%28Sayornis_nigricans_aquaticus%29_Palopo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Swinhoe's White-eye",
-        "sciName": "Zosterops simplex",
-        "location": "Flying above wetlands and wildlife",
-        "date": "2026-10-08 12:43",
-        "count": null,
-        "lat": 33.6443656,
-        "lng": -117.9807096,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Resting_Zosterops_japonicus.jpg/330px-Resting_Zosterops_japonicus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Cinnamon Teal",
@@ -582,163 +754,97 @@
         "lng": -117.940979,
         "notable": false,
         "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ruddy_Duck_%28Oxyura_jamaicensis%29_RWD2.jpg/330px-Ruddy_Duck_%28Oxyura_jamaicensis%29_RWD2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Mourning Dove",
-        "sciName": "Zenaida macroura",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 1,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mourning_dove_perched_%2861179%29.jpg/330px-Mourning_dove_perched_%2861179%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Allen's Hummingbird",
-        "sciName": "Selasphorus sasin",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 4,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg/330px-Allen%27s_Hummingbird_Selasphorus_sasin_%2832540935410%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Common Gallinule",
-        "sciName": "Gallinula galeata",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 3,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Common-gallinule-galapagos-casey-klebba.jpg/330px-Common-gallinule-galapagos-casey-klebba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "American Coot",
-        "sciName": "Fulica americana",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 66,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/American_coot_in_Prospect_Park_%2806152%29.jpg/330px-American_coot_in_Prospect_Park_%2806152%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Killdeer",
-        "sciName": "Charadrius vociferus",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 1,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Killdeer_Heislerville.png/330px-Killdeer_Heislerville.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Greater Yellowlegs",
-        "sciName": "Tringa melanoleuca",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 1,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png/330px-Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Pied-billed Grebe",
-        "sciName": "Podilymbus podiceps",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 1,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pied-billed_Grebe_0561.jpg/330px-Pied-billed_Grebe_0561.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "White-faced Ibis",
-        "sciName": "Plegadis chihi",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 35,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Adult_white-faced_ibis_%28Plegadis_chihi%29-4026.jpg/330px-Adult_white-faced_ibis_%28Plegadis_chihi%29-4026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Snowy Egret",
-        "sciName": "Egretta thula",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 8,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg/330px-Snowy_Egret_%28Egretta_thula%29_Edwin_B_Forsythe_NWR%2C_Galloway%2C_NJ%2C_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Green Heron",
-        "sciName": "Butorides virescens",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 2,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Green_heron_%28Butorides_virescens%29%2C_South_Padre_Island%2C_Texas%2C_USA_%28cropped%29.jpg/330px-Green_heron_%28Butorides_virescens%29%2C_South_Padre_Island%2C_Texas%2C_USA_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Great Blue Heron",
-        "sciName": "Ardea herodias",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 1,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/GreatBlueHeronInARiver.jpg/330px-GreatBlueHeronInARiver.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Belted Kingfisher",
-        "sciName": "Megaceryle alcyon",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 1,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/BeltedKingfisherJG_Male.jpg/330px-BeltedKingfisherJG_Male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Downy Woodpecker",
-        "sciName": "Dryobates pubescens",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 3,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Dryobates_pubescens_UL_03.jpg/330px-Dryobates_pubescens_UL_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "American Kestrel",
-        "sciName": "Falco sparverius",
-        "location": "Fairview Park Wetlands",
-        "date": "2026-10-08 06:48",
-        "count": 1,
-        "lat": 33.6664968,
-        "lng": -117.940979,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/American_Kestrel_%2853468230687%29.jpg/330px-American_Kestrel_%2853468230687%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       }
     ],
     "notableSightings": [
+      {
+        "species": "Swainson's Thrush",
+        "sciName": "Catharus ustulatus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-10-10 08:03",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Catharus_ustulatus_Clbrg_01.jpg/330px-Catharus_ustulatus_Clbrg_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Bufflehead",
+        "sciName": "Bucephala albeola",
+        "location": "Newport Back Bay",
+        "date": "2026-10-10 06:28",
+        "count": 1,
+        "lat": 33.6264124,
+        "lng": -117.8853178,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Drake_Bufflehead_LBI_%28cropped%29.png/330px-Drake_Bufflehead_LBI_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pacific Golden-Plover",
+        "sciName": "Pluvialis fulva",
+        "location": "Bolsa Chica--walkbridge/inner bay",
+        "date": "2026-10-09 14:45",
+        "count": 1,
+        "lat": 33.6965128,
+        "lng": -118.0451372,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg/330px-Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pacific Golden-Plover",
+        "sciName": "Pluvialis fulva",
+        "location": "Bolsa Chica--walkbridge/inner bay",
+        "date": "2026-10-09 14:45",
+        "count": 1,
+        "lat": 33.6965128,
+        "lng": -118.0451372,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg/330px-Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Tropical Kingbird",
+        "sciName": "Tyrannus melancholicus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-10-09 08:42",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Tropical_kingbird_%28Tyrannus_melancholicus%29.JPG/330px-Tropical_kingbird_%28Tyrannus_melancholicus%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pacific Golden-Plover",
+        "sciName": "Pluvialis fulva",
+        "location": "Bolsa Chica Inner Bay, Huntington Beach US-CA (33.6961,-118.0457)",
+        "date": "2026-10-09 07:56",
+        "count": 1,
+        "lat": 33.696131,
+        "lng": -118.045672,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg/330px-Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pacific Golden-Plover",
+        "sciName": "Pluvialis fulva",
+        "location": "Bolsa Chica Inner Bay, Huntington Beach US-CA (33.6961,-118.0457)",
+        "date": "2026-10-09 07:56",
+        "count": 1,
+        "lat": 33.696131,
+        "lng": -118.045672,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg/330px-Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pacific Golden-Plover",
+        "sciName": "Pluvialis fulva",
+        "location": "Bolsa Chica Inner Bay, Huntington Beach US-CA (33.6961,-118.0457)",
+        "date": "2026-10-09 07:56",
+        "count": 1,
+        "lat": 33.696131,
+        "lng": -118.045672,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg/330px-Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
       {
         "species": "Tennessee Warbler",
         "sciName": "Leiothlypis peregrina",
@@ -749,6 +855,17 @@
         "lng": -117.824378,
         "notable": true,
         "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Leiothlypis_peregrina_Malus_sp_JRVdH_01.jpg/330px-Leiothlypis_peregrina_Malus_sp_JRVdH_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pacific Golden-Plover",
+        "sciName": "Pluvialis fulva",
+        "location": "Bolsa Chica--walkbridge/inner bay",
+        "date": "2026-10-09 07:04",
+        "count": 1,
+        "lat": 33.6965128,
+        "lng": -118.0451372,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg/330px-Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Bald Eagle",
@@ -771,109 +888,10 @@
         "lng": -118.050735,
         "notable": true,
         "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg/330px-Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Pacific Golden-Plover",
-        "sciName": "Pluvialis fulva",
-        "location": "Bolsa Chica Ecological Reserve",
-        "date": "2026-10-08 11:07",
-        "count": 1,
-        "lat": 33.7026531,
-        "lng": -118.050735,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg/330px-Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Bald Eagle",
-        "sciName": "Haliaeetus leucocephalus",
-        "location": "Huntington Central Park--East",
-        "date": "2026-10-08 08:19",
-        "count": 1,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/330px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Bald Eagle",
-        "sciName": "Haliaeetus leucocephalus",
-        "location": "Huntington Central Park--East",
-        "date": "2026-10-08 08:15",
-        "count": 1,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/330px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Bald Eagle",
-        "sciName": "Haliaeetus leucocephalus",
-        "location": "Huntington Central Park--East",
-        "date": "2026-10-08 08:09",
-        "count": 1,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/330px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Bald Eagle",
-        "sciName": "Haliaeetus leucocephalus",
-        "location": "Huntington Central Park--East",
-        "date": "2026-10-08 08:06",
-        "count": 1,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/330px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Bald Eagle",
-        "sciName": "Haliaeetus leucocephalus",
-        "location": "Huntington Central Park--East",
-        "date": "2026-10-08 08:03",
-        "count": 1,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/330px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Bald Eagle",
-        "sciName": "Haliaeetus leucocephalus",
-        "location": "Huntington Central Park--East",
-        "date": "2026-10-08 08:02",
-        "count": 1,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/330px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Neotropic Cormorant",
-        "sciName": "Nannopterum brasilianum",
-        "location": "Bolsa Chica--Brightwater area",
-        "date": "2026-10-08 07:57",
-        "count": 1,
-        "lat": 33.7074915,
-        "lng": -118.0453974,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Neotropic_cormorant_%28Nannopterum_brasilianum_mexicanum%29_Peten.jpg/330px-Neotropic_cormorant_%28Nannopterum_brasilianum_mexicanum%29_Peten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Pacific Golden-Plover",
-        "sciName": "Pluvialis fulva",
-        "location": "Bolsa Chica Ecological Reserve, Huntington Beach US-CA 33.69855, -118.04786",
-        "date": "2026-10-08 07:53",
-        "count": 1,
-        "lat": 33.698549,
-        "lng": -118.04786,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg/330px-Pluvialis_fulva_-Bering_Land_Bridge_National_Preserve%2C_Alaska%2C_USA-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-10-09T18:38:17.248Z",
+    "lastBirdUpdate": "2026-10-10T17:37:49.383Z",
     "source": "eBird · Cornell Lab of Ornithology",
     "signatureSpecies": [
       {
@@ -913,5 +931,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-09T18:38:17.248Z"
+  "lastUpdated": "2026-10-10T17:37:49.383Z"
 }
