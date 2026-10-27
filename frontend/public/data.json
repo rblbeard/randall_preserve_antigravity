@@ -1,6 +1,15 @@
 {
   "feed": [
     {
+      "id": "randall-preserve-remediation-timeline-update-oct2026",
+      "category": "OFFICIAL",
+      "date": "October 15, 2026",
+      "title": "Randall Preserve Oil Remediation Now Expected to Conclude by 2027",
+      "summary": "Cleanup operations at the Randall Preserve, formerly known as Banning Ranch, are now projected to be completed by 2027. This update indicates a revised timeline for the remediation of oil infrastructure on the 387-acre coastal site, which began in 2022.",
+      "source": "Hoodline",
+      "sentiment": "NEUTRAL"
+    },
+    {
       "id": "rp-gw-cleanup-oct23-2026",
       "category": "OFFICIAL",
       "date": "October 23, 2026",
@@ -1010,6 +1019,83 @@
     ],
     "notableSightings": [
       {
+        "species": "Black-chinned Hummingbird",
+        "sciName": "Archilochus alexandri",
+        "location": "Bolsa Chica Ecological Reserve, Huntington Beach US-CA 33.69592, -118.04623",
+        "date": "2026-10-27 08:32",
+        "count": 1,
+        "lat": 33.695922,
+        "lng": -118.046228,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Black-chinned_hummingbird.jpg/330px-Black-chinned_hummingbird.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Western Marsh Wren",
+        "sciName": "Cistothorus paludicola",
+        "location": "Santa Ana River--Hamilton Ave. to Adams Ave.",
+        "date": "2026-10-27 07:41",
+        "count": 1,
+        "lat": 33.6608532,
+        "lng": -117.9482746,
+        "notable": true,
+        "imageUrl": null
+      },
+      {
+        "species": "Western Warbling Vireo",
+        "sciName": "Vireo swainsoni",
+        "location": "Huntington Central Park--East",
+        "date": "2026-10-26 13:00",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Warbling_vireo_%2882141%29.jpg/330px-Warbling_vireo_%2882141%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Western Marsh Wren",
+        "sciName": "Cistothorus paludicola",
+        "location": "San Joaquin Marsh and Wildlife Sanctuary, Irvine US-CA 33.66073, -117.84105",
+        "date": "2026-10-26 12:14",
+        "count": 1,
+        "lat": 33.660727,
+        "lng": -117.841053,
+        "notable": true,
+        "imageUrl": null
+      },
+      {
+        "species": "American Redstart",
+        "sciName": "Setophaga ruticilla",
+        "location": "Tustin Legacy Park",
+        "date": "2026-10-26 11:10",
+        "count": 1,
+        "lat": 33.7055458,
+        "lng": -117.8409781,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/American_redstart_in_JBWR_%2824754%29.jpg/330px-American_redstart_in_JBWR_%2824754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "American Redstart",
+        "sciName": "Setophaga ruticilla",
+        "location": "Huntington Central Park--East",
+        "date": "2026-10-26 09:36",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/American_redstart_in_JBWR_%2824754%29.jpg/330px-American_redstart_in_JBWR_%2824754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "American Redstart",
+        "sciName": "Setophaga ruticilla",
+        "location": "Huntington Central Park--East",
+        "date": "2026-10-26 09:36",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/American_redstart_in_JBWR_%2824754%29.jpg/330px-American_redstart_in_JBWR_%2824754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
         "species": "American Redstart",
         "sciName": "Setophaga ruticilla",
         "location": "Huntington Central Park--East",
@@ -1043,107 +1129,30 @@
         "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/American_redstart_in_JBWR_%2824754%29.jpg/330px-American_redstart_in_JBWR_%2824754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "American Redstart",
-        "sciName": "Setophaga ruticilla",
-        "location": "Tustin Legacy Park",
-        "date": "2026-10-26 01:48",
-        "count": 1,
-        "lat": 33.7055458,
-        "lng": -117.8409781,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/American_redstart_in_JBWR_%2824754%29.jpg/330px-American_redstart_in_JBWR_%2824754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Western Cattle-Egret",
-        "sciName": "Ardea ibis",
-        "location": "Arevalos Park",
-        "date": "2026-10-25 16:22",
-        "count": 3,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": true,
-        "imageUrl": null
-      },
-      {
-        "species": "Western Cattle-Egret",
-        "sciName": "Ardea ibis",
-        "location": "Arevalos Park",
-        "date": "2026-10-25 16:22",
-        "count": 3,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": true,
-        "imageUrl": null
-      },
-      {
-        "species": "American Redstart",
-        "sciName": "Setophaga ruticilla",
-        "location": "Tustin Legacy Park",
-        "date": "2026-10-25 15:10",
-        "count": 1,
-        "lat": 33.7055458,
-        "lng": -117.8409781,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/American_redstart_in_JBWR_%2824754%29.jpg/330px-American_redstart_in_JBWR_%2824754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "American Redstart",
-        "sciName": "Setophaga ruticilla",
-        "location": "Tustin Legacy Park",
-        "date": "2026-10-25 11:52",
-        "count": 1,
-        "lat": 33.7055458,
-        "lng": -117.8409781,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/American_redstart_in_JBWR_%2824754%29.jpg/330px-American_redstart_in_JBWR_%2824754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "American Redstart",
-        "sciName": "Setophaga ruticilla",
-        "location": "Tustin Legacy Park",
-        "date": "2026-10-25 11:52",
-        "count": 1,
-        "lat": 33.7055458,
-        "lng": -117.8409781,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/American_redstart_in_JBWR_%2824754%29.jpg/330px-American_redstart_in_JBWR_%2824754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
         "species": "Tropical Kingbird",
         "sciName": "Tyrannus melancholicus",
-        "location": "Bolsa Chica--Brightwater area",
-        "date": "2026-10-25 10:50",
+        "location": "Upper Newport Bay Nature Preserve--Muth Interpretive Center area",
+        "date": "2026-10-26 08:00",
         "count": 1,
-        "lat": 33.7074915,
-        "lng": -118.0453974,
+        "lat": 33.6529275,
+        "lng": -117.8849691,
         "notable": true,
         "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Tropical_kingbird_%28Tyrannus_melancholicus%29.JPG/330px-Tropical_kingbird_%28Tyrannus_melancholicus%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
-        "species": "Tropical Kingbird",
-        "sciName": "Tyrannus melancholicus",
-        "location": "Bolsa Chica--Brightwater area",
-        "date": "2026-10-25 10:50",
-        "count": 1,
-        "lat": 33.7074915,
-        "lng": -118.0453974,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Tropical_kingbird_%28Tyrannus_melancholicus%29.JPG/330px-Tropical_kingbird_%28Tyrannus_melancholicus%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Chestnut-sided Warbler",
-        "sciName": "Setophaga pensylvanica",
+        "species": "American Redstart",
+        "sciName": "Setophaga ruticilla",
         "location": "Huntington Central Park--East",
-        "date": "2026-10-25 10:39",
+        "date": "2026-10-26 07:46",
         "count": 1,
         "lat": 33.7040978,
         "lng": -118.0022383,
         "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Dendroica-pensylvanica-003.jpg/330px-Dendroica-pensylvanica-003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/American_redstart_in_JBWR_%2824754%29.jpg/330px-American_redstart_in_JBWR_%2824754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-10-26T19:00:40.260Z",
+    "lastBirdUpdate": "2026-10-27T18:32:28.643Z",
     "source": "eBird · Cornell Lab of Ornithology",
     "signatureSpecies": [
       {
@@ -1183,5 +1192,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-26T19:00:40.260Z"
+  "lastUpdated": "2026-10-27T18:32:28.643Z"
 }
