@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "id": "rpw-20261023-wb-groundwater",
+      "category": "OFFICIAL",
+      "date": "October 23, 2026",
+      "title": "Water Board Details Randall Preserve Groundwater Contamination Investigations and Cleanup Progress",
+      "summary": "The California Water Boards' October 23rd report revealed that additional investigations into the Alpha and Beta Aquifers were conducted in FY 2025-2026 to understand contamination spread, leading to the installation of new monitoring wells. This data will inform the next phase of cleanup, including a groundwater containment system. Furthermore, soil cleanup has been completed in 10 of the 27 identified areas of concern at the former oil field.",
+      "source": "California Water Boards",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "id": "rpw-20261021-nb-kingtides",
+      "category": "LOCAL",
+      "date": "October 21, 2026",
+      "title": "Newport Beach Declares New Local Emergency Due to King Tides, Allocates $1.5M for Sand Relocation",
+      "summary": "Newport Beach has declared a second local emergency this month, citing upcoming king tides as the cause for concern following recent coastal flooding. The city has committed $1.5 million to fund the relocation of sand from the Santa Ana River to restore eroded beaches on its west end.",
+      "source": "LA Times",
+      "sentiment": "NEGATIVE"
+    },
+    {
       "id": "RP_Phased_Access_Tours_Oct23_2026",
       "category": "OFFICIAL",
       "date": "October 23, 2026",
@@ -780,6 +798,116 @@
   "birds": {
     "recentSightings": [
       {
+        "species": "Rock Pigeon",
+        "sciName": "Columba livia",
+        "location": "Huntington Beach SP",
+        "date": "2026-10-30 12:22",
+        "count": 1,
+        "lat": 33.6380643,
+        "lng": -117.9726387,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/330px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Sanderling",
+        "sciName": "Calidris alba",
+        "location": "Huntington Beach SP",
+        "date": "2026-10-30 12:22",
+        "count": 7,
+        "lat": 33.6380643,
+        "lng": -117.9726387,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sanderling_%28Calidris_alba%29_in_Breeding_Plumage_in_the_Delaware_Bay_-_Heislerville_WMA_-_Cumberland_County_-_New_Jersey_-_May_2026.jpg/330px-Sanderling_%28Calidris_alba%29_in_Breeding_Plumage_in_the_Delaware_Bay_-_Heislerville_WMA_-_Cumberland_County_-_New_Jersey_-_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Heermann's Gull",
+        "sciName": "Larus heermanni",
+        "location": "Huntington Beach SP",
+        "date": "2026-10-30 12:22",
+        "count": 3,
+        "lat": 33.6380643,
+        "lng": -117.9726387,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Larus_heermanni13.JPG/330px-Larus_heermanni13.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Western Gull",
+        "sciName": "Larus occidentalis",
+        "location": "Huntington Beach SP",
+        "date": "2026-10-30 12:22",
+        "count": null,
+        "lat": 33.6380643,
+        "lng": -117.9726387,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg/330px-Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Royal Tern",
+        "sciName": "Thalasseus maximus",
+        "location": "Huntington Beach SP",
+        "date": "2026-10-30 12:22",
+        "count": 2,
+        "lat": 33.6380643,
+        "lng": -117.9726387,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Royal_Tern.jpg/330px-Royal_Tern.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Brown Pelican",
+        "sciName": "Pelecanus occidentalis",
+        "location": "Huntington Beach SP",
+        "date": "2026-10-30 12:22",
+        "count": 3,
+        "lat": 33.6380643,
+        "lng": -117.9726387,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Brown_pelican_in_flight_%28Bodega_Bay%29.jpg/330px-Brown_pelican_in_flight_%28Bodega_Bay%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Snowy Plover",
+        "sciName": "Anarhynchus nivosus",
+        "location": "Huntington State Beach, Huntington Beach US-CA 33.63275, -117.96454",
+        "date": "2026-10-30 09:56",
+        "count": 6,
+        "lat": 33.632747,
+        "lng": -117.964536,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Snowy_Plover_Morro_Strand.jpg/330px-Snowy_Plover_Morro_Strand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Ring-billed Gull",
+        "sciName": "Larus delawarensis",
+        "location": "Huntington State Beach, Huntington Beach US-CA 33.63275, -117.96454",
+        "date": "2026-10-30 09:56",
+        "count": 2,
+        "lat": 33.632747,
+        "lng": -117.964536,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Larus-delawarensis-021.jpg/330px-Larus-delawarensis-021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "California Gull",
+        "sciName": "Larus californicus",
+        "location": "Huntington State Beach, Huntington Beach US-CA 33.63275, -117.96454",
+        "date": "2026-10-30 09:56",
+        "count": 5,
+        "lat": 33.632747,
+        "lng": -117.964536,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/CaliforniaGull.jpg/330px-CaliforniaGull.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Forster's Tern",
+        "sciName": "Sterna forsteri",
+        "location": "Huntington State Beach, Huntington Beach US-CA 33.63275, -117.96454",
+        "date": "2026-10-30 09:56",
+        "count": 1,
+        "lat": 33.632747,
+        "lng": -117.964536,
+        "notable": false,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Forster%27s_Tern%2C_Horicon_NWR%2C_Wisconsin.jpg/330px-Forster%27s_Tern%2C_Horicon_NWR%2C_Wisconsin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
         "species": "Common Murre",
         "sciName": "Uria aalge",
         "location": "Santa Ana River Jetties, Newport Beach US-CA 33.62609, -117.95160",
@@ -932,119 +1060,64 @@
         "lng": -117.9452166,
         "notable": false,
         "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/American_coot_in_Prospect_Park_%2806152%29.jpg/330px-American_coot_in_Prospect_Park_%2806152%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Black-necked Stilt",
-        "sciName": "Himantopus mexicanus",
-        "location": "Arevalos Park",
-        "date": "2026-10-30 07:25",
-        "count": 17,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Black-necked_Stilt_%28Himantopus_mexicanus%29%2C_Corte_Madera.jpg/330px-Black-necked_Stilt_%28Himantopus_mexicanus%29%2C_Corte_Madera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Killdeer",
-        "sciName": "Charadrius vociferus",
-        "location": "Arevalos Park",
-        "date": "2026-10-30 07:25",
-        "count": 8,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Killdeer_Heislerville.png/330px-Killdeer_Heislerville.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Long-billed Dowitcher",
-        "sciName": "Limnodromus scolopaceus",
-        "location": "Arevalos Park",
-        "date": "2026-10-30 07:25",
-        "count": 60,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Limnodromus_scolopaceus_Mike_Baird_crop.jpg/330px-Limnodromus_scolopaceus_Mike_Baird_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Wilson's Snipe",
-        "sciName": "Gallinago delicata",
-        "location": "Arevalos Park",
-        "date": "2026-10-30 07:25",
-        "count": 4,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Gallinago-delicata-002-cropped.jpg/330px-Gallinago-delicata-002-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Spotted Sandpiper",
-        "sciName": "Actitis macularius",
-        "location": "Arevalos Park",
-        "date": "2026-10-30 07:25",
-        "count": 3,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Actitis-macularia-005.jpg/330px-Actitis-macularia-005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Prairie Willet",
-        "sciName": "Tringa inornata",
-        "location": "Arevalos Park",
-        "date": "2026-10-30 07:25",
-        "count": 4,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": null
-      },
-      {
-        "species": "Greater Yellowlegs",
-        "sciName": "Tringa melanoleuca",
-        "location": "Arevalos Park",
-        "date": "2026-10-30 07:25",
-        "count": 10,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png/330px-Greater_yellowlegs_%28Tringa_melanoleuca%29_foraging_at_Huntley_Meadows%2C_Alexandria%2C_Virginia%2C_USA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Least Sandpiper",
-        "sciName": "Calidris minutilla",
-        "location": "Arevalos Park",
-        "date": "2026-10-30 07:25",
-        "count": 100,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Least_Sandpiper_Foraging.png/330px-Least_Sandpiper_Foraging.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Western Sandpiper",
-        "sciName": "Calidris mauri",
-        "location": "Arevalos Park",
-        "date": "2026-10-30 07:25",
-        "count": 50,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Western_Sandpiper.jpg/330px-Western_Sandpiper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Ring-billed Gull",
-        "sciName": "Larus delawarensis",
-        "location": "Arevalos Park",
-        "date": "2026-10-30 07:25",
-        "count": 1,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": false,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Larus-delawarensis-021.jpg/330px-Larus-delawarensis-021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       }
     ],
     "notableSightings": [
+      {
+        "species": "White-throated Sparrow",
+        "sciName": "Zonotrichia albicollis",
+        "location": "IRWD San Joaquin Marsh & Wildlife Sanctuary",
+        "date": "2026-10-31 07:19",
+        "count": 1,
+        "lat": 33.6637274,
+        "lng": -117.8426814,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Zonotrichia_albicollis_CT1.jpg/330px-Zonotrichia_albicollis_CT1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pine Warbler",
+        "sciName": "Setophaga pinus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-10-30 16:30",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pine_warbler_%2890070%29.jpg/330px-Pine_warbler_%2890070%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Clay-colored Sparrow",
+        "sciName": "Spizella pallida",
+        "location": "Tustin Legacy Park",
+        "date": "2026-10-30 13:30",
+        "count": 1,
+        "lat": 33.7055458,
+        "lng": -117.8409781,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Spizella_pallida4_edit.jpg/330px-Spizella_pallida4_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Savannah Sparrow (Large-billed)",
+        "sciName": "Passerculus sandwichensis",
+        "location": "Bolsa Chica--walkbridge/inner bay",
+        "date": "2026-10-30 11:23",
+        "count": 1,
+        "lat": 33.6965128,
+        "lng": -118.0451372,
+        "notable": true,
+        "imageUrl": null
+      },
+      {
+        "species": "Savannah Sparrow (Large-billed)",
+        "sciName": "Passerculus sandwichensis",
+        "location": "Bolsa Chica--walkbridge/inner bay",
+        "date": "2026-10-30 10:06",
+        "count": 2,
+        "lat": 33.6965128,
+        "lng": -118.0451372,
+        "notable": true,
+        "imageUrl": null
+      },
       {
         "species": "Swamp Sparrow",
         "sciName": "Melospiza georgiana",
@@ -1055,6 +1128,28 @@
         "lng": -117.8437141,
         "notable": true,
         "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Melospiza_georgiana_MP_01%2C_crop.jpg/330px-Melospiza_georgiana_MP_01%2C_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Western Marsh Wren",
+        "sciName": "Cistothorus paludicola",
+        "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
+        "date": "2026-10-30 07:06",
+        "count": 2,
+        "lat": 33.6609892,
+        "lng": -117.8437141,
+        "notable": true,
+        "imageUrl": null
+      },
+      {
+        "species": "Western Marsh Wren",
+        "sciName": "Cistothorus paludicola",
+        "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
+        "date": "2026-10-30 07:06",
+        "count": 2,
+        "lat": 33.6609892,
+        "lng": -117.8437141,
+        "notable": true,
+        "imageUrl": null
       },
       {
         "species": "Bald Eagle",
@@ -1099,87 +1194,10 @@
         "lng": -118.0451372,
         "notable": true,
         "imageUrl": null
-      },
-      {
-        "species": "Western Marsh Wren",
-        "sciName": "Cistothorus paludicola",
-        "location": "Bolsa Chica--walkbridge/inner bay",
-        "date": "2026-10-29 08:09",
-        "count": 1,
-        "lat": 33.6965128,
-        "lng": -118.0451372,
-        "notable": true,
-        "imageUrl": null
-      },
-      {
-        "species": "Western Marsh Wren",
-        "sciName": "Cistothorus paludicola",
-        "location": "Bolsa Chica--walkbridge/inner bay",
-        "date": "2026-10-29 08:06",
-        "count": 1,
-        "lat": 33.6965128,
-        "lng": -118.0451372,
-        "notable": true,
-        "imageUrl": null
-      },
-      {
-        "species": "Savannah Sparrow (Large-billed)",
-        "sciName": "Passerculus sandwichensis",
-        "location": "Bolsa Chica--walkbridge/inner bay",
-        "date": "2026-10-29 08:06",
-        "count": 1,
-        "lat": 33.6965128,
-        "lng": -118.0451372,
-        "notable": true,
-        "imageUrl": null
-      },
-      {
-        "species": "Western Marsh Wren",
-        "sciName": "Cistothorus paludicola",
-        "location": "Arevalos Park",
-        "date": "2026-10-29 07:31",
-        "count": 1,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": true,
-        "imageUrl": null
-      },
-      {
-        "species": "Western Marsh Wren",
-        "sciName": "Cistothorus paludicola",
-        "location": "Arevalos Park",
-        "date": "2026-10-29 07:31",
-        "count": 1,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": true,
-        "imageUrl": null
-      },
-      {
-        "species": "Western Marsh Wren",
-        "sciName": "Cistothorus paludicola",
-        "location": "Arevalos Park",
-        "date": "2026-10-29 07:31",
-        "count": 1,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": true,
-        "imageUrl": null
-      },
-      {
-        "species": "Western Marsh Wren",
-        "sciName": "Cistothorus paludicola",
-        "location": "Arevalos Park",
-        "date": "2026-10-29 07:31",
-        "count": 1,
-        "lat": 33.6767097,
-        "lng": -117.9452166,
-        "notable": true,
-        "imageUrl": null
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-10-30T18:24:32.665Z",
+    "lastBirdUpdate": "2026-10-31T17:30:00.200Z",
     "source": "eBird · Cornell Lab of Ornithology",
     "signatureSpecies": [
       {
@@ -1219,5 +1237,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-30T18:24:32.665Z"
+  "lastUpdated": "2026-10-31T17:30:00.200Z"
 }
