@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@google/genai": "^1.44.0",
+    "@google/genai": "^2.32.0",
     "dotenv": "^17.3.1",
     "simple-git": "^3.32.3",
     "zod": "^4.3.6"
