@@ -336,9 +336,14 @@ async function main() {
         await updateGit();
         
         if (feedError) {
+            // Birds + data.json are saved and pushed; let the site still deploy.
+            // The workflow flags the news failure in a final step after deploy.
             console.error("Finished, but the news feed was NOT updated (see error above).");
-            process.exit(1);
+            console.log(`::warning title=News feed not updated::${String(feedError.message).slice(0, 300)}`);
+            if (process.env.GITHUB_OUTPUT) fs.appendFileSync(process.env.GITHUB_OUTPUT, "news_ok=false\n");
+            return;
         }
+        if (process.env.GITHUB_OUTPUT) fs.appendFileSync(process.env.GITHUB_OUTPUT, "news_ok=true\n");
         console.log("Cron job finished successfully.");
     } catch (error) {
         console.error("Generator job failed:", error);
