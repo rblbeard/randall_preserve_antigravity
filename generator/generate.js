@@ -131,7 +131,7 @@ ${existingTitles}
         console.log("Sending request to Gemini API via @google/genai SDK (with Google Search Grounding)...");
         const ai = new GoogleGenAI({ apiKey: API_KEY });
         const response = await ai.models.generateContent({
-            model: 'gemini-2.5-flash',
+            model: process.env.GEMINI_MODEL || 'gemini-3.8-flash',
             contents: prompt,
             config: {
                 tools: [{ googleSearch: {} }]
