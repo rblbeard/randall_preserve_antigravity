@@ -40,6 +40,7 @@ jobs:
         working-directory: ./generator
 
       - name: Run intelligence generator (Gemini + web search)
+        id: gen
         run: node generate.js
         working-directory: ./generator
         env:
@@ -65,3 +66,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Flag news feed failure (birds and site were still published)
+        if: steps.gen.outputs.news_ok == 'false'
+        run: |
+          echo "::error title=News feed not updated::Gemini news update failed (see the generator step). Birds and the site were still published."
+          exit 1
