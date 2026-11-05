@@ -1,6 +1,33 @@
 {
   "feed": [
     {
+      "id": "cca-october-2026-newsletter-release",
+      "category": "OFFICIAL",
+      "date": "October 22, 2026",
+      "title": "Coastal Corridor Alliance Releases October 2026 Randall Preserve Newsletter",
+      "summary": "The Coastal Corridor Alliance published its October 2026 newsletter celebrating milestone planning progress achieved in partnership with the Mountains Recreation and Conservation Authority (MRCA). The bilingual edition highlights the roadmap toward future passive public access and updates community members on site remediation and long-term stewardship plans. Conservation leaders emphasized the collaborative progress transitioning the property from initial visioning toward active restoration.",
+      "source": "Coastal Corridor Alliance",
+      "sentiment": "POSITIVE"
+    },
+    {
+      "id": "cca-storm-damage-cancellations-oct-2026",
+      "category": "LOCAL",
+      "date": "October 24, 2026",
+      "title": "Coastal Storm Damage Forces Cancellation of Santa Ana River Mouth Cleanups",
+      "summary": "The Coastal Corridor Alliance announced the cancellation of its fourth Saturday Beach and River Mouth Cleanup scheduled at Newport Beach Lifeguard Tower 74 due to coastal storm damage. Rain and severe storm impacts along the shoreline also prompted organizers to cancel scheduled habitat restoration workdays at nearby Fairview Park. The Alliance notified volunteers that field activities would resume once storm impacts along the river mouth corridor subside.",
+      "source": "Coastal Corridor Alliance",
+      "sentiment": "NEGATIVE"
+    },
+    {
+      "id": "cnps-enc-development-appeal-hearing-oct-2026",
+      "category": "LOCAL",
+      "date": "October 14, 2026",
+      "title": "Newport Beach City Council Schedules Appeal Hearing on Development Near Environmental Nature Center",
+      "summary": "The California Native Plant Society Orange County Chapter announced that the Newport Beach City Council will hold an appeal hearing on November 17, 2026, regarding a proposed residential development adjacent to the Environmental Nature Center. Local conservation advocates are actively rallying public comments to prevent habitat degradation and runoff issues adjacent to protected open spaces. The review forms part of ongoing regional conservation scrutiny across sensitive coastal parcels in Newport Beach.",
+      "source": "California Native Plant Society Orange County Chapter",
+      "sentiment": "NEUTRAL"
+    },
+    {
       "id": "gt_towhee_sighting_20261102",
       "category": "LOCAL",
       "date": "November 02, 2026",
@@ -1215,8 +1242,8 @@
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-11-05T14:22:06.878Z",
+    "lastBirdUpdate": "2026-11-05T14:25:01.856Z",
     "source": "eBird · Cornell Lab of Ornithology"
   },
-  "lastUpdated": "2026-11-05T14:22:06.878Z"
+  "lastUpdated": "2026-11-05T14:25:01.856Z"
 }
