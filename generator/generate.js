@@ -300,7 +300,7 @@ async function main() {
         // In a real environment, you'd fetch latest news or scrape here before passing to LLM
         // For demonstration, we just ask the LLM to invent a plausible update based on context
         let updatedData = data;
-        let feedError = null;
+        let feedError = process.env.GEMINI_API_KEY ? null : new Error("GEMINI_API_KEY is empty or missing - news feed skipped");
         if (process.env.GEMINI_API_KEY) {
             try {
                 updatedData = await generateUpdates(data);
