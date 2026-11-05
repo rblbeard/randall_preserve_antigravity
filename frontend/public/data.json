@@ -1215,45 +1215,8 @@
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-11-05T13:59:31.558Z",
-    "source": "eBird · Cornell Lab of Ornithology",
-    "signatureSpecies": [
-      {
-        "name": "California Gnatcatcher",
-        "note": "Federally threatened songbird of coastal sage scrub.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/California_Gnatcatcher.jpg/330px-California_Gnatcatcher.jpg"
-      },
-      {
-        "name": "Coastal Cactus Wren",
-        "note": "Declining species dependent on cactus-rich scrub.",
-        "imageUrl": null
-      },
-      {
-        "name": "California Least Tern",
-        "note": "Endangered seabird that nests on open coastal ground.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sternula_antillarum_browni%2C_San_Luis_Obispo%2C_California_1.jpg/330px-Sternula_antillarum_browni%2C_San_Luis_Obispo%2C_California_1.jpg"
-      },
-      {
-        "name": "Burrowing Owl",
-        "note": "Ground-dwelling owl of California Species of Special Concern.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Southern_burrowing_owl_%28Athene_cunicularia_cunicularia%29_Colonia.jpg/330px-Southern_burrowing_owl_%28Athene_cunicularia_cunicularia%29_Colonia.jpg"
-      },
-      {
-        "name": "Least Bell's Vireo",
-        "note": "Endangered riparian songbird of streamside willows.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bell%27s_Vireo_-_17504639703.jpg/330px-Bell%27s_Vireo_-_17504639703.jpg"
-      },
-      {
-        "name": "Belding's Savannah Sparrow",
-        "note": "Endangered sparrow of coastal salt marsh.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Passerculus_sandwichensis_crop.jpg/330px-Passerculus_sandwichensis_crop.jpg"
-      },
-      {
-        "name": "San Diego Fairy Shrimp",
-        "note": "Endangered crustacean of seasonal vernal pools.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Branchinecta_sandiegonensis.jpg/330px-Branchinecta_sandiegonensis.jpg"
-      }
-    ]
+    "lastBirdUpdate": "2026-11-05T14:12:03.149Z",
+    "source": "eBird · Cornell Lab of Ornithology"
   },
-  "lastUpdated": "2026-11-05T13:59:31.558Z"
+  "lastUpdated": "2026-11-05T14:12:03.149Z"
 }
