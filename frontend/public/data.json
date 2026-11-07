@@ -1154,6 +1154,72 @@
     ],
     "notableSightings": [
       {
+        "species": "Brown Creeper",
+        "sciName": "Certhia americana",
+        "location": "Newport",
+        "date": "2026-11-06 12:25",
+        "count": 1,
+        "lat": 33.582814,
+        "lng": -117.84341,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Brown_creeper_%28Certhia_americana%29_in_Center_City%2C_Philadelphia%2C_PA%2C_USA.png/330px-Brown_creeper_%28Certhia_americana%29_in_Center_City%2C_Philadelphia%2C_PA%2C_USA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pine Warbler",
+        "sciName": "Setophaga pinus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-11-06 11:42",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pine_warbler_%2890070%29.jpg/330px-Pine_warbler_%2890070%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Gadwall x Mallard (hybrid)",
+        "sciName": "Mareca strepera x Anas platyrhynchos",
+        "location": "Huntington Central Park--East",
+        "date": "2026-11-06 11:42",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": null
+      },
+      {
+        "species": "Mountain Chickadee",
+        "sciName": "Poecile gambeli",
+        "location": "Newport",
+        "date": "2026-11-06 11:15",
+        "count": 3,
+        "lat": 33.582814,
+        "lng": -117.84341,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Mountain_Chickadee_Sandia_Mountains.jpg/330px-Mountain_Chickadee_Sandia_Mountains.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pine Warbler",
+        "sciName": "Setophaga pinus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-11-06 09:30",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pine_warbler_%2890070%29.jpg/330px-Pine_warbler_%2890070%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
+        "species": "Pine Warbler",
+        "sciName": "Setophaga pinus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-11-06 08:19",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pine_warbler_%2890070%29.jpg/330px-Pine_warbler_%2890070%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+      },
+      {
         "species": "Western Marsh Wren",
         "sciName": "Cistothorus paludicola",
         "location": "San Joaquin WS - Pond 2",
@@ -1163,6 +1229,28 @@
         "lng": -117.8463078,
         "notable": true,
         "imageUrl": null
+      },
+      {
+        "species": "Western Marsh Wren",
+        "sciName": "Cistothorus paludicola",
+        "location": "San Joaquin WS - Pond 2",
+        "date": "2026-11-06 07:24",
+        "count": 3,
+        "lat": 33.6583885,
+        "lng": -117.8463078,
+        "notable": true,
+        "imageUrl": null
+      },
+      {
+        "species": "Pine Warbler",
+        "sciName": "Setophaga pinus",
+        "location": "Huntington Central Park--East",
+        "date": "2026-11-06 06:30",
+        "count": 1,
+        "lat": 33.7040978,
+        "lng": -118.0022383,
+        "notable": true,
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pine_warbler_%2890070%29.jpg/330px-Pine_warbler_%2890070%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
       },
       {
         "species": "Western Marsh Wren",
@@ -1196,99 +1284,11 @@
         "lng": -118.0022383,
         "notable": true,
         "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pine_warbler_%2890070%29.jpg/330px-Pine_warbler_%2890070%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Ridgway's Rail",
-        "sciName": "Rallus obsoletus",
-        "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
-        "date": "2026-11-05 09:23",
-        "count": 1,
-        "lat": 33.6609892,
-        "lng": -117.8437141,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ridgway%27s_Rail_%2824515510911%29.jpg/330px-Ridgway%27s_Rail_%2824515510911%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Northern Parula",
-        "sciName": "Setophaga americana",
-        "location": "Huntington Central Park--East",
-        "date": "2026-11-05 08:58",
-        "count": 1,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/2014-05-21_Northern_Parula%2C_Shenandoah_NP%2C_Virginia_001200_07.jpg/330px-2014-05-21_Northern_Parula%2C_Shenandoah_NP%2C_Virginia_001200_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Western Flycatcher",
-        "sciName": "Empidonax difficilis",
-        "location": "Huntington Central Park--East",
-        "date": "2026-11-05 08:58",
-        "count": 1,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Empidonax_difficilis_1.jpg/330px-Empidonax_difficilis_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Tennessee Warbler",
-        "sciName": "Leiothlypis peregrina",
-        "location": "Huntington Central Park--East",
-        "date": "2026-11-05 08:31",
-        "count": 1,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Leiothlypis_peregrina_Malus_sp_JRVdH_01.jpg/330px-Leiothlypis_peregrina_Malus_sp_JRVdH_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Pine Warbler",
-        "sciName": "Setophaga pinus",
-        "location": "Huntington Central Park--East",
-        "date": "2026-11-05 08:31",
-        "count": 1,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pine_warbler_%2890070%29.jpg/330px-Pine_warbler_%2890070%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Gadwall x Mallard (hybrid)",
-        "sciName": "Mareca strepera x Anas platyrhynchos",
-        "location": "Huntington Central Park--East",
-        "date": "2026-11-05 08:31",
-        "count": 1,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": null
-      },
-      {
-        "species": "Purple Finch",
-        "sciName": "Haemorhous purpureus",
-        "location": "Huntington Central Park--East",
-        "date": "2026-11-05 08:31",
-        "count": 3,
-        "lat": 33.7040978,
-        "lng": -118.0022383,
-        "notable": true,
-        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Carpodacus_purpureus_CT3.jpg/330px-Carpodacus_purpureus_CT3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-      },
-      {
-        "species": "Western Marsh Wren",
-        "sciName": "Cistothorus paludicola",
-        "location": "San Joaquin Wildlife Sanctuary--Fledgling Loop Trail",
-        "date": "2026-11-04 12:39",
-        "count": 1,
-        "lat": 33.6609892,
-        "lng": -117.8437141,
-        "notable": true,
-        "imageUrl": null
       }
     ],
     "speciesCount": 40,
-    "lastBirdUpdate": "2026-11-06T19:50:40.642Z",
+    "lastBirdUpdate": "2026-11-07T17:56:34.581Z",
     "source": "eBird · Cornell Lab of Ornithology"
   },
-  "lastUpdated": "2026-11-06T19:50:40.642Z"
+  "lastUpdated": "2026-11-07T17:56:34.581Z"
 }
